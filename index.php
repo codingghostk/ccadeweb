@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title>Home-1 | Marcho</title>
+		<title>Seguimiento Digital</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -47,7 +47,7 @@
         <header class="header">
             <div class="container clearfix">
                 <div class="header-right-info">
-                    <ul>
+<!--                     <ul>
                         <li>
                             <div class="single-header-right-info">
                                 <div class="icon-box"><i class="fa fa-map-marker"></i></div>
@@ -72,11 +72,11 @@
                                 </div>
                             </div>
                         </li>
-                    </ul>
+                    </ul> -->
                 </div>
                 <div class="header-left-info">
                     <div class="link">
-                        <a href="contact.html" class="thm-btn-inverse">book your room</a>
+                        <a href="contact.html" class="thm-btn-inverse">SEGUIMIENTO DIGITAL</a>
                     </div>
                 </div>
             </div>
@@ -87,7 +87,7 @@
             <nav id="main-navigation-wrapper" class="navbar navbar-default Marcho-navbar">
                 <div class="container">
                     <div class="float-left">
-                        <div class="logo pull-left"><a href="index.html"><img src="img/logo/logo.png" alt="Awesome Image"></a></div>
+                        <div class="logo pull-left"><a href="index.php"><img src="img/logo/logoccade.png" alt="Awesome Image"></a></div>
                     </div>
                     <div class="float-right">
                         <div class="navbar-header">
@@ -134,7 +134,7 @@
         <!-- MAin menu ends -->
 
         <!-- Start Slider section -->
-        <section class="slider-section">
+        <section class="slider-section" >
            <div class="slider-overly"></div>
             <div class="intro-carousel">
                 <div class="intro-content">
@@ -201,7 +201,7 @@
         <!-- End Slider section -->
 
         <!-- Start listing section -->
-        <section class="listing-search p-0">
+        <!-- <section class="listing-search p-0">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -257,17 +257,88 @@
                                         <div class="dk-select ht-field">
                                         <a href="#" id="listing-btn" class="listing-search__btn">Advanced Search</a>
                                         </div>
-                                    </div><!-- .col -->
+                                    </div>
                                 </div>
 
                             </div>
-                        </form><!-- .listing-search__form -->
+                        </form>
                     </div>
 
             </div>
             </div>
-        </section>
+        </section> -->
         <!-- End listing section -->
+
+
+        <!-- Start Request call section -->
+        <section class="request-call-bg sec-padding">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-5">
+                        <div class="info-box">
+                            <div class="sec-title">
+                                <h4>Request a Call Back</h4>
+                                <div class="decor-line"></div>
+                            </div>
+                            <div class="text">
+                                <p>Nullam dictum sodales diam, sed sagittis orci sollic.<br>Sed condimentum nisl a feugiat ullamcorper.</p>
+                                <div class="contact-info">
+                                    <div class="tel-box">
+                                        <div class="icon-box"><i class="fa fa-map-marker"></i></div>
+                                        <div class="text-box">
+                                            <p>42 Tailstoi Town 5248 MT, Wordwide Country</p>
+                                        </div>
+                                    </div>
+                                    <div class="tel-box">
+                                        <div class="icon-box"><i class="fa fa-phone"></i></div>
+                                        <div class="text-box">
+                                            <p>( 018) 65 524 8503  /  (125) 954 7854</p>
+                                        </div>
+                                    </div>
+                                    <div class="tel-box">
+                                        <div class="icon-box"><i class="fa fa-envelope"></i></div>
+                                        <div class="text-box">
+                                            <p><a href="#">contact@lamarena.com</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-7">
+                        <div class="request-call-form">
+                            <form id="request-call-form" action="#" method="POST" novalidate="novalidate">
+
+                                <div class="col-md-6">
+                                    <input id="name" type="text" placeholder="Name" name="name">
+                                    <input id="email" type="text" placeholder="Email" name="email">
+                                </div>
+                                <div class="col-md-6">
+                                    <input id="phone" type="text" placeholder="Phone" name="phone">
+                                    <input id="subject" type="text" placeholder="Subject" name="subject">
+                                </div>
+
+
+                                <div class="col-md-6">
+                                    <button type="submit" class="thm-btn">submit now</button>
+                                </div>
+
+
+
+                                <div class="col-md-12">
+                                    <div id="success"></div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!-- End Request Call -->
+
 
         <!-- Start welcome section -->
         <section class="welcome-section sec-padding">
@@ -686,7 +757,7 @@
 		</section>
 		<!-- End testimonials end -->
         <!-- Start Overview -->
-        <section class="our-overview sec-padding">
+       <!--  <section class="our-overview sec-padding">
                 <div class="container">
                   <div class="row">
                     <div class="col-md-6 col-sm-6">
@@ -716,10 +787,10 @@
                     </div>
                   </div>
                 </div>
-              </section>
+              </section> -->
         <!-- End Overview -->
         <!--Galery section Start-->
-        <section class="gallery">
+<!--         <section class="gallery">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
@@ -787,83 +858,16 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!--End of Galery section-->
 
 
-        <!-- Start Request call section -->
-        <section class="request-call-bg sec-padding">
-            <div class="container">
-                <div class="row">
 
-                    <div class="col-md-5">
-                        <div class="info-box">
-                            <div class="sec-title">
-                                <h4>Request a Call Back</h4>
-                                <div class="decor-line"></div>
-                            </div>
-                            <div class="text">
-                                <p>Nullam dictum sodales diam, sed sagittis orci sollic.<br>Sed condimentum nisl a feugiat ullamcorper.</p>
-                                <div class="contact-info">
-                                    <div class="tel-box">
-                                        <div class="icon-box"><i class="fa fa-map-marker"></i></div>
-                                        <div class="text-box">
-                                            <p>42 Tailstoi Town 5248 MT, Wordwide Country</p>
-                                        </div>
-                                    </div>
-                                    <div class="tel-box">
-                                        <div class="icon-box"><i class="fa fa-phone"></i></div>
-                                        <div class="text-box">
-                                            <p>( 018) 65 524 8503  /  (125) 954 7854</p>
-                                        </div>
-                                    </div>
-                                    <div class="tel-box">
-                                        <div class="icon-box"><i class="fa fa-envelope"></i></div>
-                                        <div class="text-box">
-                                            <p><a href="#">contact@lamarena.com</a></p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-7">
-                        <div class="request-call-form">
-                            <form id="request-call-form" action="#" method="POST" novalidate="novalidate">
-
-                                <div class="col-md-6">
-                                    <input id="name" type="text" placeholder="Name" name="name">
-                                    <input id="email" type="text" placeholder="Email" name="email">
-                                </div>
-                                <div class="col-md-6">
-                                    <input id="phone" type="text" placeholder="Phone" name="phone">
-                                    <input id="subject" type="text" placeholder="Subject" name="subject">
-                                </div>
-
-
-                                <div class="col-md-6">
-                                    <button type="submit" class="thm-btn">submit now</button>
-                                </div>
-
-
-
-                                <div class="col-md-12">
-                                    <div id="success"></div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-        <!-- End Request Call -->
 
 
         <!-- Start Footer bottom section -->
-        <footer class="footer sec-padding">
+<!--         <footer class="footer sec-padding">
                 <div class="container">
                   <div class="row">
                     <div class="col-md-6 col-sm-12 col-xs-12">
@@ -949,7 +953,7 @@
           
                   </div>
                 </div>
-              </footer>
+              </footer> -->
         <!-- End Footer bottom section -->
         <section class="footer-bottom">
                     <div class="container clearfix">
