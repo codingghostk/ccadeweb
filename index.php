@@ -95,34 +95,34 @@
                         </div>
                         <div id="main-navigation" class="collapse navbar-collapse">
                             <ul class="nav navbar-nav">
-                                <li class="dropdown"><a href="index.html">Home</a>
-                                    <ul class="dropdown-submenu">
+                                <li class="dropdown"><a href="index.html" style="font-size:10px">Modelo e ideología</a>
+                                    <!--<ul class="dropdown-submenu">
                                         <li><a href="index.html">Home One</a></li>
                                         <li><a href="index-2.html">Home Two</a></li>
                                         <li><a href="index-3.html">Home Three</a></li>
                                         <li><a href="index-4.html">Home Four</a></li>
                                         <li><a href="index-5.html">Home Five</a></li>
-                                    </ul>
+                                    </ul>-->
                                 </li>
-                                <li class="dropdown"><a href="about.html">about us</a>
+                                <li class="dropdown"><a href="about.html" style="font-size:10px">Capacitación</a>
 
                                 </li>
-                                <li class="dropdown"><a href="#">suits & rooms</a>
-                                <ul class="dropdown-submenu">
+                                <li class="dropdown"><a href="#" style="font-size:10px">Consultoria</a>
+                                <!--<ul class="dropdown-submenu">
                                     <li><a href="rooms.html">Room List</a></li>
                                     <li><a href="single_room.html">Single Room</a></li>
 
-                                </ul>
+                                </ul>-->
                             </li>
-                                <li class="dropdown"><a href="dining&bar.html">Dining & BAr</a></li>
-                                <li class="dropdown"><a href="offers.html">offers</a></li>
-                                <li class="dropdown"><a href="#">news</a>
-                                    <ul class="dropdown-submenu">
+                                <li class="dropdown"><a href="dining&bar.html" style="font-size:10px">Outdoor</a></li>
+                                <li class="dropdown"><a href="offers.html" style="font-size:10px">Alianzas</a></li>
+                                <li class="dropdown"><a href="#" style="font-size:10px">Socialmente responsalbe</a>
+                                    <!--<ul class="dropdown-submenu">
                                         <li><a href="news.html">News Standard</a></li>
                                         <li><a href="news-details.html">News Details</a></li>
-                                    </ul>
+                                    </ul>-->
                                 </li>
-                                <li><a href="contact.html">contact us</a></li>
+                                <li><a href="contact.html" style="font-size:10px">contacto</a></li>
                             </ul>
 
                         </div>
