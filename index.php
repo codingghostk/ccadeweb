@@ -139,7 +139,7 @@
             <div class="intro-carousel">
                 <div class="intro-content">
                     <div class="slider-images">
-                        <img src="img/slider/1.jpg" alt="">
+                        <img src="img/slider/56.png" alt="">
                     </div>
                     <div class="slider-content">
                         <div class="display-table">
@@ -168,7 +168,7 @@
                 </div>
                 <div class="intro-content">
                     <div class="slider-images">
-                        <img src="img/slider/2.jpg" alt="">
+                        <img src="img/slider/6.png" alt="">
                     </div>
                     <div class="slider-content">
                         <div class="display-table">
