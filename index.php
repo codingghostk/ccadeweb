@@ -87,7 +87,7 @@
             <nav id="main-navigation-wrapper" class="navbar navbar-default Marcho-navbar">
                 <div class="container">
                     <div class="float-left">
-                        <div class="logo pull-left"><a href="index.php"><img src="img/logo/logoccade.png" alt="Awesome Image"></a></div>
+                        <div class="logo pull-left"><a href="index.php"><img src="img/logo/3x8.5.png" alt="Ccade"></a></div>
                     </div>
                     <div class="float-right">
                         <div class="navbar-header">
