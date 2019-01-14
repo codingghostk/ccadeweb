@@ -46,11 +46,11 @@
 
         <div id="preloader"></div>
         <!-- Main menu -->
-        <section class="main-menu-three finance-navbar">
+        <section class="main-menu-one finance-navbar">
             <nav id="main-navigation-wrapper" class="navbar navbar-default Marcho-navbar">
                 <div class="container">
                     <div class="float-left">
-                        <div class="logo pull-left"><a href="index.html"><img src="img/logo/logo2.png" alt="Awesome Image"></a></div>
+                        <div class="logo pull-left"><a href="index.html"><img src="img/logo/logo.png" alt="Awesome Image"></a></div>
                     </div>
                     <div class="float-right">
                         <div class="navbar-header">
@@ -97,66 +97,28 @@
         <!-- MAin menu ends -->
 
         <!-- Start Slider section -->
-        <section class="slider-section">
-           <div class="slider-overly"></div>
-            <div class="intro-carousel our-slider">
-                <div class="intro-content-2">
-                    <div class="slider-images">
-                        <img src="img/slider/1.jpg" alt="">
-                    </div>
-                    <div class="slider-content">
-                        <div class="display-table">
-                            <div class="display-table-cell">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <!-- layer 1 -->
-                                            <div class="layer-1-2">
-                                                <h1 class="title2">Marcho - the Best Place in the World to Be</h1>
-                                            </div>
-                                            <!-- layer 2 -->
-                                            <div class="layer-1-1 ">
-                                                <p>nteger placerat arcu quis sem aliquet tempor maecenas in dictum arcu curabitur</p>
-                                            </div>
-                                            <!-- layer 3 -->
-                                            <div class="layer-1-3">
-                                                <a href="#" class="ped-btn left-btn" >Our Services</a>
-                                            </div>
-                                        </div>
-                                    </div>
+        <section class="page-breadcrumb">
+            <div class="page-section-restaurant">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="breadcrumb text-center">
+                                <div class="section-titleBar white-headline text-center">
+                                    <h3>Dining & Bar</h3>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="intro-content">
-                    <div class="slider-images">
-                        <img src="img/slider/2.jpg" alt="">
-                    </div>
-                    <div class="slider-content">
-                        <div class="display-table">
-                            <div class="display-table-cell">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <!-- layer 1 -->
-                                            <div class="layer-1-2 align-center">
-                                                <h1 class="title2">Welcome to the Place Where Dream Come True</h1>
-                                            </div>
-                                            <!-- layer 2 -->
-                                            <div class="layer-1-1 align-center">
-                                                <p>nteger placerat arcu quis sem aliquet tempor maecenas in dictum arcu curabitur placerat arcu quis sem aliquet</p>
-                                            </div>
-                                            <!-- layer 3 -->
-                                            <div class="layer-1-3 align-center">
-                                                <a href="#" class="ped-btn left-btn" >Our Services</a>
-                                                <a href="#" class="ped-btn right-btn" >Our Portfolio</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
+            </div>
+            <div class="nav-path">
+                <div class="container">
+                    <div class="row">
+                        <ul>
+                            <li class="home-bread">Home</li>
+                            <li>Dining & Bar</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -164,7 +126,7 @@
         <!-- End Slider section -->
 
         <!-- Start listing section -->
-        <section class="listing-search listing-3">
+        <!-- <section class="listing-search listing-3">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -221,17 +183,17 @@
                                             <div class="dk-select ht-field">
                                                 <a href="#" id="listing-btn" class="listing-search__btn">Advanced Search</a>
                                             </div>
-                                        </div><!-- .col -->
+                                        </div>
                                     </div>
 
                                 </div>
-                            </form><!-- .listing-search__form -->
+                            </form>
                         </div>
                     </div>
 
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- End listing section -->
 
         <!-- Start welcome section -->
@@ -261,7 +223,7 @@
             </div>
         </section>
         <!-- End welcome section -->
-        <section class="fluid-know-area">
+        <!-- <section class="fluid-know-area">
             <div class="work-image-ser">
                 <div class="big_room_slider_container rooms-carousel">
                     <div class="background_image"></div>
@@ -298,7 +260,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- Start Rooms Section -->
         <section class="our-overview sec-padding bg-color">
@@ -495,7 +457,7 @@
         <!-- Ends Rooms Section -->
 
         <!--Galery section Start-->
-        <section class="gallery-3 sec-padding">
+        <!-- <section class="gallery-3 sec-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
@@ -574,13 +536,11 @@
                     </div>
                 </div>
             </div>
-
-
-        </section>
+        </section> -->
         <!--End of Galery section-->
 
         <!--Events section Start-->
-        <section class="events-section sec-padding">
+        <!-- <section class="events-section sec-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
@@ -618,7 +578,7 @@
                                     </div>
 
                                 </div>
-                                <!-- End single item -->
+                                
                                 <div class="item">
                                     <blockquote>
                                         <div class="icon-holder">
@@ -642,7 +602,7 @@
                                     </div>
 
                                 </div>
-                                <!-- End single item -->
+                                
                                 <div class="item">
                                     <blockquote>
                                         <div class="icon-holder">
@@ -666,7 +626,7 @@
                                     </div>
 
                                 </div>
-                                <!-- End single item -->
+                                
                                 <div class="item">
                                     <blockquote>
                                         <div class="icon-holder">
@@ -746,9 +706,9 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--End of Events section-->
-        <section class="newsletter-section sec-padding">
+        <!-- <section class="newsletter-section sec-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
@@ -763,7 +723,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Start Footer bottom section -->
         <footer class="footer sec-padding">
                 <div class="container">

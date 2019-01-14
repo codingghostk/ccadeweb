@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title>Seguimiento Digital</title>
+		<title>Home-3 | Marcho</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -26,7 +26,9 @@
         <link rel="stylesheet" href="css/zebra_datepicker.css">
 		<!-- magnific css -->
         <link rel="stylesheet" href="css/magnific.min.css">
-		<!-- venobox css -->
+        <!--tabs-->
+        <link href="css/tabs.css" rel="stylesheet" type="text/css">
+        <!-- venobox css -->
 		<link rel="stylesheet" href="css/venobox.css">
 		<!-- style css -->
 		<link rel="stylesheet" href="css/style.css">
@@ -43,51 +45,12 @@
 		<![endif]-->
 
         <div id="preloader"></div>
-        <!-- header -->
-        <header class="header">
-            <div class="container clearfix">
-                <div class="header-right-info">
-<!--                     <ul>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-map-marker"></i></div>
-                                <div class="text-box">
-                                    <p>Apple St, New York, <br> NY 10012, USA</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-phone"></i></div>
-                                <div class="text-box">
-                                    <p>+ 389 72 2705345 <br>Marcho.com</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-clock-o"></i></div>
-                                <div class="text-box">
-                                    <p>Mon - Sat 9.00 - 19.00 <br>Sunday Closed</p>
-                                </div>
-                            </div>
-                        </li>
-                    </ul> -->
-                </div>
-                <div class="header-left-info">
-                    <div class="link">
-                        <a href="contact.html" class="thm-btn-inverse">SEGUIMIENTO DIGITAL</a>
-                    </div>
-                </div>
-            </div>
-        </header>
-        <!-- header end -->
         <!-- Main menu -->
         <section class="main-menu-one finance-navbar">
             <nav id="main-navigation-wrapper" class="navbar navbar-default Marcho-navbar">
                 <div class="container">
                     <div class="float-left">
-                        <div class="logo pull-left"><a href="index.php"><img src="img/logo/3x8.5.png" alt="Ccade"></a></div>
+                        <div class="logo pull-left"><a href="index.html"><img src="img/logo/logo.png" alt="Awesome Image"></a></div>
                     </div>
                     <div class="float-right">
                         <div class="navbar-header">
@@ -95,34 +58,34 @@
                         </div>
                         <div id="main-navigation" class="collapse navbar-collapse">
                             <ul class="nav navbar-nav">
-                                <li class="dropdown"><a href="index.html" style="font-size:10px">Modelo e ideología</a>
-                                    <!--<ul class="dropdown-submenu">
+                                <li class="dropdown"><a href="index.html">Home</a>
+                                    <ul class="dropdown-submenu">
                                         <li><a href="index.html">Home One</a></li>
                                         <li><a href="index-2.html">Home Two</a></li>
                                         <li><a href="index-3.html">Home Three</a></li>
                                         <li><a href="index-4.html">Home Four</a></li>
                                         <li><a href="index-5.html">Home Five</a></li>
-                                    </ul>-->
+                                    </ul>
                                 </li>
-                                <li class="dropdown"><a href="about.html" style="font-size:10px">Capacitación</a>
+                                <li class="dropdown"><a href="about.html">about us</a>
 
                                 </li>
-                                <li class="dropdown"><a href="#" style="font-size:10px">Consultoria</a>
-                                <!--<ul class="dropdown-submenu">
-                                    <li><a href="rooms.html">Room List</a></li>
-                                    <li><a href="single_room.html">Single Room</a></li>
+                                <li class="dropdown"><a href="#">suits & rooms</a>
+                                    <ul class="dropdown-submenu">
+                                        <li><a href="rooms.html">Room List</a></li>
+                                        <li><a href="single_room.html">Single Room</a></li>
 
-                                </ul>-->
-                            </li>
-                                <li class="dropdown"><a href="dining&bar.html" style="font-size:10px">Outdoor</a></li>
-                                <li class="dropdown"><a href="offers.html" style="font-size:10px">Alianzas</a></li>
-                                <li class="dropdown"><a href="#" style="font-size:10px">Socialmente responsalbe</a>
-                                    <!--<ul class="dropdown-submenu">
+                                    </ul>
+                                </li>
+                                <li class="dropdown"><a href="dining&bar.html">Dining & BAr</a></li>
+                                <li class="dropdown"><a href="offers.html">offers</a></li>
+                                <li class="dropdown"><a href="#">news</a>
+                                    <ul class="dropdown-submenu">
                                         <li><a href="news.html">News Standard</a></li>
                                         <li><a href="news-details.html">News Details</a></li>
-                                    </ul>-->
+                                    </ul>
                                 </li>
-                                <li><a href="contact.html" style="font-size:10px">contacto</a></li>
+                                <li><a href="contact.html">contact us</a></li>
                             </ul>
 
                         </div>
@@ -134,66 +97,28 @@
         <!-- MAin menu ends -->
 
         <!-- Start Slider section -->
-        <section class="slider-section" >
-           <div class="slider-overly"></div>
-            <div class="intro-carousel">
-                <div class="intro-content">
-                    <div class="slider-images">
-                        <img src="img/slider/7.png" alt="">
-                    </div>
-                    <div class="slider-content">
-                        <div class="display-table">
-                            <div class="display-table-cell">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <!-- layer 1 -->
-                                            <div class="layer-1-2">
-                                                <h1 class="title2">Marcho - the Best Place in the World to Be</h1>
-                                            </div>
-                                            <!-- layer 2 -->
-                                            <div class="layer-1-1 ">
-                                                <p>nteger placerat arcu quis sem aliquet tempor maecenas in dictum arcu curabitur</p>
-                                            </div>
-                                            <!-- layer 3 -->
-                                            <div class="layer-1-3">
-                                                <a href="#" class="ped-btn left-btn" >Our Services</a>
-                                            </div>
-                                        </div>
-                                    </div>
+        <section class="page-breadcrumb">
+            <div class="page-section-restaurant">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="breadcrumb text-center">
+                                <div class="section-titleBar white-headline text-center">
+                                    <h3>Dining & Bar</h3>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="intro-content">
-                    <div class="slider-images">
-                        <img src="img/slider/7.png" alt="">
-                    </div>
-                    <div class="slider-content">
-                        <div class="display-table">
-                            <div class="display-table-cell">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <!-- layer 1 -->
-                                            <div class="layer-1-2 align-center">
-                                                <h1 class="title2">Welcome to the Place Where Dream Come True</h1>
-                                            </div>
-                                            <!-- layer 2 -->
-                                            <div class="layer-1-1 align-center">
-                                                <p>nteger placerat arcu quis sem aliquet tempor maecenas in dictum arcu curabitur placerat arcu quis sem aliquet</p>
-                                            </div>
-                                            <!-- layer 3 -->
-                                            <div class="layer-1-3 align-center">
-                                                <a href="#" class="ped-btn left-btn" >Our Services</a>
-                                                <a href="#" class="ped-btn right-btn" >Our Rooms</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
+            </div>
+            <div class="nav-path">
+                <div class="container">
+                    <div class="row">
+                        <ul>
+                            <li class="home-bread">Home</li>
+                            <li>Dining & Bar</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -201,134 +126,66 @@
         <!-- End Slider section -->
 
         <!-- Start listing section -->
-        <!-- <section class="listing-search p-0">
+        <!-- <section class="listing-search listing-3">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <form action="index.html" method="get" class="listing-search__form">
-                            <div class="main-search">
-                                <div class="item-wrapper">
-                                    <div class="item">
-                                        <div class="form-select">
-                                            <label class="listing-search__label">Adults</label>
-                                            <select name="" id="radiusSelect">
-                                                <option value="1">1</option>
-                                                <option value="2">2</option>
-                                                <option value="3">3</option>
-                                                <option value="4">4</option>
-                                                <option value="5">5</option>
+                        <div class="form-wrapper-3 clearfix">
+                            <form action="index.html" method="get" class="listing-search__form">
+                                <div class="main-search">
+                                    <div class="item-wrapper">
+                                        <div class="item">
+                                            <div class="form-select">
+                                                <label class="listing-search__label">Adults</label>
+                                                <select name="" id="radiusSelect">
+                                                    <option value="1">1</option>
+                                                    <option value="2">2</option>
+                                                    <option value="3">3</option>
+                                                    <option value="4">4</option>
+                                                    <option value="5">5</option>
 
-                                            </select>
+                                                </select>
+                                            </div>
                                         </div>
-                                    </div>
 
-                                    <div class="item">
-                                        <div class="form-select">
-                                            <label class="listing-search__label">Children</label>
-                                            <select name="" id="radiusSelect2">
-                                                <option value="1">1</option>
-                                                <option value="2">2</option>
-                                                <option value="3">3</option>
-                                                <option value="4">4</option>
-                                                <option value="5">5</option>
+                                        <div class="item">
+                                            <div class="form-select">
+                                                <label class="listing-search__label">Children</label>
+                                                <select name="" id="radiusSelect2">
+                                                    <option value="1">1</option>
+                                                    <option value="2">2</option>
+                                                    <option value="3">3</option>
+                                                    <option value="4">4</option>
+                                                    <option value="5">5</option>
 
-                                            </select>
+                                                </select>
+                                            </div>
                                         </div>
-                                    </div>
 
-                                    <div class="item">
-                                        <div class="form-group">
-                                            <label class="listing-search__label" for="usr">Arrival date:</label>
+                                        <div class="item">
+                                            <div class="form-group">
+                                                <label class="listing-search__label" for="usr">Arrival date:</label>
+                                                <div class="dk-select ht-field">
+                                                    <input type="text" class="datepicker form-control input-field" id="usr">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="form-group">
+                                                <label class="listing-search__label" for="usr2">Departure date:</label>
+                                                <div class="dk-select ht-field">
+                                                    <input type="text" class="datepicker form-control input-field" id="usr2">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="item thm-button">
+                                            <label class="listing-search__label listing-search__label--hidden">Advanced Search</label>
                                             <div class="dk-select ht-field">
-                                            <input type="text" class="datepicker form-control input-field" id="usr">
+                                                <a href="#" id="listing-btn" class="listing-search__btn">Advanced Search</a>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="item">
-                                        <div class="form-group">
-                                            <label class="listing-search__label" for="usr2">Departure date:</label>
-                                            <div class="dk-select ht-field">
-                                            <input type="text" class="datepicker form-control input-field" id="usr2">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="item thm-button">
-                                        <label class="listing-search__label listing-search__label--hidden">Advanced Search</label>
-                                        <div class="dk-select ht-field">
-                                        <a href="#" id="listing-btn" class="listing-search__btn">Advanced Search</a>
-                                        </div>
-                                    </div>
-                                </div>
 
-                            </div>
-                        </form>
-                    </div>
-
-            </div>
-            </div>
-        </section> -->
-        <!-- End listing section -->
-
-
-        <!-- Start Request call section -->
-        <section class="request-call-bg sec-padding">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-md-5">
-                        <div class="info-box">
-                            <div class="sec-title">
-                                <h4>Request a Call Back</h4>
-                                <div class="decor-line"></div>
-                            </div>
-                            <div class="text">
-                                <p>Nullam dictum sodales diam, sed sagittis orci sollic.<br>Sed condimentum nisl a feugiat ullamcorper.</p>
-                                <div class="contact-info">
-                                    <div class="tel-box">
-                                        <div class="icon-box"><i class="fa fa-map-marker"></i></div>
-                                        <div class="text-box">
-                                            <p>42 Tailstoi Town 5248 MT, Wordwide Country</p>
-                                        </div>
-                                    </div>
-                                    <div class="tel-box">
-                                        <div class="icon-box"><i class="fa fa-phone"></i></div>
-                                        <div class="text-box">
-                                            <p>( 018) 65 524 8503  /  (125) 954 7854</p>
-                                        </div>
-                                    </div>
-                                    <div class="tel-box">
-                                        <div class="icon-box"><i class="fa fa-envelope"></i></div>
-                                        <div class="text-box">
-                                            <p><a href="#">contact@lamarena.com</a></p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-7">
-                        <div class="request-call-form">
-                            <form id="request-call-form" action="#" method="POST" novalidate="novalidate">
-
-                                <div class="col-md-6">
-                                    <input id="name" type="text" placeholder="Name" name="name">
-                                    <input id="email" type="text" placeholder="Email" name="email">
-                                </div>
-                                <div class="col-md-6">
-                                    <input id="phone" type="text" placeholder="Phone" name="phone">
-                                    <input id="subject" type="text" placeholder="Subject" name="subject">
-                                </div>
-
-
-                                <div class="col-md-6">
-                                    <button type="submit" class="thm-btn">submit now</button>
-                                </div>
-
-
-
-                                <div class="col-md-12">
-                                    <div id="success"></div>
                                 </div>
                             </form>
                         </div>
@@ -336,154 +193,83 @@
 
                 </div>
             </div>
-        </section>
-        <!-- End Request Call -->
-
+        </section> -->
+        <!-- End listing section -->
 
         <!-- Start welcome section -->
-        <section class="welcome-section sec-padding">
+        <section class="welcome-section-4 sec-padding">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="section-titleBar text-center">
-                            <h3>Our Resort Advantages</h3>
-                            <p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
-                                organization's data with emphasis on statistical analysis.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="room-categories-section__inner">
-                            <ul class="room-categories">
-                                <li class="room-category">
-                                    <a href="#">
-                                        <div class="media-icon"> <i class="flaticon-hotel-room"></i></div>
-                                        <div class="media-caption">
-                                            <h4 class="category-titile">First Class Rooms</h4>
-                                            <span class="job-count">Check Details</span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="room-category">
-                                    <a href="#">
-                                        <div class="media-icon"> <i class="flaticon-gym"></i></div>
-                                        <div class="media-caption">
-                                            <h4 class="category-titile">Luxury Fitness</h4>
-                                            <span class="job-count">Check Details</span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="room-category">
-                                    <a href="#">
-                                        <div class="media-icon"> <i class="flaticon-dish"></i></div>
-                                        <div class="media-caption">
-                                            <h4 class="category-titile">Delicius Food</h4>
-                                            <span class="job-count">Check Details</span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="room-category">
-                                    <a href="#">
-                                        <div class="media-icon"> <i class="flaticon-cooking"></i></div>
-                                        <div class="media-caption">
-                                            <h4 class="category-titile">Inside Restaurant</h4>
-                                            <span class="job-count">Check Details</span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="room-category">
-                                    <a href="#">
-                                        <div class="media-icon"> <i class="flaticon-parking-sign"></i></div>
-                                        <div class="media-caption">
-                                            <h4 class="category-titile">Free Parking</h4>
-                                            <span class="job-count">Check Details</span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="room-category">
-                                    <a href="#">
-                                        <div class="media-icon"> <i class="flaticon-room-service"></i></div>
-                                        <div class="media-caption">
-                                            <h4 class="category-titile">Room Service</h4>
-                                            <span class="job-count">Check Details</span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="room-category">
-                                    <a href="#">
-                                        <div class="media-icon"> <i class="flaticon-disco-ball"></i></div>
-                                        <div class="media-caption">
-                                            <h4 class="category-titile">Great Night Club</h4>
-                                            <span class="job-count">Check Details</span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="room-category">
-                                    <a href="#">
-                                        <div class="media-icon"> <i class="flaticon-swim"></i></div>
-                                        <div class="media-caption">
-                                            <h4 class="category-titile">Exclusive Swimming Pool</h4>
-                                            <span class="job-count">Check Details</span>
-                                        </div>
-                                    </a>
-                                </li>
-                            </ul>
+                  <div class="col-md-5">
+                      <div class="section-titleBar text-left">
+                          <h3>Enjoy and Relax in our Hotel</h3>
+                          <p>Integer placerat arcu quis sem aliquet tempor. Maecenas in dictum arcu. Curabitur cursus est libero, id accumsan sapien ullamcorper quis. Pellentesque imperdiet mi quis volutpat facilisis. In facilisis sit amet lacus ut convallis. Aenean congue porta dolor, in rutrum orci. In id lacinia ligula.</p>
+                          <hr>
+                          <p>Phasellus at commodo ligula. Nullam molestie volutpat sapien, a dignissim tortor laoreet quis.</p>
+                          <div class="button">
+                              <a class="thm-btn" href="#">View Rooms</a>
+                          </div>
+
+                      </div>
+                  </div>
+                    <div class="col-md-7">
+                        <div class="intro_images magic_up">
+                            <div class="intro_1 intro_img"><img src="img/about/intro_1.jpg" alt=""></div>
+                            <div class="intro_2 intro_img"><img src="img/about/intro_2.jpg" alt=""></div>
+                            <div class="intro_3 intro_img"><img src="img/about/intro_3.jpg" alt=""></div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- End main content -->
         </section>
         <!-- End welcome section -->
-        <!-- Start numbers section -->
-        <section class="numbers-section-3 sec-padding parallax-bg fix">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4 col-sm-4 col-xs-12">
-                        <div class="section-titleBar text-left">
-                            <h3>We are proud<br>with our achivness</h3>
-                        </div>
+        <!-- <section class="fluid-know-area">
+            <div class="work-image-ser">
+                <div class="big_room_slider_container rooms-carousel">
+                    <div class="background_image"></div>
+                </div>
+            </div>
+            <div class="service-promo sec-padding">
+                <div class="promo-content">
+                    <div class="know-top">
+                        <h3>Rooms with private swimming pool</h3>
+
+                        <p>Neque porro quisquam est, qui dolorem ipsum quia dqAolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Neque porro quisquam est, qui dolorem ipsum quia dqAolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi yu enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit.</p>
                     </div>
-                    <div class="col-md-8 col-sm-8 col-xs-12">
-                        <div class="single-count-box">
-                            <div class="box">
-                                <div class="number-box"><span class="counter">44</span></div>
-                                <div class="text-box">
-                                    <p>SERVED BREAKFAST</p>
+                    <div class="know-bot">
+                        <ul>
+                            <li>
+                                <div class="about-img"><i class="flaticon-dish"></i></div>
+                                <div class="about-cont">
+                                    <p>Best<br>Food</p>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="single-count-box">
-                            <div class="box">
-                                <div class="number-box"><span class="counter">66</span></div>
-                                <div class="text-box">
-                                    <p>INTERNATIONAL GUESTS</p>
+                            </li>
+                            <li>
+                                <div class="about-img"><i class="flaticon-swim"></i></div>
+                                <div class="about-cont">
+                                    <p>Open<br>Pool</p>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="single-count-box">
-                            <div class="box">
-                                <div class="number-box"><span class="counter">98</span></div>
-                                <div class="text-box">
-                                    <p>FIVE STARTRATINGS</p>
+                            </li>
+                            <li>
+                                <div class="about-img"><i class="flaticon-hotel-room"></i></div>
+                                <div class="about-cont">
+                                    <p>Glory<br>Rooms</p>
                                 </div>
-                            </div>
-                        </div>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
-        </section>
-        <!-- End numbers section -->
-        <!-- Start project section -->
-        <section class="project-section sec-padding ">
+        </section> -->
+
+        <!-- Start Rooms Section -->
+        <section class="our-overview sec-padding bg-color">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
                             <h3>Our Rooms & Suits</h3>
-                            <p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
-                                organization's data with emphasis on statistical analysis.</p>
+                            <p>Modern Hotel has 35 elegantly furnished and air conditioned classic rooms, which will be a perfect pick both for Hotel and leisure travelers...</p>
                         </div>
                     </div>
                 </div>
@@ -667,134 +453,26 @@
                     </div>
                 </div>
             </div>
-            <!-- End main content -->
         </section>
-        <!-- End project section -->
+        <!-- Ends Rooms Section -->
 
-        <!-- Start testimonials section -->
-		<section class="testimonial-section sec-padding">
-			<div class="container">
-                <div class="row">
-					<div class="col-md-12 col-sm-12 col-xs-12">
-						<div class="section-titleBar text-center">
-							<h3>Clients Testimonials</h3>
-						    <p>Hotel analytics (BA) is the practice of iterative.</p>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-
-                    <div class="testimonial-carousel">
-                        <div class="single-testi">
-                            <div class="testi-img ">
-                                <img src="img/review/1.jpg" alt="">
-
-                            </div>
-                            <div class="texti-name">
-                                <h5>George Simons</h5>
-                                <span class="guest-rev"><a href="#">Genarel customer</a></span>
-                            </div>
-                            <div class="client-rating">
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                            </div>
-                            <div class="testi-text">
-                                <p>Integer placerat arcu quis sem aliquet tempor. Maecenas in dictum arcu.Aenean congue porta dolor, in rutrum orci. In id lacinia ligula.</p>
-                            </div>
-                        </div>
-                        <!-- End single item -->
-                        <div class="single-testi">
-                            <div class="testi-img ">
-                                <img src="img/review/1.jpg" alt="">
-                            </div>
-                            <div class="texti-name">
-                                <h5>George Simons</h5>
-                                <span class="guest-rev"><a href="#">Genarel customer</a></span>
-                            </div>
-                            <div class="client-rating">
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                            </div>
-                            <div class="testi-text">
-                                <p>Integer placerat arcu quis sem aliquet tempor. Maecenas in dictum arcu.Aenean congue porta dolor, in rutrum orci. In id lacinia ligula.</p>
-                            </div>
-                        </div>
-                        <!-- End single item -->
-                        <div class="single-testi">
-                            <div class="testi-img ">
-                                <img src="img/review/1.jpg" alt="">
-                            </div>
-                            <div class="texti-name">
-                                <h5>George Simons</h5>
-                                <span class="guest-rev"><a href="#">Genarel customer</a></span>
-                            </div>
-                            <div class="client-rating">
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                            </div>
-                            <div class="testi-text">
-                                <p>Integer placerat arcu quis sem aliquet tempor. Maecenas in dictum arcu.Aenean congue porta dolor, in rutrum orci. In id lacinia ligula.</p>
-                            </div>
-                        </div>
-                        <!-- End single item -->
-
-                    </div>
-
-
-                </div>
-
-
-			</div>
-		</section>
-		<!-- End testimonials end -->
-        <!-- Start Overview -->
-       <!--  <section class="our-overview sec-padding">
-                <div class="container">
-                  <div class="row">
-                    <div class="col-md-6 col-sm-6">
-                        <div class="about-wd">
-                                <div class="section-titleBar text-left">
-                                        <h3>Core Value of Resort</h3>
-                                    <p>Integer placerat arcu quis sem aliquet tempor. Maecenas in dictum arcu. Curabitur cursus est libero, id accumsan sapien ullamcorper quis. Pellentesque imperdiet mi quis volutpat facilisis. In facilisis sit amet lacus ut convallis. Aenean congue porta dolor, in rutrum orci. In id lacinia ligula.</p>
-
-                                </div>
-                              <div class="lists">
-                                <ul>
-                                        <li><i class="fa fa-check-circle-o"></i>Hotel Growth</li>
-                                        <li><i class="fa fa-check-circle-o"></i>Sustainability</li>
-                                        <li><i class="fa fa-check-circle-o"></i>Performance</li>
-                                </ul>
-                                <ul>
-                                        <li><i class="fa fa-check-circle-o"></i>Advanced Analytics</li>
-                                        <li><i class="fa fa-check-circle-o"></i>Customer Insights</li>
-                                        <li><i class="fa fa-check-circle-o"></i>Organization</li>
-                                </ul>
-                              </div>
-                        </div>
-                         
-                    </div>
-                    <div class="col-md-6 col-sm-6">
-                            <img src="img/service/map.png" class="mb-15-xs" alt="map">
-                    </div>
-                  </div>
-                </div>
-              </section> -->
-        <!-- End Overview -->
         <!--Galery section Start-->
-<!--         <section class="gallery">
+        <!-- <section class="gallery-3 sec-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="section-titleBar text-center">
+                            <h3>Our Resort Gallery</h3>
+                            <p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
+                                organization's data with emphasis on statistical analysis.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <section class="gallery-section">
+                        <div class="gallery-section">
                             <figure class="gallery__item gallery__item--1 lightbox">
                                 <a href="img/galery/gal-1.jpeg" class="tt-gallery-1 lightbox">
                                     <img src="img/galery/gal-1.jpeg" alt="Gallery image 1" class="gallery__img lightbox">
@@ -854,20 +532,285 @@
 
 
 
-                        </section>
+                        </div>
                     </div>
                 </div>
             </div>
         </section> -->
-
         <!--End of Galery section-->
 
+        <!--Events section Start-->
+        <!-- <section class="events-section sec-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="section-titleBar text-center">
+                            <h3>Our Resort Events and Testimonials</h3>
+                            <p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
+                                organization's data with emphasis on statistical analysis.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="row">
+                            <div class="testimonial-carousel-fourth">
+                                <div class="item">
+                                    <blockquote>
+                                        <div class="icon-holder">
+                                            <i class="fa fa-quote-left" aria-hidden="true"></i>
+
+                                        </div>
+                                        Fusce non faucibus lorem. Cras eu velit id diam cursus tincidunt in ut dui. Quisque quis augue placerat, pulvinar dui aliquam, convallis sapien. Orci varius natoque penatibus et magnis dis parturient montes.
+                                    </blockquote>
+                                    <div class="testimonials-author">
+                                        <div class="author-img">
+                                            <img class="img-responsive" src="img/review/1.jpg" alt="author">
+                                        </div>
+                                        <h5>George Simons<span> - Lawyer</span></h5>
+                                        <ul>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                        </ul>
+                                    </div>
+
+                                </div>
+                                
+                                <div class="item">
+                                    <blockquote>
+                                        <div class="icon-holder">
+                                            <i class="fa fa-quote-left" aria-hidden="true"></i>
+
+                                        </div>
+                                        Fusce non faucibus lorem. Cras eu velit id diam cursus tincidunt in ut dui. Quisque quis augue placerat, pulvinar dui aliquam, convallis sapien. Orci varius natoque penatibus et magnis dis parturient montes.
+                                    </blockquote>
+                                    <div class="testimonials-author">
+                                        <div class="author-img">
+                                            <img class="img-responsive" src="img/review/1.jpg" alt="author">
+                                        </div>
+                                        <h5>George Simons<span> - Lawyer</span></h5>
+                                        <ul>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                        </ul>
+                                    </div>
+
+                                </div>
+                                
+                                <div class="item">
+                                    <blockquote>
+                                        <div class="icon-holder">
+                                            <i class="fa fa-quote-left" aria-hidden="true"></i>
+
+                                        </div>
+                                        Fusce non faucibus lorem. Cras eu velit id diam cursus tincidunt in ut dui. Quisque quis augue placerat, pulvinar dui aliquam, convallis sapien. Orci varius natoque penatibus et magnis dis parturient montes.
+                                    </blockquote>
+                                    <div class="testimonials-author">
+                                        <div class="author-img">
+                                            <img class="img-responsive" src="img/review/1.jpg" alt="author">
+                                        </div>
+                                        <h5>George Simons<span> - Lawyer</span></h5>
+                                        <ul>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                        </ul>
+                                    </div>
+
+                                </div>
+                                
+                                <div class="item">
+                                    <blockquote>
+                                        <div class="icon-holder">
+                                            <i class="fa fa-quote-left" aria-hidden="true"></i>
+
+                                        </div>
+                                        Fusce non faucibus lorem. Cras eu velit id diam cursus tincidunt in ut dui. Quisque quis augue placerat, pulvinar dui aliquam, convallis sapien. Orci varius natoque penatibus et magnis dis parturient montes.
+                                    </blockquote>
+                                    <div class="testimonials-author">
+                                        <div class="author-img">
+                                            <img class="img-responsive" src="img/review/1.jpg" alt="author">
+                                        </div>
+                                        <h5>George Simons<span> - Lawyer</span></h5>
+                                        <ul>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                            <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                            </div>
 
 
-
-
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="our-events">
+                            <div class="media">
+                            <div class="media-left">
+                                <div class="date-box">
+                                    <div class="date-inner">
+                                        <div class="date-text-inner">
+                                            <p>25<span>September</span></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="media-body">
+                                <h4>Host a Family Party</h4>
+                                <p>Praesent fermentum ligula in dui imperdiet, vel tempus nulla ultricies. Phasellus at commodo ligula. Nullam molestie volutp at sapien.</p>
+                            </div>
+                        </div>
+                            <div class="media">
+                                <div class="media-left">
+                                    <div class="date-box">
+                                        <div class="date-inner">
+                                            <div class="date-text-inner">
+                                                <p>25<span>September</span></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="media-body">
+                                    <h4>Host a Family Party</h4>
+                                    <p>Praesent fermentum ligula in dui imperdiet, vel tempus nulla ultricies. Phasellus at commodo ligula. Nullam molestie volutp at sapien.</p>
+                                </div>
+                            </div>
+                            <div class="media media-last">
+                                <div class="media-left">
+                                    <div class="date-box">
+                                        <div class="date-inner">
+                                            <div class="date-text-inner">
+                                                <p>25<span>September</span></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="media-body">
+                                    <h4>Host a Family Party</h4>
+                                    <p>Praesent fermentum ligula in dui imperdiet, vel tempus nulla ultricies. Phasellus at commodo ligula. Nullam molestie volutp at sapien.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+        <!--End of Events section-->
+        <!-- <section class="newsletter-section sec-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="offer-title text-center">
+                            <h2>Sign Up for a Newsletter</h2>
+                            <p>Sign up for our mailing list to get latest updates and offers.</p>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="email" placeholder="Enter your email">
+                            <button type="submit" class="btn btn-primary">Subscribe</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
         <!-- Start Footer bottom section -->
-<!--         <footer class="footer sec-padding">
+        <!-- Start welcome section -->
+        <section class="welcome-tabs sec-padding bg-color">
+            <div class="container">
+                <div id="tabbed-nav">
+                    <ul>
+                        <li><a>Delicious Food</a></li>
+                        <li><a>Luxury Spa</a></li>
+<!--                         <li><a>Fitness Gym</a></li>
+                        <li><a>Inhouse Restaurant</a></li> -->
+                    </ul>
+
+                    <div class="h-tabs">
+                        <div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="welcome-serv-img">
+                                        <img src="img/rooms/5.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="detail">
+                                        <h4>Most Delicious Food you have ever tasted</h4>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis.<br/><br/>
+                                            Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+                                        <a class="thm-btn" href="about-us.html">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="welcome-serv-img">
+                                        <img src="img/rooms/1.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="detail">
+                                        <h4>Great Luxury Spa</h4>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis.<br/><br/>
+                                            Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+                                        <a class="thm-btn" href="about-us.html">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="welcome-serv-img">
+                                        <img src="img/rooms/2.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="detail">
+                                        <h4>Fitness Gym with State-of-the-art Еquipment</h4>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis.<br/><br/>
+                                            Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+                                        <a class="thm-btn" href="about-us.html">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="welcome-serv-img">
+                                        <img src="img/rooms/3.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="detail">
+                                        <h4>The Best Inhouse Restaurant</h4>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis.<br/><br/>
+                                            Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+                                        <a class="thm-btn" href="about-us.html">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End welcome section -->
+        <footer class="footer sec-padding">
                 <div class="container">
                   <div class="row">
                     <div class="col-md-6 col-sm-12 col-xs-12">
@@ -953,7 +896,7 @@
           
                   </div>
                 </div>
-              </footer> -->
+              </footer>
         <!-- End Footer bottom section -->
         <section class="footer-bottom">
                     <div class="container clearfix">
@@ -990,12 +933,12 @@
 		<script src="js/venobox.min.js"></script>
         <!-- meanmenu js -->
         <script src="js/jquery.meanmenu.js"></script>
-        <!-- tabs js -->
-        <script src="js/tabs.js"></script>
 		<!-- Form validator js -->
 		<script src="js/form-validator.min.js"></script>
 		<!-- plugins js -->
 		<script src="js/plugins.js"></script>
+        <!-- tabs js -->
+        <script src="js/tabs.js"></script>
         <!-- datapicker js -->
         <script src="js/zebra_datepicker.min.js"></script>
 		<!-- main js -->

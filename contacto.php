@@ -163,7 +163,7 @@
         <!-- End breadcumb section -->
 
         <!-- Start map section -->
-        <section class="map-section sec-padding">
+        <!-- <section class="map-section sec-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -182,8 +182,8 @@
                     </div>
                 </div>
             </div>
-            <!-- End main content -->
-        </section>
+            
+        </section> -->
         <!-- End map section -->
 
         <section class="contact-us bg-color sec-padding">
@@ -202,10 +202,11 @@
                                 <p class="success" id="success"></p>
                                 <p class="error" id="error"></p>
                                 <form name="contact_form" id="contact_form" method="post" action="#" onSubmit="return false">
-                                    <div class="col-md-4"><input type="text" data-delay="300" placeholder="Your full name" name="contact_name" id="contact_name" class="input"></div>
-                                    <div class="col-md-4"><input type="text" data-delay="300" placeholder="E-mail Address" name="contact_email" id="contact_email" class="input"></div>
-                                    <div class="col-md-4"><input type="text" data-delay="300" placeholder="Subject" name="contact_subject" id="contact_subject" class="input"></div>
-                                    <div class="col-md-12"><textarea data-delay="500" class="required valid" placeholder="Message" name="message" id="message"></textarea></div>
+                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Empresa" name="contact_empresa" id="contact_empresa" class="input"></div>
+                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Puesto" name="contact_puesto" id="contact_puesto" class="input"></div>
+                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Nombre" name="contact_name" id="contact_name" class="input"></div>
+                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Correo" name="contact_email" id="contact_email" class="input"></div>
+                                    <div class="col-md-12"><textarea data-delay="500" class="required valid" placeholder="Mensaje" name="message" id="message"></textarea></div>
                                     <div class="col-md-3"><input name=" " type="submit" value="submit" onClick="validateContact();"></div>
                                 </form>
 

@@ -358,7 +358,7 @@
         <!-- End testimonials end -->
 
         <!-- Start testimonials section -->
-        <section class="testimonial-section-2 sec-padding bg-color">
+       <!--  <section class="testimonial-section-2 sec-padding bg-color">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
@@ -394,7 +394,6 @@
                             </div>
 
                         </div>
-                        <!-- End single item -->
                         <div class="item">
                             <blockquote>
                                 <div class="icon-holder">
@@ -418,7 +417,6 @@
                             </div>
 
                         </div>
-                        <!-- End single item -->
                         <div class="item">
                             <blockquote>
                                 <div class="icon-holder">
@@ -442,7 +440,6 @@
                             </div>
 
                         </div>
-                        <!-- End single item -->
                         <div class="item">
                             <blockquote>
                                 <div class="icon-holder">
@@ -466,7 +463,6 @@
                             </div>
 
                         </div>
-                        <!-- End single item -->
                         <div class="item">
                             <blockquote>
                                 <div class="icon-holder">
@@ -490,7 +486,6 @@
                             </div>
 
                         </div>
-                        <!-- End single item -->
 
                     </div>
 
@@ -499,7 +494,7 @@
 
 
             </div>
-        </section>
+        </section> -->
         <!-- End testimonials end -->
 
         <!-- Start Footer bottom section -->

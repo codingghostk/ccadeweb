@@ -273,7 +273,7 @@
         <!-- End dessert section -->
 
         <!-- Start dining section -->
-        <section class="dining-section drinks sec-padding">
+        <!-- <section class="dining-section drinks sec-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
@@ -330,8 +330,8 @@
                     </div>
                 </div>
             </div>
-            <!-- End main content -->
-        </section>
+            
+        </section> -->
         <!-- End dining section -->
 
         <!-- Start Footer bottom section -->
