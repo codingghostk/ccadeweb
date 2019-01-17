@@ -76,7 +76,7 @@
                 </div>
                 <div class="header-left-info">
                     <div class="link">
-                        <a href="contact.html" class="thm-btn-inverse">SEGUIMIENTO DIGITAL</a>
+                        <a href="Seguimiento-Digital/index.php" class="thm-btn-inverse">SEGUIMIENTO DIGITAL</a>
                     </div>
                 </div>
             </div>
@@ -86,8 +86,11 @@
         <section class="main-menu-one finance-navbar">
             <nav id="main-navigation-wrapper" class="navbar navbar-default Marcho-navbar">
                 <div class="container">
+                    <!--<div class="col-md-4" align="center" style="" >
+                        <div ><img src="img/logo/40aniversario2.jpg" alt="Ccade" width="35%" height="35%"></div>
+                    </div>-->
                     <div class="float-left">
-                        <div class="logo pull-left"><a href="index.php"><img src="img/logo/3x8.5.png" alt="Ccade"></a></div>
+                        <div class="logo pull-left"><a href="index.php"><img src="img/logo/3x8.5.png" alt="Awesome Image"></a></div>
                     </div>
                     <div class="float-right">
                         <div class="navbar-header">
@@ -95,36 +98,16 @@
                         </div>
                         <div id="main-navigation" class="collapse navbar-collapse">
                             <ul class="nav navbar-nav">
-                                <li class="dropdown"><a href="index.html" style="font-size:10px">Modelo e ideología</a>
-                                    <!--<ul class="dropdown-submenu">
-                                        <li><a href="index.html">Home One</a></li>
-                                        <li><a href="index-2.html">Home Two</a></li>
-                                        <li><a href="index-3.html">Home Three</a></li>
-                                        <li><a href="index-4.html">Home Four</a></li>
-                                        <li><a href="index-5.html">Home Five</a></li>
-                                    </ul>-->
+                                <li class="dropdown"><a href="modeloei.php"><span style="background-color:#1F618D">Modelo e ideología</span></a>
                                 </li>
-                                <li class="dropdown"><a href="about.html" style="font-size:10px">Capacitación</a>
-
+                                <li class="dropdown"><a href=""><span style="background-color:#1F618D">Servicios</span></a>
                                 </li>
-                                <li class="dropdown"><a href="#" style="font-size:10px">Consultoria</a>
-                                <!--<ul class="dropdown-submenu">
-                                    <li><a href="rooms.html">Room List</a></li>
-                                    <li><a href="single_room.html">Single Room</a></li>
-
-                                </ul>-->
-                            </li>
-                                <li class="dropdown"><a href="dining&bar.html" style="font-size:10px">Outdoor</a></li>
-                                <li class="dropdown"><a href="offers.html" style="font-size:10px">Alianzas</a></li>
-                                <li class="dropdown"><a href="#" style="font-size:10px">Socialmente responsalbe</a>
-                                    <!--<ul class="dropdown-submenu">
-                                        <li><a href="news.html">News Standard</a></li>
-                                        <li><a href="news-details.html">News Details</a></li>
-                                    </ul>-->
+                                <li class="dropdown"><a href="alianzas.php"><span style="background-color:#1F618D">Alianzas</span></a>
                                 </li>
-                                <li><a href="contact.html" style="font-size:10px">contacto</a></li>
+                                <li class="dropdown"><a href="socialmenter.php"><span style="background-color:#1F618D">Socialmente Responsable</span></a></li>
+                                <li class="dropdown"><a href="blog.php"><span style="background-color:#1F618D">Blog</span></a></li>
+                                <li><a href="contacto.php"><span style="background-color:#1F618D">Contacto</span></a></li>
                             </ul>
-
                         </div>
                     </div>
 
@@ -149,15 +132,15 @@
                                         <div class="col-md-12">
                                             <!-- layer 1 -->
                                             <div class="layer-1-2">
-                                                <h1 class="title2">Marcho - the Best Place in the World to Be</h1>
+                                                <h1 class="title2">40 Años de Experiencia y Resultados Contundentes</h1>
                                             </div>
                                             <!-- layer 2 -->
-                                            <div class="layer-1-1 ">
+                                            <!--<div class="layer-1-1 ">
                                                 <p>nteger placerat arcu quis sem aliquet tempor maecenas in dictum arcu curabitur</p>
-                                            </div>
+                                            </div>-->
                                             <!-- layer 3 -->
                                             <div class="layer-1-3">
-                                                <a href="#" class="ped-btn left-btn" >Our Services</a>
+                                                <a href="#" class="ped-btn left-btn" >Nuestros Servicios</a>
                                             </div>
                                         </div>
                                     </div>
@@ -178,7 +161,7 @@
                                         <div class="col-md-12">
                                             <!-- layer 1 -->
                                             <div class="layer-1-2 align-center">
-                                                <h1 class="title2">Welcome to the Place Where Dream Come True</h1>
+                                                <h1 class="title2">Optimizar el Funcionamiento Organizacional, Desarrollando Personas</h1>
                                             </div>
                                             <!-- layer 2 -->
                                             <div class="layer-1-1 align-center">
@@ -189,6 +172,32 @@
                                                 <a href="#" class="ped-btn left-btn" >Our Services</a>
                                                 <a href="#" class="ped-btn right-btn" >Our Rooms</a>
                                             </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="intro-content">
+                    <div class="slider-images">
+                        <img src="img/slider/7.png" alt="">
+                    </div>
+                    <div class="slider-content">
+                        <div class="display-table">
+                            <div class="display-table-cell">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <!-- layer 1 -->
+                                            <div class="layer-1-2">
+                                                <h1 class="title2">Expertos en Optimización Organizacional</h1>
+                                            </div>
+                                            <!-- layer 2 -->
+                                            <!--<div class="layer-1-1 ">
+                                                <p>nteger placerat arcu quis sem aliquet tempor maecenas in dictum arcu curabitur</p>
+                                            </div>-->
+                                            <!-- layer 3 -->
                                         </div>
                                     </div>
                                 </div>
@@ -278,18 +287,12 @@
                     <div class="col-md-5">
                         <div class="info-box">
                             <div class="sec-title">
-                                <h4>Request a Call Back</h4>
+                                <h4>Contactanos</h4>
                                 <div class="decor-line"></div>
                             </div>
                             <div class="text">
                                 <p>Nullam dictum sodales diam, sed sagittis orci sollic.<br>Sed condimentum nisl a feugiat ullamcorper.</p>
                                 <div class="contact-info">
-                                    <div class="tel-box">
-                                        <div class="icon-box"><i class="fa fa-map-marker"></i></div>
-                                        <div class="text-box">
-                                            <p>42 Tailstoi Town 5248 MT, Wordwide Country</p>
-                                        </div>
-                                    </div>
                                     <div class="tel-box">
                                         <div class="icon-box"><i class="fa fa-phone"></i></div>
                                         <div class="text-box">
@@ -311,22 +314,17 @@
                         <div class="request-call-form">
                             <form id="request-call-form" action="#" method="POST" novalidate="novalidate">
 
-                                <div class="col-md-6">
-                                    <input id="name" type="text" placeholder="Name" name="name">
-                                    <input id="email" type="text" placeholder="Email" name="email">
+                                <div class="col-md-12">
+                                    <input id="name" type="text" placeholder="Nombre" name="name">
+                                    <input id="email" type="text" placeholder="Correo electronico" name="email">
                                 </div>
-                                <div class="col-md-6">
-                                    <input id="phone" type="text" placeholder="Phone" name="phone">
+                                <!--<div class="col-md-6">
+                                    <input id="phone" type="text" placeholder="Telefo" name="phone">
                                     <input id="subject" type="text" placeholder="Subject" name="subject">
+                                </div>-->
+                                <div class="col-md-12">
+                                    <button type="submit" class="thm-btn">Suscribirse</button>
                                 </div>
-
-
-                                <div class="col-md-6">
-                                    <button type="submit" class="thm-btn">submit now</button>
-                                </div>
-
-
-
                                 <div class="col-md-12">
                                     <div id="success"></div>
                                 </div>
@@ -346,7 +344,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>Our Resort Advantages</h3>
+                            <h3>Nuestros Servicios</h3>
                             <p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
                                 organization's data with emphasis on statistical analysis.</p>
                         </div>
@@ -357,77 +355,42 @@
                         <div class="room-categories-section__inner">
                             <ul class="room-categories">
                                 <li class="room-category">
-                                    <a href="#">
+                                    <a href="capacitacion.php">
                                         <div class="media-icon"> <i class="flaticon-hotel-room"></i></div>
                                         <div class="media-caption">
-                                            <h4 class="category-titile">First Class Rooms</h4>
-                                            <span class="job-count">Check Details</span>
+                                            <h4 class="category-titile">Capacitación</h4>
+                                            <span class="job-count">Más Información</span>
                                         </div>
                                     </a>
                                 </li>
                                 <li class="room-category">
-                                    <a href="#">
+                                    <a href="consultoria.php">
                                         <div class="media-icon"> <i class="flaticon-gym"></i></div>
                                         <div class="media-caption">
-                                            <h4 class="category-titile">Luxury Fitness</h4>
-                                            <span class="job-count">Check Details</span>
+                                            <h4 class="category-titile">Consultoría</h4>
+                                            <span class="job-count">Más Información</span>
                                         </div>
                                     </a>
                                 </li>
                                 <li class="room-category">
-                                    <a href="#">
+                                    <a href="outdoor.php">
                                         <div class="media-icon"> <i class="flaticon-dish"></i></div>
                                         <div class="media-caption">
-                                            <h4 class="category-titile">Delicius Food</h4>
-                                            <span class="job-count">Check Details</span>
+                                            <h4 class="category-titile">Outdoor</h4>
+                                            <span class="job-count">Más Información</span>
                                         </div>
                                     </a>
                                 </li>
                                 <li class="room-category">
-                                    <a href="#">
+                                    <a href="calendario.php">
                                         <div class="media-icon"> <i class="flaticon-cooking"></i></div>
                                         <div class="media-caption">
-                                            <h4 class="category-titile">Inside Restaurant</h4>
-                                            <span class="job-count">Check Details</span>
+                                            <h4 class="category-titile">Calendario de cursos abiertos</h4>
+                                            <span class="job-count">Más Información</span>
                                         </div>
                                     </a>
                                 </li>
-                                <li class="room-category">
-                                    <a href="#">
-                                        <div class="media-icon"> <i class="flaticon-parking-sign"></i></div>
-                                        <div class="media-caption">
-                                            <h4 class="category-titile">Free Parking</h4>
-                                            <span class="job-count">Check Details</span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="room-category">
-                                    <a href="#">
-                                        <div class="media-icon"> <i class="flaticon-room-service"></i></div>
-                                        <div class="media-caption">
-                                            <h4 class="category-titile">Room Service</h4>
-                                            <span class="job-count">Check Details</span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="room-category">
-                                    <a href="#">
-                                        <div class="media-icon"> <i class="flaticon-disco-ball"></i></div>
-                                        <div class="media-caption">
-                                            <h4 class="category-titile">Great Night Club</h4>
-                                            <span class="job-count">Check Details</span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="room-category">
-                                    <a href="#">
-                                        <div class="media-icon"> <i class="flaticon-swim"></i></div>
-                                        <div class="media-caption">
-                                            <h4 class="category-titile">Exclusive Swimming Pool</h4>
-                                            <span class="job-count">Check Details</span>
-                                        </div>
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -442,31 +405,47 @@
                 <div class="row">
                     <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="section-titleBar text-left">
-                            <h3>We are proud<br>with our achivness</h3>
+                            <h3>*A LO LARGO DE NUESTRA<br>TRAYECTORIA</h3>
                         </div>
                     </div>
                     <div class="col-md-8 col-sm-8 col-xs-12">
                         <div class="single-count-box">
                             <div class="box">
-                                <div class="number-box"><span class="counter">44</span></div>
+                                <div class="number-box"><span class="counter">200,000</span></div>
                                 <div class="text-box">
-                                    <p>SERVED BREAKFAST</p>
+                                    <p>PERSONAL CAPACITADO*</p>
                                 </div>
                             </div>
                         </div>
                         <div class="single-count-box">
                             <div class="box">
-                                <div class="number-box"><span class="counter">66</span></div>
+                                <div class="number-box"><span class="counter">10,000</span></div>
                                 <div class="text-box">
-                                    <p>INTERNATIONAL GUESTS</p>
+                                    <p>EVENTOS IMPARTIDOS*</p>
                                 </div>
                             </div>
                         </div>
                         <div class="single-count-box">
                             <div class="box">
-                                <div class="number-box"><span class="counter">98</span></div>
+                                <div class="number-box"><span class="counter">380</span></div>
                                 <div class="text-box">
-                                    <p>FIVE STARTRATINGS</p>
+                                    <p>CURSOS Y TEMAS</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-count-box">
+                            <div class="box">
+                                <div class="number-box"><span class="counter">45</span></div>
+                                <div class="text-box">
+                                    <p>FACILITADORES E INSTRUCTORES</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-count-box">
+                            <div class="box">
+                                <div class="number-box"><span class="counter">40</span></div>
+                                <div class="text-box">
+                                    <p>AÑOS DE LIDERAZGO</p>
                                 </div>
                             </div>
                         </div>
@@ -481,7 +460,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>Our Rooms & Suits</h3>
+                            <h3>Nuestros Clientes</h3>
                             <p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
                                 organization's data with emphasis on statistical analysis.</p>
                         </div>
@@ -494,27 +473,13 @@
                             <!-- single-awesome-project start -->
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
-                                    <a href="#">
-                                        <img src="img/project/2.jpg" alt="" />
-                                    </a>
-                                    <div class="price">$54</div>
+                                    <!--<a href="#">-->
+                                        <img src="img/logosclientes/ABC Group.png" width="1%" alt="" />
+                                    <!--</a>-->
+                                    <!--<div class="price">$54</div>-->
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>Double Deluxe Room</h4>
-                                    <p>Our development opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering.</p>
-                                    <div class="rating">
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <small>(145)</small>
-                                    </div>
-                                    <ul>
-                                        <li><i class="icon_clock_alt"></i> 1h 30min</li>
-                                        <li><i class="icon_like"></i> 890</li>
-                                        <li><a href="course-detail.html">Book now</a></li>
-                                    </ul>
+                                    <h4>ABC GROUP</h4>
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -523,27 +488,10 @@
                             <!-- single-awesome-project start -->
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
-                                    <a href="#">
                                         <img src="img/project/2.jpg" alt="" />
-                                    </a>
-                                    <div class="price">$54</div>
                                 </div>
                                 <div class="project-dec-2">
                                     <h4>Double Deluxe Room</h4>
-                                    <p>Our development opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering.</p>
-                                    <div class="rating">
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <small>(145)</small>
-                                    </div>
-                                    <ul>
-                                        <li><i class="icon_clock_alt"></i> 1h 30min</li>
-                                        <li><i class="icon_like"></i> 890</li>
-                                        <li><a href="course-detail.html">Book now</a></li>
-                                    </ul>
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -552,27 +500,11 @@
                             <!-- single-awesome-project start -->
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
-                                    <a href="#">
-                                        <img src="img/project/3.jpg" alt="" />
-                                    </a>
-                                    <div class="price">$54</div>
+                                    <img src="img/project/3.jpg" alt="" />
                                 </div>
                                 <div class="project-dec-2">
                                     <h4>Honeymoon Suit</h4>
-                                    <p>Our development opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering.</p>
-                                    <div class="rating">
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <small>(145)</small>
-                                    </div>
-                                    <ul>
-                                        <li><i class="icon_clock_alt"></i> 1h 30min</li>
-                                        <li><i class="icon_like"></i> 890</li>
-                                        <li><a href="course-detail.html">Book now</a></li>
-                                    </ul>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -581,27 +513,13 @@
                             <!-- single-awesome-project start -->
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
-                                    <a href="#">
                                         <img src="img/project/4.jpg" alt="" />
-                                    </a>
-                                    <div class="price">$54</div>
+                                    
+                                    <!--<div class="price">$54</div>-->
                                 </div>
                                 <div class="project-dec-2">
                                     <h4>Economy Double</h4>
-                                    <p>Our development opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering.</p>
-                                    <div class="rating">
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <small>(145)</small>
-                                    </div>
-                                    <ul>
-                                        <li><i class="icon_clock_alt"></i> 1h 30min</li>
-                                        <li><i class="icon_like"></i> 890</li>
-                                        <li><a href="course-detail.html">Book now</a></li>
-                                    </ul>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -610,27 +528,10 @@
                             <!-- single-awesome-project start -->
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
-                                    <a href="#">
                                         <img src="img/project/5.jpg" alt="" />
-                                    </a>
-                                    <div class="price">$54</div>
                                 </div>
                                 <div class="project-dec-2">
                                     <h4>Family Roome</h4>
-                                    <p>Our development opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering.</p>
-                                    <div class="rating">
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <small>(145)</small>
-                                    </div>
-                                    <ul>
-                                        <li><i class="icon_clock_alt"></i> 1h 30min</li>
-                                        <li><i class="icon_like"></i> 890</li>
-                                        <li><a href="course-detail.html">Book now</a></li>
-                                    </ul>
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -639,27 +540,10 @@
                             <!-- single-awesome-project start -->
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
-                                    <a href="#">
                                         <img src="img/project/6.jpg" alt="" />
-                                    </a>
-                                    <div class="price">$54</div>
                                 </div>
                                 <div class="project-dec-2">
                                     <h4>Deluxe Room</h4>
-                                    <p>Our development opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering.</p>
-                                    <div class="rating">
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <small>(145)</small>
-                                    </div>
-                                    <ul>
-                                        <li><i class="icon_clock_alt"></i> 1h 30min</li>
-                                        <li><i class="icon_like"></i> 890</li>
-                                        <li><a href="course-detail.html">Book now</a></li>
-                                    </ul>
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -677,7 +561,7 @@
                 <div class="row">
 					<div class="col-md-12 col-sm-12 col-xs-12">
 						<div class="section-titleBar text-center">
-							<h3>Clients Testimonials</h3>
+							<h3>Testimonios de Clientes</h3>
 						    <p>Hotel analytics (BA) is the practice of iterative.</p>
 						</div>
 					</div>
