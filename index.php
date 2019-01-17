@@ -37,10 +37,10 @@
 		<script src="js/marco/modernizr-2.8.3.min.js"></script>
         <style type="text/css">
             .coltex {
-                color: #165770 !important;
+                color: #FFF !important;
             }
             .coltex:hover{
-                color: #FFF !important;
+                color: #165770 !important;
             }
         </style>
 	</head>
