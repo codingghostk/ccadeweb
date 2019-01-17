@@ -35,6 +35,14 @@
 
 		<!-- modernizr css -->
 		<script src="js/marco/modernizr-2.8.3.min.js"></script>
+        <style type="text/css">
+            .coltex {
+                color: #FFF !important;
+            }
+            .coltex:hover{
+                color: #4db7fe !important;
+            }
+        </style>
 	</head>
 		<body>
 
@@ -97,16 +105,16 @@
                             <button type="button" data-toggle="collapse" data-target="#main-navigation" aria-expanded="false" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
                         </div>
                         <div id="main-navigation" class="collapse navbar-collapse">
-                            <ul class="nav navbar-nav">
-                                <li class="dropdown"><a href="modeloei.php"><span style="background-color:#1F618D">Modelo e ideología</span></a>
+                            <ul class="nav navbar-nav" style="background-color: #1F618D;">
+                                <li class="dropdown"><a href="modeloei.php"><span class="coltex">Modelo e ideología</span></a>
                                 </li>
-                                <li class="dropdown"><a href=""><span style="background-color:#1F618D">Servicios</span></a>
+                                <li class="dropdown"><a href=""><span class="coltex">Servicios</span></a>
                                 </li>
-                                <li class="dropdown"><a href="alianzas.php"><span style="background-color:#1F618D">Alianzas</span></a>
+                                <li class="dropdown"><a href="alianzas.php"><span class="coltex">Alianzas</span></a>
                                 </li>
-                                <li class="dropdown"><a href="socialmenter.php"><span style="background-color:#1F618D">Socialmente Responsable</span></a></li>
-                                <li class="dropdown"><a href="blog.php"><span style="background-color:#1F618D">Blog</span></a></li>
-                                <li><a href="contacto.php"><span style="background-color:#1F618D">Contacto</span></a></li>
+                                <li class="dropdown"><a href="socialmenter.php"><span class="coltex">Socialmente Responsable</span></a></li>
+                                <li class="dropdown"><a href="blog.php"><span class="coltex">Blog</span></a></li>
+                                <li><a href="contacto.php"><span class="coltex">Contacto</span></a></li>
                             </ul>
                         </div>
                     </div>
