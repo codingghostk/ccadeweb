@@ -27,7 +27,8 @@
         vertical-align: middle;
     }
     .finance-navbar #main-navigation-wrapper .nav > li > a {
-        padding: 44px 15px;
+        /*padding: 44px 15px;*/
+        padding: 18px 15px;
         font-size: 12px;
     }
 
