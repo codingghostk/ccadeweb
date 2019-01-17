@@ -105,7 +105,7 @@
                             <button type="button" data-toggle="collapse" data-target="#main-navigation" aria-expanded="false" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
                         </div>
                         <div id="main-navigation" class="collapse navbar-collapse">
-                            <ul class="nav navbar-nav" style="background-color: #1F618D;">
+                            <ul class="nav navbar-nav" style="background-color: #2099bb;">
                                 <li class="dropdown"><a href="modeloei.php"><span class="coltex">Modelo e ideología</span></a>
                                 </li>
                                 <li class="dropdown"><a href=""><span class="coltex">Servicios</span></a>
