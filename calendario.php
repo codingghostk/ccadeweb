@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title>Rooms | Marcho</title>
+		<title>Seguimiento Digital | CALENDARIO</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -81,6 +81,9 @@
                 </div>
             </div>
         </header>
+        <?php 
+            include("mainMenu.php");
+        ?>
         <!-- header end -->
         <!-- Main menu -->
         <section class="main-menu-one finance-navbar">
@@ -322,105 +325,9 @@
 
 
 
-        <!-- Start Footer bottom section -->
-        <footer class="footer sec-padding">
-                <div class="container">
-                  <div class="row">
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                      <div class="footer-widget about-widget"><a class="logo" href="index.html"><img src="img/logo/logo2.png" alt="Awesome Image"></a>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean malesuada fringilla sem, at dictum lectus ultricies quis. Etiam eu bibendum orci. Aliquam erat volutpat.</p>
-                        <div class="link"><a href="#">MORE ABOUT US</a> </div>
-          
-                      </div>
-                    </div>
-                      <div class="col-md-6 col-sm-6 col-xs-12">
-                        <div class="footer-widget links-widget links-widget-pac">
-                          <div class="title">
-                            <h4>Services</h4>
-                    
-                          </div>
-                          <div class="row">
-                            <div class="col-md-12 col-sm-12">
-                              <ul>
-                                <li><a href="#">Hotel Growth</a></li>
-                                <li><a href="#">Hotel Loan</a></li>
-                                <li><a href="#">Financial Planning</a></li>
-                                <li><a href="#">Insurance Consulting</a></li>
-                                <li><a href="#">Retirenment Planing</a></li>
-                                <li><a href="#">Tax Planing</a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-          
-                    </div>
-          
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                      <div class="footer-widget subscribe-widget">
-                        <div class="title">
-                          <h4>Subscribe Newsletter</h4>
-                        </div>
-                        <form action="#">
-                          <p>Get latest updates and offers.</p>
-                          <div class="newsletter-widget">
-                            <input type="text" placeholder="Enter your email address">
-                            <button type="submit" class="ped-btn-footer">SUBSCRIBE US</button>
-                          </div>
-                        </form>
-          
-                      </div>
-                    </div>
-                      <div class="col-md-6 col-sm-6 col-xs-12">
-                        <div class="footer-widget subscribe-widget">
-                          <div class="title">
-                            <h4>Contact Us</h4>
-                          </div>
-                          <div class="tel-box">
-                            <div class="icon"><i class="fa fa-map-marker"></i></div>
-                            <div class="text">
-                              <p>Apple St, New York, NY 10012, USA</p>
-                            </div>
-                          </div>
-                          <div class="tel-box">
-                            <div class="icon"><i class="fa fa-phone"></i></div>
-                            <div class="text">
-                              <p>( 018) 65 524 8503  /  (125) 954 7854</p>
-                            </div>
-                          </div>
-                          <div class="tel-box">
-                            <div class="icon"><i class="fa fa-envelope"></i></div>
-                            <div class="text">
-                              <p><a href="#">contact@lamarena.com</a></p>
-                            </div>
-                          </div>
-          
-                          <ul class="social list-inline">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-          
-                  </div>
-                </div>
-              </footer>
-        <!-- End Footer bottom section -->
-        <section class="footer-bottom">
-                    <div class="container clearfix">
-                      <div class="pull-left">
-                        <p>Copyright © Marcho 2018. All rights reserved. </p>
-                      </div>
-                      <div class="pull-right">
-                        <p>Created by: Lamarena</p>
-                      </div>
-                    </div>
-                  </section>
+        <?php 
+       include("footer.php");
+       ?>
 		
 		<!-- all js files -->
 
