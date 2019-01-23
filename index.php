@@ -590,7 +590,7 @@
 		<!-- all js files -->
 
 		<!-- jquery latest version -->
-		<script src="js/marco/jquery-1.12.4.min.js"></script>
+		
 		<!-- bootstrap js -->
 		<script src="js/bootstrap.min.js"></script>
 		<!-- owl.carousel js -->
@@ -621,14 +621,6 @@
         <script src="js/zebra_datepicker.min.js"></script>
 		<!-- main js -->
 		<script src="js/main.js"></script>
-        <script type="text/javascript">
-            $(document).ready(function (){
-                if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-                    $("#ulmovil").css({"height": "", "margin-top": ""});
-                }else{
-                    $("#ulmovil").css({"height": "50px", "margin-top": "40px"});
-                }
-            });
-        </script>
+        
 	</body>
 </html>
