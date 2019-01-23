@@ -9,15 +9,12 @@
 
 		<!-- favicon -->		
 		<link rel="shortcut icon" type="image/x-icon" href="img/logo/favicon.png">
-
 		<!-- all css here -->
-
 		<!-- bootstrap v3.3.6 css -->
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<!-- owl.carousel css -->
 		<link rel="stylesheet" href="css/owl.carousel.css">
 		<link rel="stylesheet" href="css/owl.transitions.css">
-
 		<!-- font-awesome css -->
 		<link rel="stylesheet" href="css/font-awesome.min.css">
 		<link rel="stylesheet" href="css/icon.css">
@@ -32,17 +29,9 @@
 		<link rel="stylesheet" href="css/style.css">
 		<!-- responsive css -->
 		<link rel="stylesheet" href="css/responsive.css">
-
 		<!-- modernizr css -->
 		<script src="js/marco/modernizr-2.8.3.min.js"></script>
-        <style type="text/css">
-            .coltex {
-                color: #FFF !important;
-            }
-            .coltex:hover{
-                color: #165770 !important;
-            }
-        </style>
+        
 	</head>
 		<body>
 
@@ -55,32 +44,7 @@
         <header class="header">
             <div class="container clearfix">
                 <div class="header-right-info">
-<!--                     <ul>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-map-marker"></i></div>
-                                <div class="text-box">
-                                    <p>Apple St, New York, <br> NY 10012, USA</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-phone"></i></div>
-                                <div class="text-box">
-                                    <p>+ 389 72 2705345 <br>Marcho.com</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-clock-o"></i></div>
-                                <div class="text-box">
-                                    <p>Mon - Sat 9.00 - 19.00 <br>Sunday Closed</p>
-                                </div>
-                            </div>
-                        </li>
-                    </ul> -->
+
                 </div>
                 <div class="header-left-info">
                     <div class="link">
@@ -91,37 +55,9 @@
         </header>
         <!-- header end -->
         <!-- Main menu -->
-        <section class="main-menu-one finance-navbar">
-            <nav id="main-navigation-wrapper" class="navbar navbar-default Marcho-navbar">
-                <div class="container">
-                    <!--<div class="col-md-4" align="center" style="" >
-                        <div ><img src="img/logo/40aniversario2.jpg" alt="Ccade" width="35%" height="35%"></div>
-                    </div>-->
-                    <div class="float-left">
-                        <div class="logo pull-left"><a href="index.php"><img src="img/logo/3x8.5.png" alt="Awesome Image"></a></div>
-                    </div>
-                    <div class="float-right">
-                        <div class="navbar-header">
-                            <button type="button" data-toggle="collapse" data-target="#main-navigation" aria-expanded="false" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-                        </div>
-                        <div id="main-navigation" class="collapse navbar-collapse">
-                            <ul class="nav navbar-nav" id="ulmovil" style="background-color: #2099bb;">
-                                <li class="dropdown"><a href="modeloei.php"><span class="coltex">Modelo e ideología</span></a>
-                                </li>
-                                <li class="dropdown"><a href=""><span class="coltex">Servicios</span></a>
-                                </li>
-                                <li class="dropdown"><a href="alianzas.php"><span class="coltex">Alianzas</span></a>
-                                </li>
-                                <li class="dropdown"><a href="socialmenter.php"><span class="coltex">Socialmente Responsable</span></a></li>
-                                <li class="dropdown"><a href="blog.php"><span class="coltex">Blog</span></a></li>
-                                <li><a href="contacto.php"><span class="coltex">Contacto</span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                </div>
-            </nav>
-        </section>
+        <?php 
+            include("mainMenu.php");
+        ?>
         <!-- MAin menu ends -->
 
         <!-- Start Slider section -->
@@ -647,216 +583,9 @@
 
 			</div>
 		</section>
-		<!-- End testimonials end -->
-        <!-- Start Overview -->
-       <!--  <section class="our-overview sec-padding">
-                <div class="container">
-                  <div class="row">
-                    <div class="col-md-6 col-sm-6">
-                        <div class="about-wd">
-                                <div class="section-titleBar text-left">
-                                        <h3>Core Value of Resort</h3>
-                                    <p>Integer placerat arcu quis sem aliquet tempor. Maecenas in dictum arcu. Curabitur cursus est libero, id accumsan sapien ullamcorper quis. Pellentesque imperdiet mi quis volutpat facilisis. In facilisis sit amet lacus ut convallis. Aenean congue porta dolor, in rutrum orci. In id lacinia ligula.</p>
-
-                                </div>
-                              <div class="lists">
-                                <ul>
-                                        <li><i class="fa fa-check-circle-o"></i>Hotel Growth</li>
-                                        <li><i class="fa fa-check-circle-o"></i>Sustainability</li>
-                                        <li><i class="fa fa-check-circle-o"></i>Performance</li>
-                                </ul>
-                                <ul>
-                                        <li><i class="fa fa-check-circle-o"></i>Advanced Analytics</li>
-                                        <li><i class="fa fa-check-circle-o"></i>Customer Insights</li>
-                                        <li><i class="fa fa-check-circle-o"></i>Organization</li>
-                                </ul>
-                              </div>
-                        </div>
-                         
-                    </div>
-                    <div class="col-md-6 col-sm-6">
-                            <img src="img/service/map.png" class="mb-15-xs" alt="map">
-                    </div>
-                  </div>
-                </div>
-              </section> -->
-        <!-- End Overview -->
-        <!--Galery section Start-->
-<!--         <section class="gallery">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                        <section class="gallery-section">
-                            <figure class="gallery__item gallery__item--1 lightbox">
-                                <a href="img/galery/gal-1.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-1.jpeg" alt="Gallery image 1" class="gallery__img lightbox">
-                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--2 lightbox">
-                                <a href="img/galery/gal-2.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-2.jpeg" alt="Gallery image 2" class="gallery__img">
-                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--3 lightbox">
-                                <a href="img/galery/gal-3.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-3.jpeg" alt="Gallery image 3" class="gallery__img">
-                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--4">
-                                <a href="img/galery/gal-4.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-4.jpeg" alt="Gallery image 4" class="gallery__img">
-                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--5">
-                                <a href="img/galery/gal-5.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-5.jpeg" alt="Gallery image 5" class="gallery__img">
-                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--6">
-                                <a href="img/galery/gal-6.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-6.jpeg" alt="Gallery image 6" class="gallery__img">
-                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--7">
-                                <a href="img/galery/gal-7.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-7.jpeg" alt="Gallery image 7" class="gallery__img">
-                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--8">
-                                <a href="img/galery/gal-8.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-8.jpeg" alt="Gallery image 8" class="gallery__img">
-                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--9">
-                                <a href="img/galery/gal-9.jpeg" class="tt-gallery-1 lightbox">
-                                <img src="img/galery/gal-9.jpeg" alt="Gallery image 9" class="gallery__img">
-                                <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--10">
-                                <a href="img/galery/gal-10.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-10.jpeg" alt="Gallery image 10" class="gallery__img">
-                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--11">
-                                <a href="img/galery/gal-11.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-11.jpeg" alt="Gallery image 11" class="gallery__img">
-                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--12">
-                                <a href="img/galery/gal-12.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-12.jpeg" alt="Gallery image 12" class="gallery__img">
-                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--13">
-                                <a href="img/galery/gal-13.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-13.jpeg" alt="Gallery image 13" class="gallery__img">
-                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--14">
-                                <a href="img/galery/gal-14.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-14.jpeg" alt="Gallery image 14" class="gallery__img">
-                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-
-
-
-                        </section>
-                    </div>
-                </div>
-            </div>
-        </section> -->
-
-        <!--End of Galery section-->
-
-
-
-
-
-        <!-- Start Footer bottom section -->
-<!--         <footer class="footer sec-padding">
-                <div class="container">
-                  <div class="row">
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                      <div class="footer-widget about-widget"><a class="logo" href="index.html"><img src="img/logo/logo2.png" alt="Awesome Image"></a>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean malesuada fringilla sem, at dictum lectus ultricies quis. Etiam eu bibendum orci. Aliquam erat volutpat.</p>
-                        <div class="link"><a href="#">MORE ABOUT US</a> </div>
-          
-                      </div>
-                    </div>
-                      <div class="col-md-6 col-sm-6 col-xs-12">
-                        <div class="footer-widget links-widget links-widget-pac">
-                          <div class="title">
-                            <h4>Services</h4>
-                    
-                          </div>
-                          <div class="row">
-                            <div class="col-md-12 col-sm-12">
-                              <ul>
-                                <li><a href="#">Hotel Growth</a></li>
-                                <li><a href="#">Hotel Loan</a></li>
-                                <li><a href="#">Financial Planning</a></li>
-                                <li><a href="#">Insurance Consulting</a></li>
-                                <li><a href="#">Retirenment Planing</a></li>
-                                <li><a href="#">Tax Planing</a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-          
-                    </div>
-          
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                      <div class="footer-widget subscribe-widget">
-                        <div class="title">
-                          <h4>Subscribe Newsletter</h4>
-                        </div>
-                        <form action="#">
-                          <p>Get latest updates and offers.</p>
-                          <div class="newsletter-widget">
-                            <input type="text" placeholder="Enter your email address">
-                            <button type="submit" class="ped-btn-footer">SUBSCRIBE US</button>
-                          </div>
-                        </form>
-          
-                      </div>
-                    </div>
-                      <div class="col-md-6 col-sm-6 col-xs-12">
-                        <div class="footer-widget subscribe-widget">
-                          <div class="title">
-                            <h4>Contact Us</h4>
-                          </div>
-                          <div class="tel-box">
-                            <div class="icon"><i class="fa fa-map-marker"></i></div>
-                            <div class="text">
-                              <p>Apple St, New York, NY 10012, USA</p>
-                            </div>
-                          </div>
-                          <div class="tel-box">
-                            <div class="icon"><i class="fa fa-phone"></i></div>
-                            <div class="text">
-                              <p>( 018) 65 524 8503  /  (125) 954 7854</p>
-                            </div>
-                          </div>
-                          <div class="tel-box">
-                            <div class="icon"><i class="fa fa-envelope"></i></div>
-                            <div class="text">
-                              <p><a href="#">contact@lamarena.com</a></p>
-                            </div>
-                          </div>
-          
-                          <ul class="social list-inline">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-          
-                  </div>
-                </div>
-              </footer> -->
-        <!-- End Footer bottom section -->
-        <section class="footer-bottom">
-                    <div class="container clearfix">
-                      <div class="pull-left">
-                        <p>Copyright © Marcho 2018. All rights reserved. </p>
-                      </div>
-                      <div class="pull-right">
-                        <p>Created by: Lamarena</p>
-                      </div>
-                    </div>
-                  </section>
+       <?php 
+       include("footer.php");
+       ?>
 		
 		<!-- all js files -->
 
