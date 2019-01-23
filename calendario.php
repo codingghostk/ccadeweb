@@ -44,99 +44,20 @@
 
         <div id="preloader"></div>
         <!-- header -->
-        <header class="header">
-            <div class="container clearfix">
-                <div class="header-right-info">
-                    <ul>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-map-marker"></i></div>
-                                <div class="text-box">
-                                    <p>Apple St, New York, <br> NY 10012, USA</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-phone"></i></div>
-                                <div class="text-box">
-                                    <p>+ 389 72 2705345 <br>Marcho.com</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-clock-o"></i></div>
-                                <div class="text-box">
-                                    <p>Mon - Sat 9.00 - 19.00 <br>Sunday Closed</p>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="header-left-info">
-                    <div class="link">
-                        <a href="contact.html" class="thm-btn-inverse">book your room</a>
-                    </div>
-                </div>
-            </div>
-        </header>
         <?php 
             include("mainMenu.php");
         ?>
+        <section class="offer-section sec-padding">
+            <div class="container">
+                <div class="row col-md-12">
+                </div>
+            </div>
+        </section>        
         <!-- header end -->
         <!-- Main menu -->
-        <section class="main-menu-one finance-navbar">
-            <nav id="main-navigation-wrapper" class="navbar navbar-default Marcho-navbar">
-                <div class="container">
-                    <div class="float-left">
-                        <div class="logo pull-left"><a href="index.html"><img src="img/logo/logo.png" alt="Awesome Image"></a></div>
-                    </div>
-                    <div class="float-right">
-                        <div class="navbar-header">
-                            <button type="button" data-toggle="collapse" data-target="#main-navigation" aria-expanded="false" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-                        </div>
-                        <div id="main-navigation" class="collapse navbar-collapse">
-                            <ul class="nav navbar-nav">
-                                <li class="dropdown"><a href="index.html">Home</a>
-                                    <ul class="dropdown-submenu">
-                                        <li><a href="index.html">Home One</a></li>
-                                        <li><a href="index-2.html">Home Two</a></li>
-                                        <li><a href="index-3.html">Home Three</a></li>
-                                        <li><a href="index-4.html">Home Four</a></li>
-                                        <li><a href="index-5.html">Home Five</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="about.html">about us</a>
-
-                                </li>
-                                <li class="dropdown"><a href="#">suits & rooms</a>
-                                    <ul class="dropdown-submenu">
-                                        <li><a href="rooms.html">Room List</a></li>
-                                        <li><a href="single_room.html">Single Room</a></li>
-
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="dining&bar.html">Dining & BAr</a></li>
-                                <li class="dropdown"><a href="offers.html">offers</a></li>
-                                <li class="dropdown"><a href="#">news</a>
-                                    <ul class="dropdown-submenu">
-                                        <li><a href="news.html">News Standard</a></li>
-                                        <li><a href="news-details.html">News Details</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contact.html">contact us</a></li>
-                            </ul>
-
-                        </div>
-                    </div>
-
-                </div>
-            </nav>
-        </section>
         <!-- MAin menu ends -->
         <!-- Start breadcumb section -->
-        <section class="page-breadcrumb">
+        <!-- <section class="page-breadcrumb">
             <div class="page-section">
                 <div class="breadcumb-overlay"></div>
                 <div class="container">
@@ -156,17 +77,17 @@
                 <div class="container">
                     <div class="row">
                         <ul>
-                            <li class="home-bread">Home</li>
-                            <li>Offers & Deals</li>
+                            <li class="home-bread">INICIO</li>
+                            <li>CALENDARIO</li>
                         </ul>
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- End breadcumb section -->
 
         <!-- Start single room section -->
-        <section class="offer-section sec-padding">
+        <!-- <section class="offer-section sec-padding">
             <div class="container">
                 <div class="row">
                    <div class="col-md-6 col-sm-6">
@@ -319,8 +240,7 @@
                     </div>
                 </div>
             </div>
-            <!-- End main content -->
-        </section>
+        </section> -->
         <!-- End single room section -->
 
 
