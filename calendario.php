@@ -49,7 +49,25 @@
         ?>
         <section class="offer-section sec-padding">
             <div class="container">
-                <div class="row col-md-12">
+                <div class="row col-md-12" style="height: 200px;">
+                  <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 col-xl-4"></div>
+                  <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 col-xl-4"></div>
+                  <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 col-xl-4"></div>  
+                </div>
+                <div class="row col-md-12" style="height: 200px;">
+                  <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 col-xl-4"></div>
+                  <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 col-xl-4"></div>
+                  <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 col-xl-4"></div>  
+                </div>
+                <div class="row col-md-12" style="height: 200px;">
+                  <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 col-xl-4"></div>
+                  <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 col-xl-4"></div>
+                  <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 col-xl-4"></div>  
+                </div>
+                <div class="row col-md-12" style="height: 200px;">
+                  <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 col-xl-4"></div>
+                  <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 col-xl-4"></div>
+                  <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 col-xl-4"></div>  
                 </div>
             </div>
         </section>        
