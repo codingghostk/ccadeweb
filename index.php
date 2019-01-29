@@ -48,7 +48,7 @@
                 </div>
                 <div class="header-left-info">
                     <div class="link">
-                        <a href="Seguimiento-Digital/index.php" class="thm-btn-inverse">SEGUIMIENTO DIGITAL</a>
+                        <a href="Seguimiento-Digital/index.php" class="thm-btn-inverse">ACCESO PORTAL SEGUIMIENTO DIGITAL</a>
                     </div>
                 </div>
             </div>
@@ -355,7 +355,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-12">
                         <div class="single-count-box">
                             <div class="box">
-                                <div class="number-box"><span class="counter">200,000</span></div>
+                                <div class="number-box"><span class="counter">200000</span></div>
                                 <div class="text-box">
                                     <p>PERSONAL CAPACITADO*</p>
                                 </div>
@@ -363,7 +363,7 @@
                         </div>
                         <div class="single-count-box">
                             <div class="box">
-                                <div class="number-box"><span class="counter">10,000</span></div>
+                                <div class="number-box"><span class="counter">10000</span></div>
                                 <div class="text-box">
                                     <p>EVENTOS IMPARTIDOS*</p>
                                 </div>
@@ -405,8 +405,7 @@
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
                             <h3>Nuestros Clientes</h3>
-                            <p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
-                                organization's data with emphasis on statistical analysis.</p>
+                            <p></p>
                         </div>
                     </div>
                 </div>
@@ -418,12 +417,12 @@
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
                                     <!--<a href="#">-->
-                                        <img src="img/logosclientes/ABC Group.png" width="1%" alt="" />
+                                        <img src="img/logosCambio/ABINSA.png" width="1%" alt="" />
                                     <!--</a>-->
                                     <!--<div class="price">$54</div>-->
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ABC GROUP</h4>
+                                    <h4>ABINSA</h4>
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -432,10 +431,10 @@
                             <!-- single-awesome-project start -->
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
-                                        <img src="img/project/2.jpg" alt="" />
+                                        <img src="img/logosCambio/AERONOVA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>Double Deluxe Room</h4>
+                                    <h4>AERONOVA</h4>
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -444,10 +443,10 @@
                             <!-- single-awesome-project start -->
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
-                                    <img src="img/project/3.jpg" alt="" />
+                                    <img src="img/logosCambio/ANVISGROUP.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>Honeymoon Suit</h4>
+                                    <h4>ANVISGROUP</h4>
                                     
                                 </div>
                             </div>
@@ -506,7 +505,7 @@
 					<div class="col-md-12 col-sm-12 col-xs-12">
 						<div class="section-titleBar text-center">
 							<h3>Testimonios de Clientes</h3>
-						    <p>Hotel analytics (BA) is the practice of iterative.</p>
+						    <p></p>
 						</div>
 					</div>
 				</div>
