@@ -43,95 +43,12 @@
 		<![endif]-->
 
         <div id="preloader"></div>
-        <!-- header -->
-        <header class="header">
-            <div class="container clearfix">
-                <div class="header-right-info">
-                    <ul>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-map-marker"></i></div>
-                                <div class="text-box">
-                                    <p>Apple St, New York, <br> NY 10012, USA</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-phone"></i></div>
-                                <div class="text-box">
-                                    <p>+ 389 72 2705345 <br>Marcho.com</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-clock-o"></i></div>
-                                <div class="text-box">
-                                    <p>Mon - Sat 9.00 - 19.00 <br>Sunday Closed</p>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="header-left-info">
-                    <div class="link">
-                        <a href="contact.html" class="thm-btn-inverse">book your room</a>
-                    </div>
-                </div>
-            </div>
-        </header>
-        <!-- header end -->
-        <!-- Main menu -->
-        <section class="main-menu-one finance-navbar">
-            <nav id="main-navigation-wrapper" class="navbar navbar-default Marcho-navbar">
-                <div class="container">
-                    <div class="float-left">
-                        <div class="logo pull-left"><a href="index.html"><img src="img/logo/logo.png" alt="Awesome Image"></a></div>
-                    </div>
-                    <div class="float-right">
-                        <div class="navbar-header">
-                            <button type="button" data-toggle="collapse" data-target="#main-navigation" aria-expanded="false" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-                        </div>
-                        <div id="main-navigation" class="collapse navbar-collapse">
-                            <ul class="nav navbar-nav">
-                                <li class="dropdown"><a href="index.html">Home</a>
-                                    <ul class="dropdown-submenu">
-                                        <li><a href="index.html">Home One</a></li>
-                                        <li><a href="index-2.html">Home Two</a></li>
-                                        <li><a href="index-3.html">Home Three</a></li>
-                                        <li><a href="index-4.html">Home Four</a></li>
-                                        <li><a href="index-5.html">Home Five</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="about.html">about us</a>
 
-                                </li>
-                                <li class="dropdown"><a href="#">suits & rooms</a>
-                                    <ul class="dropdown-submenu">
-                                        <li><a href="rooms.html">Room List</a></li>
-                                        <li><a href="single_room.html">Single Room</a></li>
-
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="dining&bar.html">Dining & BAr</a></li>
-                                <li class="dropdown"><a href="offers.html">offers</a></li>
-                                <li class="dropdown"><a href="#">news</a>
-                                    <ul class="dropdown-submenu">
-                                        <li><a href="news.html">News Standard</a></li>
-                                        <li><a href="news-details.html">News Details</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contact.html">contact us</a></li>
-                            </ul>
-
-                        </div>
-                    </div>
-
-                </div>
-            </nav>
-        </section>
-        <!-- MAin menu ends -->
+        <?php 
+            include("mainMenu.php");
+        ?>
+        
+       
         <!-- Start breadcumb section -->
         <section class="page-breadcrumb">
             <div class="page-section">
@@ -141,7 +58,7 @@
                         <div class="col-md-12 col-sm-12 col-xs-12">
                             <div class="breadcrumb text-center">
                                 <div class="section-titleBar white-headline text-center">
-                                    <h3>About us</h3>
+                                    <h3>Capacitacion</h3>
                                 </div>
                             </div>
                         </div>
@@ -154,7 +71,7 @@
                     <div class="row">
                         <ul>
                             <li class="home-bread">Home</li>
-                            <li>About us</li>
+                            <li>Capacitacion</li>
                         </ul>
                     </div>
                 </div>
@@ -168,16 +85,16 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>Our Resort Advantages</h3>
-                            <p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
-                                organization's data with emphasis on statistical analysis.</p>
+                            <h3>CAPACITACIÓN</h3>
+                            <!--<p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
+                                organization's data with emphasis on statistical analysis.</p> -->
                         </div>
                     </div>
                 </div>
                 <div class="row">
+                     <!-- Imagen 1100*700 
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="about-carousel">
-                            <!-- single-awesome-project start -->
                             <div class="single-about-project">
                                 <div class="awesome-img">
                                     <a href="#">
@@ -199,10 +116,9 @@
                                     </a>
                                 </div>
                             </div>
-
-
                         </div>
                     </div>
+                    -->
 
 
                     <div class="about-whoweare">
@@ -211,35 +127,24 @@
                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                     <div class="about-content mrb">
 
-                                        <h4>Company Overview</h4>
+                                        <h4>DESCRIPCIÓN</h4>
 
-                                        <p>The phrasal sequence of the Lorem Ipsum text is now so widespread and commonplace that many DTP programmes can generate dummy text using the starting sequence "Lorem ipsum". Fortunately, the phrase 'Lorem Ipsum' is now recognized by electronic pre-press systems and, when found, an alarm can be raised.</p>
-                                        <div class="about-details text-center">
-                                            <div class="lists">
-                                                <ul>
-                                                    <li><i class="fa fa-check-circle-o"></i>Which toil and pain can procure great pleasure.</li>
-                                                    <li><i class="fa fa-check-circle-o"></i>Any right to find man who annoying.</li>
-                                                    <li><i class="fa fa-check-circle-o"></i>Consequences, avoids a pain that produces.</li>
-                                                </ul>
-
-                                            </div>
-                                        </div>
+                                        <p>Servicios especializados de capacitación orientados a resolver la problemática desde la raíz. Más de 200 temas en nuestras 7 áreas de especialización, adecuados a sus propios requerimientos y características.</p>
+                                        <div class="about-details text-center"></div>
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                     <div class="about-content">
-
-                                        <h4>Company Overview</h4>
-
-                                        <p>The phrasal sequence of the Lorem Ipsum text is now so widespread and commonplace that many DTP programmes can generate dummy text using the starting sequence "Lorem ipsum". Fortunately, the phrase 'Lorem Ipsum' is now recognized by electronic pre-press systems and, when found, an alarm can be raised.</p>
+                                        <h4>SERVICIOS</h4>
                                         <div class="about-details text-center">
                                             <div class="lists">
                                                 <ul>
-                                                    <li><i class="fa fa-check-circle-o"></i>Which toil and pain can procure great pleasure.</li>
-                                                    <li><i class="fa fa-check-circle-o"></i>Any right to find man who annoying.</li>
-                                                    <li><i class="fa fa-check-circle-o"></i>Consequences, avoids a pain that produces.</li>
+                                                    <li><i class="fa fa-check-circle-o"></i>Programas Integrales de Alta Efectividad.</li>
+                                                    <li><i class="fa fa-check-circle-o"></i>Cursos Internos, Seminarios o Talleres.</li>
+                                                    <li><i class="fa fa-check-circle-o"></i>Servicios Especialmente Diseñados.</li>
+                                                    <li><i class="fa fa-check-circle-o"></i>Cursos Abiertos (Querétaro e Irapuato).</li>
+                                                    <li><i class="fa fa-check-circle-o"></i>Asesoría Personalizada.</li>
                                                 </ul>
-
                                             </div>
                                         </div>
                                     </div>
@@ -254,7 +159,118 @@
         </section>
         <!-- End welcome section -->
 
-        <!-- Start welcome section -->
+        <!-- Start Overview -->
+        <section class="our-overview sec-padding">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-6 col-sm-6">
+                        <div class="about-wd">
+                                <div class="section-titleBar text-left">
+                                        <h3>Áreas de Especialización</h3>
+                                    <p>Trabajamos con todos los niveles de la organización, desde el personal operativo hasta la alta dirección. Dichos procesos son realizados por nuestro equipo de más de 45 instructores – consultores y especialistas en los diversos temas a tratar. Nuestras 7 áreas de especialización son:</p>
+
+                                </div>
+                              <div class="lists">
+                                <ul>
+                                        <li><i class="fa fa-check-circle-o"></i>Desarrollo Integral Humano</li>
+                                        <li><i class="fa fa-check-circle-o"></i>Administración / Operaciones</li>
+                                        <li><i class="fa fa-check-circle-o"></i>Calidad / Mejora Continua</li>
+                                        <li><i class="fa fa-check-circle-o"></i>Técnica (Industrial / Informática / Aeronáutica)</li>
+                                </ul>
+                                <ul>
+                                        <li><i class="fa fa-check-circle-o"></i>Ventas / Mercadotecnia</li>
+                                        <li><i class="fa fa-check-circle-o"></i>Financiera / Fiscal</li>
+                                        <li><i class="fa fa-check-circle-o"></i>Instituciones de Servicio</li>
+                                </ul>
+                              </div>
+                        </div>
+                         
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                            <img src="img/service/map.png" class="mb-15-xs" alt="map">
+                    </div>
+                  </div>
+                </div>
+              </section>
+        <!-- End Overview -->
+
+        <!--Galery section Start-->
+        <section class="gallery">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <section class="gallery-section">
+                            <figure class="gallery__item gallery__item--1 lightbox">
+                                <a href="img/galery/gal-1.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-1.jpeg" alt="Gallery image 1" class="gallery__img lightbox">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--2 lightbox">
+                                <a href="img/galery/gal-2.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-2.jpeg" alt="Gallery image 2" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--3 lightbox">
+                                <a href="img/galery/gal-3.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-3.jpeg" alt="Gallery image 3" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--4">
+                                <a href="img/galery/gal-4.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-4.jpeg" alt="Gallery image 4" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--5">
+                                <a href="img/galery/gal-5.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-5.jpeg" alt="Gallery image 5" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--6">
+                                <a href="img/galery/gal-6.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-6.jpeg" alt="Gallery image 6" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--7">
+                                <a href="img/galery/gal-7.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-7.jpeg" alt="Gallery image 7" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--8">
+                                <a href="img/galery/gal-8.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-8.jpeg" alt="Gallery image 8" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--9">
+                                <a href="img/galery/gal-9.jpeg" class="tt-gallery-1 lightbox">
+                                <img src="img/galery/gal-9.jpeg" alt="Gallery image 9" class="gallery__img">
+                                <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--10">
+                                <a href="img/galery/gal-10.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-10.jpeg" alt="Gallery image 10" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--11">
+                                <a href="img/galery/gal-11.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-11.jpeg" alt="Gallery image 11" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--12">
+                                <a href="img/galery/gal-12.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-12.jpeg" alt="Gallery image 12" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--13">
+                                <a href="img/galery/gal-13.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-13.jpeg" alt="Gallery image 13" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--14">
+                                <a href="img/galery/gal-14.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-14.jpeg" alt="Gallery image 14" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+
+
+
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--End of Galery section-->
+
+
+        
+
+        <!-- Start welcome section 
         <section class="about-us-activities sec-padding bg-color">
             <div class="container">
                 <div class="row">
@@ -299,9 +315,9 @@
                 </div>
             </div>
         </section>
-        <!-- End welcome section -->
+       End welcome section -->
 
-        <!-- Start testimonials section -->
+        <!-- Start testimonials section 
         <section class="our-best-sides sec-padding ">
             <div class="container">
                 <div class="row">
@@ -355,7 +371,7 @@
                 </div>
             </div>
         </section>
-        <!-- End testimonials end -->
+         End testimonials end -->
 
         <!-- Start testimonials section -->
        <!--  <section class="testimonial-section-2 sec-padding bg-color">
