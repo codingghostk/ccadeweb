@@ -127,15 +127,7 @@
                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                     <div class="about-content mrb">
 
-                                        <h4>DESCRIPCIÓN</h4>
-
-                                        <p>Servicios especializados de capacitación orientados a resolver la problemática desde la raíz. Más de 200 temas en nuestras 7 áreas de especialización, adecuados a sus propios requerimientos y características.</p>
-                                        <div class="about-details text-center"></div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="about-content">
-                                        <h4>SERVICIOS</h4>
+                                    <h4>SERVICIOS</h4>
                                         <div class="about-details text-center">
                                             <div class="lists">
                                                 <ul>
@@ -147,6 +139,15 @@
                                                 </ul>
                                             </div>
                                         </div>
+                                        <div class="about-details text-center"></div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="about-content">
+                                    <h4>DESCRIPCIÓN</h4>
+
+                                        <p>Servicios especializados de capacitación orientados a resolver la problemática desde la raíz. Más de 200 temas en nuestras 7 áreas de especialización, adecuados a sus propios requerimientos y características.</p>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -187,7 +188,7 @@
                          
                     </div>
                     <div class="col-md-6 col-sm-6">
-                            <img src="img/service/map.png" class="mb-15-xs" alt="map">
+                            <img src="img/galery/gal-5.jpeg" class="mb-15-xs" alt="map">
                     </div>
                   </div>
                 </div>
