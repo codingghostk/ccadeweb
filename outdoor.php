@@ -71,16 +71,26 @@
       </section>
       <!-- End Slider section -->
       <!-- Start welcome section -->
-      <section class="welcome-section-4 sec-padding">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-5">
-                  <div class="section-titleBar text-left">
-                     <h3>DESCRIPCIÓN</h3>
+      <section class="about">
+            <div class="story__pictures">
+                <img src="img/CCADE 2018 outdoor-01.jpg" alt="Couple with new house" class="story__img--1">
+                <!-- <img src="img/about/1.jpeg" alt="New house" class="story__img--2"> -->
+            </div>
+            <div class="story__content">
+            <h3>DESCRIPCIÓN</h3>
                      <p>Entrenamiento de aprendizaje vivencial al aire libre, basado en metodologías de transferencia práctica, que garantizan la correcta asimilación y aplicación de los conocimientos / competencias adquiridas, para generar procesos de cambio profundos.</p>
                      <hr>
                      <p>Proceso integral que se complementa con sesiones de transferencia en las áreas de trabajo y que garantiza la aplicación real de las experiencias vividas durante el Outdoor, en las necesidades especificas del día a día dentro de la empresa.</p>
                      <hr>
+                <!-- <button class="thm-btn">Find your own home</button> -->
+            </div>
+        </section>
+      <!-- <section class="welcome-section-4 sec-padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-5">
+                  <div class="section-titleBar text-left">
+                     
                      <p>
                         > Outdoor de 1, 2 o 3 días<br>
                         > Diversos factores a atender<br>
@@ -91,8 +101,8 @@
                         > Proceso de Outdoor<br>
                         > Sesión post – Outdoor de transferencia
                      </p>
-                     <div class="button">
-                        <!-- <a class="thm-btn" href="#">View Rooms</a> -->
+                     <div class="button"> -->
+                        <!-- <a class="thm-btn" href="#">View Rooms</a>
                      </div>
                   </div>
                </div>
@@ -105,99 +115,100 @@
                </div>
             </div>
          </div>
-      </section>
-      <!-- End welcome section -->        
-      <!-- Start Rooms Section -->
-      <section class="our-overview sec-padding bg-color">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12 col-sm-12 col-xs-12">
-                  <div class="section-titleBar text-center">
-                     <h3>Galería de Actividades</h3>
-                     <!-- <p>Modern Hotel has 35 elegantly furnished and air conditioned classic rooms, which will be a perfect pick both for Hotel and leisure travelers...</p> -->
-                  </div>
-               </div>
+      </section> -->
+      <!-- End welcome section -->   
+      <section class="gallery-3 sec-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="section-titleBar text-center">
+                            <h3>Galería</h3>
+                            <p>
+                        > Outdoor de 1, 2 o 3 días<br>
+                        > Diversos factores a atender<br>
+                        > Grupos reducidos o eventos masivos<br>
+                        > Diversidad de lugares<br>
+                        > Diagnóstico previo general<br>
+                        > Diagnóstico del perfil del grupo<br>
+                        > Proceso de Outdoor<br>
+                        > Sesión post – Outdoor de transferencia
+                     </p>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="row">
-               <div class="project-carousel">
-                  <!-- single-awesome-project start -->
-                  <div class="col-md-4 col-sm-4 col-xs-12">
-                     <!-- single-awesome-project start -->
-                     <div class="single-awesome-project">
-                        <div class="awesome-img">
-                           <a href="#">
-                           <img src="img/project/2.jpg" alt="" />
-                           </a>
-                           <div class="price">$54</div>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="gallery-section">
+                            <figure class="gallery__item gallery__item--1 lightbox">
+                                <a href="img/galery/gal-1.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-1.jpeg" alt="Gallery image 1" class="gallery__img lightbox">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--2 lightbox">
+                                <a href="img/galery/gal-2.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-2.jpeg" alt="Gallery image 2" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--3 lightbox">
+                                <a href="img/galery/gal-3.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-3.jpeg" alt="Gallery image 3" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--4">
+                                <a href="img/galery/gal-4.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-4.jpeg" alt="Gallery image 4" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--5">
+                                <a href="img/galery/gal-5.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-5.jpeg" alt="Gallery image 5" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--6">
+                                <a href="img/galery/gal-6.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-6.jpeg" alt="Gallery image 6" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--7">
+                                <a href="img/galery/gal-7.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-7.jpeg" alt="Gallery image 7" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--8">
+                                <a href="img/galery/gal-8.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-8.jpeg" alt="Gallery image 8" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--9">
+                                <a href="img/galery/gal-9.jpeg" class="tt-gallery-1 lightbox">
+                                <img src="img/galery/gal-9.jpeg" alt="Gallery image 9" class="gallery__img">
+                                <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--10">
+                                <a href="img/galery/gal-10.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-10.jpeg" alt="Gallery image 10" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--11">
+                                <a href="img/galery/gal-11.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-11.jpeg" alt="Gallery image 11" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--12">
+                                <a href="img/galery/gal-12.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-12.jpeg" alt="Gallery image 12" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--13">
+                                <a href="img/galery/gal-13.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-13.jpeg" alt="Gallery image 13" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--14">
+                                <a href="img/galery/gal-14.jpeg" class="tt-gallery-1 lightbox">
+                                    <img src="img/galery/gal-14.jpeg" alt="Gallery image 14" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+
+
+
                         </div>
-                     </div>
-                     <!-- single-awesome-project end -->
-                  </div>
-                  <div class="col-md-4 col-sm-4 col-xs-12">
-                     <!-- single-awesome-project start -->
-                     <div class="single-awesome-project">
-                        <div class="awesome-img">
-                           <a href="#">
-                           <img src="img/project/2.jpg" alt="" />
-                           </a>
-                           <div class="price">$54</div>
-                        </div>
-                     </div>
-                     <!-- single-awesome-project end -->
-                  </div>
-                  <div class="col-md-4 col-sm-4 col-xs-12">
-                     <!-- single-awesome-project start -->
-                     <div class="single-awesome-project">
-                        <div class="awesome-img">
-                           <a href="#">
-                           <img src="img/project/3.jpg" alt="" />
-                           </a>
-                           <div class="price">$54</div>
-                        </div>
-                     </div>
-                     <!-- single-awesome-project end -->
-                  </div>
-                  <div class="col-md-4 col-sm-4 col-xs-12">
-                     <!-- single-awesome-project start -->
-                     <div class="single-awesome-project">
-                        <div class="awesome-img">
-                           <a href="#">
-                           <img src="img/project/4.jpg" alt="" />
-                           </a>
-                           <div class="price">$54</div>
-                        </div>
-                     </div>
-                     <!-- single-awesome-project end -->
-                  </div>
-                  <div class="col-md-4 col-sm-4 col-xs-12">
-                     <!-- single-awesome-project start -->
-                     <div class="single-awesome-project">
-                        <div class="awesome-img">
-                           <a href="#">
-                           <img src="img/project/5.jpg" alt="" />
-                           </a>
-                           <div class="price">$54</div>
-                        </div>
-                     </div>
-                     <!-- single-awesome-project end -->
-                  </div>
-                  <div class="col-md-4 col-sm-4 col-xs-12">
-                     <!-- single-awesome-project start -->
-                     <div class="single-awesome-project">
-                        <div class="awesome-img">
-                           <a href="#">
-                           <img src="img/project/6.jpg" alt="" />
-                           </a>
-                           <div class="price">$54</div>
-                        </div>
-                     </div>
-                     <!-- single-awesome-project end -->
-                  </div>
-               </div>
+                    </div>
+                </div>
             </div>
-         </div>
-      </section>
-      <!-- Ends Rooms Section -->
+
+
+        </section>
+
+
       <?php
          include("footer.php");
          ?>

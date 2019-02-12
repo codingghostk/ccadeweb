@@ -79,8 +79,21 @@
             </div>
         </section>
         <!-- End Slider section -->
+        <section class="about">
+            <div class="story__pictures">
+                <img src="img/about/2.jpeg" alt="Couple with new house" class="story__img--1">
+                <img src="img/about/1.jpeg" alt="New house" class="story__img--2">
+            </div>
+            <div class="story__content">
+            <h3>DESCRIPCIÓN</h3>
+                          <p>Modelos inteligentes de consultoría comprobados para la adecuación y puesta en marcha del sistema que usted requiera implementar exitosamente en su organización</p>
+                          <hr>
+                          <p>Nuestro grupo de consultores especialistas y nuestra experiencia, nos permiten ofrecer a su organización diversos modelos de consultoría organizacional, siempre orientados hacia la mejora de la empresa y la obtención de resultados.</p>
+                <!-- <button class="thm-btn">Find your own home</button> -->
+            </div>
+        </section>
         <!-- Start welcome section -->
-        <section class="welcome-section-4 sec-padding">
+        <!-- <section class="welcome-section-4 sec-padding">
             <div class="container">
                 <div class="row">
                   <div class="col-md-5">
@@ -89,9 +102,9 @@
                           <p>Modelos inteligentes de consultoría comprobados para la adecuación y puesta en marcha del sistema que usted requiera implementar exitosamente en su organización</p>
                           <hr>
                           <p>Nuestro grupo de consultores especialistas y nuestra experiencia, nos permiten ofrecer a su organización diversos modelos de consultoría organizacional, siempre orientados hacia la mejora de la empresa y la obtención de resultados.</p>
-                          <div class="button">
+                          <div class="button"> -->
                               <!-- <a class="thm-btn" href="#">View Rooms</a> -->
-                          </div>
+                          <!-- </div>
 
                       </div>
                   </div>
@@ -104,7 +117,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- End welcome section -->
 
         <!-- Start Rooms Section -->
@@ -139,21 +152,7 @@
                                     > ISO 14000 – Norma Ecológica<br>
                                     > ISO 22000 – Norma Alimentaria<br>
                                     > ESR – Empresas Socialmente Responsable
-                                    </p>
-                                    <div class="rating">
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <small>(145)</small>
-                                    </div>
-                                    <ul>
-                                        <li><i class="icon_clock_alt"></i> 1h 30min</li>
-                                        <br>
-                                        <!-- <li><i class="icon_like"></i> 890</li>
-                                        <li><a href="course-detail.html">Book now</a></li> -->
-                                    </ul>
+                                    </p>                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -171,21 +170,7 @@
                                     <h4>EVOLUCIÓN ORGANIZACIONAL</h4>
                                     <p> > Competencias Laborales<br>
                                     > Desarrollo Organizacional
-                                    </p>
-                                    <div class="rating">
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <small>(145)</small>
-                                    </div>
-                                    <ul>
-                                        <li><i class="icon_clock_alt"></i> 1h 30min</li>
-                                        <br>
-                                        <!-- <li><i class="icon_like"></i> 890</li>
-                                        <li><a href="course-detail.html">Book now</a></li> -->
-                                    </ul>
+                                    </p>                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -204,21 +189,7 @@
                                     <p> > Lean Manufacturing<br>
                                     > 6 Sigma<br>
                                     > TMP – Mantenimiento Productivo Total
-                                    </p>
-                                    <div class="rating">
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star voted"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <small>(145)</small>
-                                    </div>
-                                    <ul>
-                                        <li><i class="icon_clock_alt"></i> 1h 30min</li>
-                                        <br>
-                                        <!-- <li><i class="icon_like"></i> 890</li>
-                                        <li><a href="course-detail.html">Book now</a></li> -->
-                                    </ul>
+                                    </p>                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -268,3 +239,7 @@
 		<script src="js/main.js"></script>
 	</body>
 </html>
+<script>
+var owl = $('.project-carousel');
+owl.trigger('stop.owl.autoplay');
+</script>
