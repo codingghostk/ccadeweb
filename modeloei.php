@@ -169,7 +169,7 @@
                 <div class="row">
                     <div class="col-md-4 col-sm-12 col-xs-12">
                         <div class="box-menu-item">
-                            <img class="img-bordered-lighter" src="img/dining/menu-1.jpg" alt="dessert">
+                            <img class="img-bordered-lighter" src="img/modelo-conocimiento.png" alt="dessert">
                             <!--<h4>Organic Yoghurt Panna Cotta</h4>
                             <p class="box-menu-item-price">$45.89</p>
                             <div class="box-menu-item__main">
@@ -179,12 +179,12 @@
                     </div>
                     <div class="col-md-4 col-sm-12 col-xs-12">
                         <div class="box-menu-item mrg">
-                            <img class="img-bordered-lighter" src="img/dining/menu-2.jpg" alt="dessert" >
+                            <img class="img-bordered-lighter" src="img/modelo-ejecucion.png" alt="dessert" >
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-12 col-xs-12">
                         <div class="box-menu-item">
-                            <img class="img-bordered-lighter" src="img/dining/menu-3.jpg" alt="dessert">
+                            <img class="img-bordered-lighter" src="img/modelo-implementacion.png" alt="dessert">
                         </div>
                     </div>
                 </div>

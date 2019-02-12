@@ -31,6 +31,8 @@
 		<link rel="stylesheet" href="css/responsive.css">
 		<!-- modernizr css -->
 		<script src="js/marco/modernizr-2.8.3.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.25.6/dist/sweetalert2.all.min.js"></script>
         
 	</head>
 		<body>
@@ -227,7 +229,14 @@
         <section class="request-call-bg sec-padding">
             <div class="container">
                 <div class="row">
-
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="section-titleBar text-center">
+                            <h3>Suscríbete</h3>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
                     <div class="col-md-5">
                         <div class="info-box">
                             <div class="sec-title">
@@ -235,18 +244,18 @@
                                 <div class="decor-line"></div>
                             </div>
                             <div class="text">
-                                <p>Nullam dictum sodales diam, sed sagittis orci sollic.<br>Sed condimentum nisl a feugiat ullamcorper.</p>
+                                <p></p>
                                 <div class="contact-info">
                                     <div class="tel-box">
                                         <div class="icon-box"><i class="fa fa-phone"></i></div>
                                         <div class="text-box">
-                                            <p>( 018) 65 524 8503  /  (125) 954 7854</p>
+                                            <p>Teléfono (442) 213 5724 / (442) 213 5802</p>
                                         </div>
                                     </div>
                                     <div class="tel-box">
                                         <div class="icon-box"><i class="fa fa-envelope"></i></div>
                                         <div class="text-box">
-                                            <p><a href="#">contact@lamarena.com</a></p>
+                                            <p><a href="#">acesores@ccade.com.mx</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -259,15 +268,15 @@
                             <form id="request-call-form" action="#" method="POST" novalidate="novalidate">
 
                                 <div class="col-md-12">
-                                    <input id="name" type="text" placeholder="Nombre" name="name">
-                                    <input id="email" type="text" placeholder="Correo electronico" name="email">
+                                    <input id="nameSubs" type="text" placeholder="Nombre" name="name">
+                                    <input id="emailSubs" type="text" placeholder="Correo electronico" name="email">
                                 </div>
                                 <!--<div class="col-md-6">
                                     <input id="phone" type="text" placeholder="Telefo" name="phone">
                                     <input id="subject" type="text" placeholder="Subject" name="subject">
                                 </div>-->
                                 <div class="col-md-12">
-                                    <button type="submit" class="thm-btn">Suscribirse</button>
+                                    <button type="submit" value="Submit" class="thm-btn" onclick="mailchimpPhp()">Suscribirse</button>
                                 </div>
                                 <div class="col-md-12">
                                     <div id="success"></div>
@@ -300,7 +309,7 @@
                             <ul class="room-categories">
                                 <li class="room-category">
                                     <a href="capacitacion.php">
-                                        <div class="media-icon"> <i class="flaticon-hotel-room"></i></div>
+                                        <div class="media-icon"> <img src="img/capacitacion.png" alt="Smiley face" height="40%" width="40%"></i></div>
                                         <div class="media-caption">
                                             <h4 class="category-titile">Capacitación</h4>
                                             <span class="job-count">Más Información</span>
@@ -309,7 +318,7 @@
                                 </li>
                                 <li class="room-category">
                                     <a href="consultoria.php">
-                                        <div class="media-icon"> <i class="flaticon-gym"></i></div>
+                                        <div class="media-icon"> <img src="img/consultoria.png" alt="Smiley face" height="40%" width="40%"></i></div>
                                         <div class="media-caption">
                                             <h4 class="category-titile">Consultoría</h4>
                                             <span class="job-count">Más Información</span>
@@ -318,7 +327,7 @@
                                 </li>
                                 <li class="room-category">
                                     <a href="outdoor.php">
-                                        <div class="media-icon"> <i class="flaticon-dish"></i></div>
+                                        <div class="media-icon"> <img src="img/outdoor.png" alt="Smiley face" height="30%" width="30%"></i></div>
                                         <div class="media-caption">
                                             <h4 class="category-titile">Outdoor</h4>
                                             <span class="job-count">Más Información</span>
@@ -327,7 +336,7 @@
                                 </li>
                                 <li class="room-category">
                                     <a href="calendario.php">
-                                        <div class="media-icon"> <i class="flaticon-cooking"></i></div>
+                                        <div class="media-icon"> <img src="img/calendario.png" alt="Smiley face" height="30%" width="30%"></i></div>
                                         <div class="media-caption">
                                             <h4 class="category-titile">Calendario de cursos abiertos</h4>
                                             <span class="job-count">Más Información</span>
@@ -620,6 +629,36 @@
         <script src="js/zebra_datepicker.min.js"></script>
 		<!-- main js -->
 		<script src="js/main.js"></script>
-        
+        <script>
+      
+      function mailchimpPhp()
+       {
+               $.ajax({
+
+               url:"Suscripcion.php",
+
+               type:"POST",
+
+               data:{"email" : $('#emailSubs').val(), "name" : $('$name').val()},
+
+               dataType:"json",
+               
+               success:function(response)
+               { 
+                  console.log(response);
+                  alert(response.message);
+                  $('#subemail').val('');
+
+               },
+
+                error: function(result) {
+                  console.log(result.error);
+                  alert(result.error);
+
+              }
+
+            });
+      }
+       </script>
 	</body>
 </html>
