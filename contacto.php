@@ -71,7 +71,7 @@
                         <div class="col-md-12 col-sm-12 col-xs-12">
                             <div class="breadcrumb text-center">
                                 <div class="section-titleBar white-headline text-center">
-                                    <h3>Contact us</h3>
+                                    <h3>CONTACTANOS</h3>
                                 </div>
                             </div>
                         </div>
