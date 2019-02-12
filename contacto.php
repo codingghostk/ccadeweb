@@ -131,12 +131,12 @@
                             <div class="row">
                                 <p class="success" id="success"></p>
                                 <p class="error" id="error"></p>
-                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Empresa" name="contact_empresa" id="contact_empresa" class="input"></div>
-                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Nombre" name="contact_name" id="contact_name" class="input"></div>
-                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Puesto" name="contact_puesto" id="contact_puesto" class="input"></div>
-                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Correo" name="contact_email" id="contact_email" class="input"></div>
-                                    <div class="col-md-12"><textarea data-delay="500" class="required valid" placeholder="Mensaje" name="message" id="message"></textarea></div>
-                                    <div class="col-md-3"><input name="Enviar" type="button" value="Enviar" style="border: 2px solid #4db7fe;color: #fff;cursor: pointer;display: inline-block;font-size: 14px;font-weight: 700;
+                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Empresa" name="contact_empresa" id="empresa" class="input"></div>
+                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Nombre" name="contact_name" id="nombre" class="input"></div>
+                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Puesto" name="contact_puesto" id="puesto" class="input"></div>
+                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Correo" name="contact_email" id="email" class="input"></div>
+                                    <div class="col-md-12"><textarea data-delay="500" class="required valid" placeholder="Mensaje" name="message" id="mensaje"></textarea></div>
+                                    <div class="col-md-3"><input name="Enviar" type="button" value="Enviar" onclick="enviarCorreo()" style="border: 2px solid #4db7fe;color: #fff;cursor: pointer;display: inline-block;font-size: 14px;font-weight: 700;
                                     margin-top: 20px;padding: 10px 22px;text-align: center;text-transform: uppercase;transition: all 0.4s ease 0s;z-index: 222;background: #4db7fe;border-radius: 3px;width: 100%;"></div>
 
                             </div>
@@ -182,7 +182,7 @@
         <!-- End welcome section -->
 
         <!-- Start Footer bottom section -->
-        <footer class="footer sec-padding">
+        <footer class="footer sec-padding" style="background:#FFF;">
                 <div class="container">
                   <div class="row">
                    <!--  <div class="col-md-6 col-sm-12 col-xs-12">
@@ -315,5 +315,36 @@
         <script src="js/zebra_datepicker.min.js"></script>
 		<!-- main js -->
 		<script src="js/main.js"></script>
+        <script type="text/javascript">
+        function enviarCorreo()
+        {
+        $.ajax({ 
+            url:"enviarCorreo.php",  
+            type:"POST", 
+            data:{
+                "nombre" : $('#nombre').val(), 
+                "empresa" : $('#empresa').val(), 
+                "correo" : $('#correo').val(), 
+                "puesto" : $('#puesto').val(), 
+                "mensaje" : $('#mensaje').val()
+            },    
+            dataType:"json", 
+            success:function(response)   
+            { 
+               //console.log(response);
+               alert(response.message);
+               $('#nombre').val('');
+               $('#empresa').val('');
+               $('#correo').val('');
+               $('#puesto').val('');
+               $('#mensaje').val('');
+            },   
+             error: function(result) {
+               console.log(result.error);
+               //alert(result.error);    
+            } 
+        });
+        }
+        </script>
 	</body>
 </html>
