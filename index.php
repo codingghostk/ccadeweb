@@ -31,8 +31,6 @@
 		<link rel="stylesheet" href="css/responsive.css">
 		<!-- modernizr css -->
 		<script src="js/marco/modernizr-2.8.3.min.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.25.6/dist/sweetalert2.all.min.js"></script>
         
 	</head>
 		<body>
@@ -265,7 +263,7 @@
 
                     <div class="col-md-7">
                         <div class="request-call-form">
-                            <form id="request-call-form" action="#" method="POST" novalidate="novalidate">
+                            
 
                                 <div class="col-md-12">
                                     <input id="nameSubs" type="text" placeholder="Nombre" name="name">
@@ -276,12 +274,12 @@
                                     <input id="subject" type="text" placeholder="Subject" name="subject">
                                 </div>-->
                                 <div class="col-md-12">
-                                    <button type="submit" value="Submit" class="thm-btn" onclick="mailchimpPhp()">Suscribirse</button>
+                                    <button value="Submit" class="thm-btn" onclick="mailchimpPhp()">Suscribirse</button>
                                 </div>
                                 <div class="col-md-12">
                                     <div id="success"></div>
                                 </div>
-                            </form>
+                            
                         </div>
                     </div>
 
@@ -639,7 +637,7 @@
 
                type:"POST",
 
-               data:{"email" : $('#emailSubs').val(), "name" : $('$name').val()},
+               data:{"email" : $('#emailSubs').val(), "name" : $('#nameSubs').val()},
 
                dataType:"json",
                
@@ -652,12 +650,13 @@
                },
 
                 error: function(result) {
-                  console.log(result.error);
+                  console.log(result);
                   alert(result.error);
 
               }
 
             });
+               
       }
        </script>
 	</body>

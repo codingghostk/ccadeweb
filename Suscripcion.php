@@ -5,10 +5,9 @@ try {
     $email = $_POST['email'];
     $name = $_POST['name'];
     
-    echo $name;
     //ccade 
     $list_id = '5378fb697b';
-    $api_key = '*************';
+    $api_key = '**********';
      
     $data_center = substr($api_key,strpos($api_key,'-')+1);
      
