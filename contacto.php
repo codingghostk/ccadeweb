@@ -182,7 +182,7 @@
         <!-- End welcome section -->
 
         <!-- Start Footer bottom section -->
-        <footer class="footer sec-padding" style="background:#FFF;">
+        <footer class="footer sec-padding" style="background:#f7f7f7;">
                 <div class="container">
                   <div class="row">
                    <!--  <div class="col-md-6 col-sm-12 col-xs-12">
@@ -270,16 +270,10 @@
                 </div>
               </footer>
         <!-- End Footer bottom section -->
-        <section class="footer-bottom">
-                    <div class="container clearfix">
-                      <div class="pull-left">
-                        <p>Copyright © Marcho 2018. All rights reserved. </p>
-                      </div>
-                      <div class="pull-right">
-                        <p>Created by: Lamarena</p>
-                      </div>
-                    </div>
-                  </section>
+        <?php 
+       include("footer.php");
+       ?>
+    
 		
 		<!-- all js files -->
 

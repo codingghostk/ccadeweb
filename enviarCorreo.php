@@ -27,7 +27,7 @@ try {
 
      //ccade MAILCHIMP
      $list_id = '5378fb697b';
-     $api_key = '**********';
+     $api_key = '18a30299da11ceeba180d0cc2f5b6f67-us20';
       
      $data_center = substr($api_key,strpos($api_key,'-')+1);
       
