@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title>Home-1 | Marcho</title>
+		<title>Contacto | Seguimiento Digital</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -43,94 +43,24 @@
 		<![endif]-->
 
         <div id="preloader"></div>
-        <!-- header -->
+         <!-- header -->
         <header class="header">
             <div class="container clearfix">
                 <div class="header-right-info">
-                    <ul>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-map-marker"></i></div>
-                                <div class="text-box">
-                                    <p>Apple St, New York, <br> NY 10012, USA</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-phone"></i></div>
-                                <div class="text-box">
-                                    <p>+ 389 72 2705345 <br>Marcho.com</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="single-header-right-info">
-                                <div class="icon-box"><i class="fa fa-clock-o"></i></div>
-                                <div class="text-box">
-                                    <p>Mon - Sat 9.00 - 19.00 <br>Sunday Closed</p>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
+
                 </div>
                 <div class="header-left-info">
                     <div class="link">
-                        <a href="contact.html" class="thm-btn-inverse">book your room</a>
+                        <a href="Seguimiento-Digital/index.php" class="thm-btn-inverse">ACCESO PORTAL SEGUIMIENTO DIGITAL</a>
                     </div>
                 </div>
             </div>
         </header>
         <!-- header end -->
-        <!-- Main menu -->
-        <section class="main-menu-one finance-navbar">
-            <nav id="main-navigation-wrapper" class="navbar navbar-default Marcho-navbar">
-                <div class="container">
-                    <div class="float-left">
-                        <div class="logo pull-left"><a href="index.html"><img src="img/logo/logo.png" alt="Awesome Image"></a></div>
-                    </div>
-                    <div class="float-right">
-                        <div class="navbar-header">
-                            <button type="button" data-toggle="collapse" data-target="#main-navigation" aria-expanded="false" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-                        </div>
-                        <div id="main-navigation" class="collapse navbar-collapse">
-                            <ul class="nav navbar-nav">
-                                <li class="dropdown"><a href="index.html">Home</a>
-                                    <ul class="dropdown-submenu">
-                                        <li><a href="index.html">Home One</a></li>
-                                        <li><a href="index-2.html">Home Two</a></li>
-                                        <li><a href="index-3.html">Home Three</a></li>
-                                        <li><a href="index-4.html">Home Four</a></li>
-                                        <li><a href="index-5.html">Home Five</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="about.html">about us</a>
-
-                                </li>
-                                <li class="dropdown"><a href="#">suits & rooms</a>
-                                    <ul class="dropdown-submenu">
-                                        <li><a href="rooms.html">Room List</a></li>
-                                        <li><a href="single_room.html">Single Room</a></li>
-
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="dining&bar.html">Dining & BAr</a></li>
-                                <li class="dropdown"><a href="offers.html">offers</a></li>
-                                <li class="dropdown"><a href="#">news</a>
-                                    <ul class="dropdown-submenu">
-                                        <li><a href="news.html">News Standard</a></li>
-                                        <li><a href="news-details.html">News Details</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contact.html">contact us</a></li>
-                            </ul>
-
-                        </div>
-                    </div>
-
-                </div>
-            </nav>
-        </section>
+       <!-- Main menu -->
+        <?php 
+            include("mainMenu.php");
+        ?>
         <!-- MAin menu ends -->
         <!-- Start breadcumb section -->
         <section class="page-breadcrumb">
@@ -153,8 +83,8 @@
                 <div class="container">
                     <div class="row">
                         <ul>
-                            <li class="home-bread">Home</li>
-                            <li>About us</li>
+                            <li class="home-bread">Incio</li>
+                            <li>Contacto</li>
                         </ul>
                     </div>
                 </div>
@@ -193,22 +123,21 @@
                     <div class="col-md-7">
 
                         <div class="main-title">
-                            <h3>We'd Love to Hear From You</h3>
-                            <p>cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue. </p>
+                            <h3>REGISTRATE Y RECIBE INFORMACIÓN DE INTERÉS</h3>
+                            <p></p>
                         </div>
 
                         <div class="form">
                             <div class="row">
                                 <p class="success" id="success"></p>
                                 <p class="error" id="error"></p>
-                                <form name="contact_form" id="contact_form" method="post" action="#" onSubmit="return false">
                                     <div class="col-md-6"><input type="text" data-delay="300" placeholder="Empresa" name="contact_empresa" id="contact_empresa" class="input"></div>
-                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Puesto" name="contact_puesto" id="contact_puesto" class="input"></div>
                                     <div class="col-md-6"><input type="text" data-delay="300" placeholder="Nombre" name="contact_name" id="contact_name" class="input"></div>
+                                    <div class="col-md-6"><input type="text" data-delay="300" placeholder="Puesto" name="contact_puesto" id="contact_puesto" class="input"></div>
                                     <div class="col-md-6"><input type="text" data-delay="300" placeholder="Correo" name="contact_email" id="contact_email" class="input"></div>
                                     <div class="col-md-12"><textarea data-delay="500" class="required valid" placeholder="Mensaje" name="message" id="message"></textarea></div>
-                                    <div class="col-md-3"><input name=" " type="submit" value="submit" onClick="validateContact();"></div>
-                                </form>
+                                    <div class="col-md-3"><input name="Enviar" type="button" value="Enviar" style="border: 2px solid #4db7fe;color: #fff;cursor: pointer;display: inline-block;font-size: 14px;font-weight: 700;
+                                    margin-top: 20px;padding: 10px 22px;text-align: center;text-transform: uppercase;transition: all 0.4s ease 0s;z-index: 222;background: #4db7fe;border-radius: 3px;width: 100%;"></div>
 
                             </div>
                         </div>
@@ -220,16 +149,16 @@
 
                         <div class="contact-get">
                             <div class="main-title">
-                                <h3><span>GET IN</span> Touch</h3>
-                                <p>cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies.</p>
+                                <h3><span>CONTACTO</span></h3>
+                                <p></p>
                             </div>
 
                             <div class="get-in-touch">
                                 <div class="detail">
-                                    <span><b>Phone:</b> 1.800.555.6789</span>
-                                    <span><b>Email:</b> <a href="#.">support@marco.com</a></span>
-                                    <span><b>Web:</b> <a href="#.">www.marco.com</a></span>
-                                    <span><b>Address:</b> 12345 North Main Street, New York, NY</span>
+                                    <span><b>Teléfono:</b> (442) 213 5724 / (442) 213 5802</span>
+                                    <span><b>Email:</b> <a href="#.">acesores@ccade.com.mx</a></span>
+                                    <!-- <span><b>Web:</b> <a href="#.">www.marco.com</a></span>
+                                    <span><b>Address:</b> 12345 North Main Street, New York, NY</span> -->
                                 </div>
 
                                 <div class="social-icons">
@@ -256,7 +185,7 @@
         <footer class="footer sec-padding">
                 <div class="container">
                   <div class="row">
-                    <div class="col-md-6 col-sm-12 col-xs-12">
+                   <!--  <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="col-md-6 col-sm-6 col-xs-12">
                       <div class="footer-widget about-widget"><a class="logo" href="index.html"><img src="img/logo/logo2.png" alt="Awesome Image"></a>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean malesuada fringilla sem, at dictum lectus ultricies quis. Etiam eu bibendum orci. Aliquam erat volutpat.</p>
@@ -285,9 +214,9 @@
                         </div>
                       </div>
           
-                    </div>
+                    </div> -->
           
-                    <div class="col-md-6 col-sm-12 col-xs-12">
+                    <!-- <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="col-md-6 col-sm-6 col-xs-12">
                       <div class="footer-widget subscribe-widget">
                         <div class="title">
@@ -335,7 +264,7 @@
                           </ul>
                         </div>
                       </div>
-                    </div>
+                    </div> -->
           
                   </div>
                 </div>
