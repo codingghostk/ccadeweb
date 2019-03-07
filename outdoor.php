@@ -72,8 +72,8 @@
       <!-- End Slider section -->
       <!-- Start welcome section -->
       <section class="about">
-            <div class="story__pictures">
-                <img src="img/CCADE 2018 outdoor-01.jpg" alt="Couple with new house" class="story__img--1">
+            <div class="story__picturesOut">
+                <!--<img src="img/CCADE 2018 outdoor-01.jpg" alt="Couple with new house" class="story__img--out">-->
                 <!-- <img src="img/about/1.jpeg" alt="New house" class="story__img--2"> -->
             </div>
             <div class="story__content">
@@ -122,7 +122,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>Galería</h3>
+                            <h3>Actividades</h3>
                             <p>
                         > Outdoor de 1, 2 o 3 días<br>
                         > Diversos factores a atender<br>

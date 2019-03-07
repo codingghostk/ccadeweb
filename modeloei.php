@@ -50,7 +50,7 @@
         <!-- MAin menu ends -->
         <!-- Start breadcumb section -->
         <section class="page-breadcrumb">
-            <div class="page-section-restaurant">
+            <div class="page-modelo">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 col-sm-12 col-xs-12">

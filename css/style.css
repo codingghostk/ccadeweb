@@ -1876,8 +1876,32 @@ select.ht-field {
         grid-column: 1 / -1;
         padding: 6rem; } }
 
+.story__picturesOut {
+    background-color: #153356;
+    grid-column: full-start / col-end 4;
+    background-image:  url('../img/CCADE 2018 outdoor-01.jpg');
+    background-size: cover;
+    display: grid;
+    grid-template-rows: repeat(6, 1fr);
+    grid-template-columns: repeat(6, 1fr);
+    align-items: center; }
+@media only screen and (max-width: 50em) {
+    .story__pictures {
+        grid-column: 1 / -1;
+        padding: 6rem; } }
+
 .story__img--1 {
     width: 100%;
+    grid-row: 2 / 6;
+    grid-column: 2 / 6;
+    box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.1); }
+@media only screen and (max-width: 50em) {
+    .story__img--1 {
+        grid-column: 1 / 5;
+        grid-row: 1 / -1; } }
+
+.story__img--out {
+    width: 150%;
     grid-row: 2 / 6;
     grid-column: 2 / 6;
     box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.1); }
@@ -3443,12 +3467,72 @@ padding-bottom: 0;
     background-size: cover;
     background-position: top center;
 }
+
+.page-consultoria {
+    background: url(../img/background/consultoria.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+
+.page-modelo {
+    background: url(../img/background/ideologia2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+
+.page-contacto {
+    background: url(../img/background/contacto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+
+.page-section-socialmente {
+    background: url(../img/background/SOCIE-SOLI-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+.page-section-capacitacion {
+    background: url(../img/background/Capac-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+.page-section-outdoor {
+    background: url(../img/background/Outdoor-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+
+.page-section-socialmente {
+    background: url(../img/background/SOCIE-SOLI-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+.page-section-capacitacion {
+    background: url(../img/background/Capac-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+.page-section-outdoor {
+    background: url(../img/background/Outdoor-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
 .page-section-restaurant {
     background: url(../img/background/sub-banner-hotel-restaurant.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
 }
+
 .breadcumb-overlay {
   position: absolute;
   background: rgba(27, 48, 83, 0.20) none repeat scroll 0 0;
