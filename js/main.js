@@ -193,8 +193,8 @@ windows.on('scroll', function() {
     ------------------------------ */
     var count = $('.counter');
     count.counterUp({
-		delay: 40,
-		time: 3000
+		delay: 1,
+		time: 100
 	});
 
 /*--------------------------

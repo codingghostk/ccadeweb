@@ -23,7 +23,7 @@
                <ul class="nav navbar-nav" id="ulmovil" style="background-color: #2099bb;">
                   <li class="dropdown"><a href="modeloei.php"><span class="coltex">Modelo e ideología</span></a>
                   </li>
-                  <li class="dropdown"><a href=""><span class="coltex">Servicios</span></a>
+                  <li class="dropdown"><a href="index.php#jump0"><span class="coltex">Servicios</span></a>
                   </li>
                   <li class="dropdown"><a href="alianzas.php"><span class="coltex">Alianzas</span></a>
                   </li>

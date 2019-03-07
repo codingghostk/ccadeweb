@@ -68,7 +68,7 @@
                 <div class="container">
                     <div class="row">
                         <ul>
-                            <li class="home-bread">Home</li>
+                            <li class="home-bread">Inicio</li>
                             <li>Modelo e Ideologia</li>
                         </ul>
                     </div>
@@ -84,12 +84,18 @@
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
                             <h3>MODELO DE TRABAJO E IDEOLOGÍA</h3>
-                            <p>En CCADE, nuestro compromiso, interés y enfoque es que su personal, no solo aprenda lo visto con nosotros, si no que lo más importante es su aplicación en el día a día. Contamos con un modelo específico para: definir con exactitud lo que se requiere, impartirlo y luego darle seguimiento en su implementación. </p>
-
-<p>Nuestra compañía fue fundada en el año de 1978 y desde sus orígenes hasta el día de hoy, quienes conformamos CCADE tenemos clara nuestra misión. Nuestras estrategias, métodos, modelos y sistemas se están actualizando permanentemente, enfocados a proporcionar herramientas que verdaderamente beneficien a cada uno de nuestros clientes.</p>
+                            <p>En CCADE, nuestro compromiso, interés y enfoque es que su personal, no solo aprenda lo visto con nosotros, si no que lo más importante es su aplicación en el día a día. Contamos con un modelo específico para: definir con exactitud lo que se requiere, impartirlo y luego darle seguimiento en su implementación (Plataforma de Seguimiento Digital) </p>
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12" align="center">
+                        <div class="section-titleBar text-center">
+                            <h3>10 RAZONES POR LAS CUALES CONTRATARNOS</h3>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="row">
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <ul class="menu-list">
@@ -135,12 +141,12 @@
                             </li>
                             <li class="menu-item">
                                 <div class="menu-item-main">
-                                    <p>9.– Seguimiento a la capacitación y a los procesos implementados.</p>
+                                    <p>9.– Seguimiento a la capacitación y a los procesos implementados(Plataforma de Seguimiento Digital).</p>
                                 </div>
                             </li>
                             <li class="menu-item">
                                 <div class="menu-item-main">
-                                    <p>10.- Nuestros servicios, pedagógicamente, tienen una alta efectividad.</p>
+                                    <p>Todos nuestros servicios, pedagógicamente, tienen una alta efectividad.</p>
                                 </div>
                             </li>
                         </ul>
