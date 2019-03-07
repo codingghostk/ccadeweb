@@ -50,7 +50,7 @@
         <!-- MAin menu ends -->
         <!-- Start breadcumb section -->
         <section class="page-breadcrumb">
-            <div class="page-section-restaurant">
+            <div class="page-section-socialmente">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 col-sm-12 col-xs-12">
@@ -68,7 +68,7 @@
                 <div class="container">
                     <div class="row">
                         <ul>
-                            <li class="home-bread">Home</li>
+                            <li class="home-bread">Inicio </li>
                             <li>Socialmente responsable </li>
                         </ul>
                     </div>
@@ -89,11 +89,29 @@
                       </div>
                   </div>
                     <div class="col-md-7">
-                        <div class="intro_images magic_up">
-                            <div class="intro_1 intro_img"><img src="img/about/intro_1.jpg" alt=""></div>
-                            <div class="intro_2 intro_img"><img src="img/about/intro_2.jpg" alt=""></div>
-                            <div class="intro_3 intro_img"><img src="img/about/intro_3.jpg" alt=""></div>
-                        </div>
+                    <div class="about-carousel">
+                                     <!-- single-awesome-project start -->
+                                     <div class="single-about-project">
+                                         <div class="awesome-img">
+                                             
+                                                 <img src="img/socialmenter/Soci_1.jpg" alt="" />
+                                             
+                                         </div>
+                                     </div>
+                                     <div class="single-about-project">
+                                         <div class="awesome-img">
+                                             
+                                         <img src="img/socialmenter/Soci_2.jpg" alt="" />
+                                             
+                                         </div>
+                                     </div>
+                                     <div class="single-about-project">
+                                         <div class="awesome-img">                                             
+                                         <img src="img/socialmenter/Soci_3.jpg" alt="" />                                        
+                                         </div>
+                                     </div>
+                                     
+                                 </div>
                     </div>
                 </div>
             </div>
@@ -102,7 +120,7 @@
         <section class="fluid-know-area">
             <div class="work-image-ser">
                 <div class="big_room_slider_container rooms-carousel">
-                    <div class="background_image"></div>
+                <img src="img/socialmenter/Soci_4.jpg" alt="" />    
                 </div>
             </div>
             <div class="service-promo sec-padding">
@@ -127,22 +145,7 @@
             </div>
         </section>
         <hr>
-        <!-- Start welcome section 
-        <section class="welcome-section sec-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="section-titleBar text-center">
-                            <h3>Our Resort Advantages</h3>
-                            <p>En CCADE, sabemos y creemos que la única y verdadera forma de que nuestra sociedad y en general nuestro país mejore de manera integral, es apostándole a la educación, el desarrollo personal y profesional de los individuos; a lo que CCADE se ha comprometido a dar capacitación de manera gratuita a las comunidades que más lo requieren…</p>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-            
-        </section>
-         Start Footer bottom section -->
+        
        <?php 
        include("footer.php");
        ?>

@@ -51,7 +51,7 @@
        
         <!-- Start breadcumb section -->
         <section class="page-breadcrumb">
-            <div class="page-section">
+            <div class="page-section-capacitacion">
                 <div class="breadcumb-overlay"></div>
                 <div class="container">
                     <div class="row">
@@ -70,7 +70,7 @@
                 <div class="container">
                     <div class="row">
                         <ul>
-                            <li class="home-bread">Home</li>
+                            <li class="home-bread">Inicio</li>
                             <li>Capacitacion</li>
                         </ul>
                     </div>
@@ -188,7 +188,7 @@
                          
                     </div>
                     <div class="col-md-6 col-sm-6">
-                            <img src="img/galery/gal-5.jpeg" class="mb-15-xs" alt="map">
+                            <img src="img/capacitacion/cap_1.jpg" class="mb-15-xs" alt="map">
                     </div>
                   </div>
                 </div>
