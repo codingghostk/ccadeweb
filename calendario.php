@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title>Seguimiento Digital | CALENDARIO</title>
+		<title>CCADE | CALENDARIO</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -82,6 +82,12 @@
 
         <section class="offer-section sec-padding">
             <div class="container">
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="section-titleBar text-center">
+                            <!--<h3>Suscríbete</h3>-->
+                            <p>Seleccione la fecha presionando en la imagen. </p>
+                        </div>
+                    </div>
                 <div class="row col-md-12" style="height: 250px; margin-bottom: 25px;">
                   <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 col-xl-4" style="padding-bottom: 5px;">
                       <img src="img/calendario/2019.png" class="img-responsive">

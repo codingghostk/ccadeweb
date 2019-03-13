@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Seguimiento Digital | CALENDARIO</title>
+    <title>CCADE | CALENDARIO</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -171,9 +171,9 @@
                   </div> 
                 </div>
                 <div class="col-md-6">
-                  <h3>INFORMACION</h3>
+                  <h3>PARA MÁS INFORMACIÓN</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum semper eget ex sit amet porta. Pellentesque congue maximus suscipit. Phasellus aliquet mi at enim porta, a elementum sem volutpat. Vestibulum vehicula rutrum turpis id aliquam. Morbi varius, nisl in laoreet egestas, enim leo varius sapien, ut porttitor sapien nunc et sapien. Nulla eu dolor et diam sagittis egestas. Mauris in lorem risus.
+                    Favor de llena el formulario para enviarte la información detallada del curso de tu interés.
                   </p>
                 </div>
               </div>

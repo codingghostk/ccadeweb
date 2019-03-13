@@ -3,7 +3,7 @@
    <head>
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
-      <title>Seguimiento Digital | OUTDOOR</title>
+      <title>CCADE | OUTDOOR</title>
       <meta name="description" content="">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- favicon -->		
@@ -124,14 +124,14 @@
                         <div class="section-titleBar text-center">
                             <h3>Actividades</h3>
                             <p>
-                        > Outdoor de 1, 2 o 3 días<br>
-                        > Diversos factores a atender<br>
-                        > Grupos reducidos o eventos masivos<br>
-                        > Diversidad de lugares<br>
-                        > Diagnóstico previo general<br>
+                        > Outdoor de 1, 2 o 3 días
+                        > Diversos factores a atender
+                        > Grupos reducidos o eventos masivos
+                        > Diversidad de lugares
+                        <!-- Diagnóstico previo general<br>
                         > Diagnóstico del perfil del grupo<br>
                         > Proceso de Outdoor<br>
-                        > Sesión post – Outdoor de transferencia
+                        > Sesión post – Outdoor de transferencia-->
                      </p>
                         </div>
                     </div>

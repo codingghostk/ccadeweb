@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title>Home-1 | Marcho</title>
+		<title>CCADE | Capacitación</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -58,7 +58,7 @@
                         <div class="col-md-12 col-sm-12 col-xs-12">
                             <div class="breadcrumb text-center">
                                 <div class="section-titleBar white-headline text-center">
-                                    <h3>Capacitacion</h3>
+                                    <h3>Capacitación</h3>
                                 </div>
                             </div>
                         </div>
@@ -71,7 +71,7 @@
                     <div class="row">
                         <ul>
                             <li class="home-bread">Inicio</li>
-                            <li>Capacitacion</li>
+                            <li>Capacitación</li>
                         </ul>
                     </div>
                 </div>
@@ -82,15 +82,15 @@
         <!-- Start welcome section -->
         <section class="about-section sec-padding">
             <div class="container">
-                <div class="row">
+                <!--<div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>CAPACITACIÓN</h3>
-                            <!--<p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
-                                organization's data with emphasis on statistical analysis.</p> -->
+                            <<h3>CAPACITACIÓN</h3>
+                            <p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
+                                organization's data with emphasis on statistical analysis.</p>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <div class="row">
                      <!-- Imagen 1100*700 
                     <div class="col-md-12 col-sm-12 col-xs-12">
@@ -257,7 +257,6 @@
                                 <a href="img/galery/gal-14.jpeg" class="tt-gallery-1 lightbox">
                                     <img src="img/galery/gal-14.jpeg" alt="Gallery image 14" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-
 
 
                         </section>

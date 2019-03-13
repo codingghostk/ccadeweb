@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title>Seguimiento Digital | CONSULTORÍA</title>
+		<title>CCADE | CONSULTORÍA</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -71,8 +71,8 @@
                 <div class="container">
                     <div class="row">
                         <ul>
-                            <li class="home-bread">INICIO</li>
-                            <li>CONSULTORÍA</li>
+                            <li class="home-bread">Inicio</li>
+                            <li>Consultoría</li>
                         </ul>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
         <section class="about">
             <div class="story__pictures">
                 <img src="img/about/2.jpeg" alt="Couple with new house" class="story__img--1">
-                <img src="img/about/1.jpeg" alt="New house" class="story__img--2">
+                <!--<img src="img/about/1.jpeg" alt="New house" class="story__img--2">-->
             </div>
             <div class="story__content">
             <h3>DESCRIPCIÓN</h3>
@@ -134,7 +134,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="project-carousel">
+                    <div class="">
                         <!-- single-awesome-project start -->
                         <div class="col-md-4 col-sm-4 col-xs-12">
                             <!-- single-awesome-project start -->
@@ -147,11 +147,11 @@
                                 </div>
                                 <div class="project-dec-2">
                                     <h4>GESTIÓN DE LA CALIDAD</h4>
-                                    <p>> ISO 9001 – Gestión de Calidad<br>
-                                    > IATF 16 9419 – Norma Automotriz<br>
-                                    > ISO 14000 – Norma Ecológica<br>
-                                    > ISO 22000 – Norma Alimentaria<br>
-                                    > ESR – Empresas Socialmente Responsable
+                                    <p>ISO 9001 – Gestión de Calidad<br>
+                                    IATF 16 9419 – Norma Automotriz<br>
+                                    ISO 14000 – Norma Ecológica<br>
+                                    ISO 22000 – Norma Alimentaria<br>
+                                    ESR – Empresas Socialmente Responsable
                                     </p>                                    
                                 </div>
                             </div>
@@ -168,8 +168,12 @@
                                 </div>
                                 <div class="project-dec-2">
                                     <h4>EVOLUCIÓN ORGANIZACIONAL</h4>
-                                    <p> > Competencias Laborales<br>
-                                    > Desarrollo Organizacional
+                                    <p>Competencias Laborales<br>
+                                    Desarrollo Organizacional
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
                                     </p>                                    
                                 </div>
                             </div>
@@ -186,9 +190,12 @@
                                 </div>
                                 <div class="project-dec-2">
                                     <h4>COMPETITIVIDAD TOTAL</h4>
-                                    <p> > Lean Manufacturing<br>
-                                    > 6 Sigma<br>
-                                    > TMP – Mantenimiento Productivo Total
+                                    <p>Lean Manufacturing<br>
+                                    6 Sigma<br>
+                                    TMP – Mantenimiento Productivo Total
+                                    <br>
+                                    <br>
+                                    <br>
                                     </p>                                    
                                 </div>
                             </div>

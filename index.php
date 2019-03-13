@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title>Seguimiento Digital</title>
+		<title>CCADE | Index</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -256,7 +256,7 @@
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
                             <h3>Suscríbete</h3>
-                            <p></p>
+                            <p>Al suscribirte recibirás información quincenal actualizada (resúmenes de libros empresariales de actualidad, artículos selectos y promociones especiales)</p>
                         </div>
                     </div>
                 </div>
@@ -279,7 +279,7 @@
                                     <div class="tel-box">
                                         <div class="icon-box"><i class="fa fa-envelope"></i></div>
                                         <div class="text-box">
-                                            <p><a href="#">acesores@ccade.com.mx</a></p>
+                                            <p><a href="#">asesores@ccade.com.mx</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -386,7 +386,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-12">
                         <div class="single-count-box">
                             <div class="box">
-                                <div class="number-box"><span class="counter">200000</span></div>
+                                <div class="number-box"><span class="counter">200,000</span></div>
                                 <div class="text-box">
                                     <p>PERSONAL CAPACITADO*</p>
                                 </div>
@@ -394,7 +394,7 @@
                         </div>
                         <div class="single-count-box">
                             <div class="box">
-                                <div class="number-box"><span class="counter">10000</span></div>
+                                <div class="number-box"><span class="counter">10,000</span></div>
                                 <div class="text-box">
                                     <p>EVENTOS IMPARTIDOS*</p>
                                 </div>
@@ -464,7 +464,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>Nuestros Clientes</h3>
+                            <h3>Algunos de nuestros principales clientes:</h3>
                             <p></p>
                         </div>
                     </div>
@@ -482,7 +482,7 @@
                                     <!--<div class="price">$54</div>-->
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ABINSA</h4>
+                          
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -494,7 +494,7 @@
                                         <img src="img/logosCambio/AERONOVA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>AERONOVA</h4>
+                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -506,7 +506,7 @@
                                     <img src="img/logosCambio/ANVISGROUP.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ANVISGROUP</h4>
+                           
                                     
                                 </div>
                             </div>
@@ -521,8 +521,6 @@
                                     <!--<div class="price">$54</div>-->
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ABCgroup</h4>
-                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -534,7 +532,6 @@
                                         <img src="img/logosCambio/afton.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>afton</h4>
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -546,7 +543,6 @@
                                         <img src="img/logosCambio/agro servicios.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>agro servicios</h4>
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -558,7 +554,6 @@
                                         <img src="img/logosCambio/Alpha.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>Alpha</h4>
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -570,7 +565,6 @@
                                         <img src="img/logosCambio/altopro.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>altopro</h4>
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -582,7 +576,6 @@
                                         <img src="img/logosCambio/altcam.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>altcam</h4>
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -594,7 +587,6 @@
                                         <img src="img/logosCambio/ampacet.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ampacet</h4>
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -606,7 +598,7 @@
                                         <img src="img/logosCambio/android.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>android</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -618,8 +610,7 @@
                                         <img src="img/logosCambio/apex.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>apex</h4>
-                                </div>
+                                                                    </div>
                             </div>
                             <!-- single-awesome-project end -->
                         </div>
@@ -630,7 +621,7 @@
                                         <img src="img/logosCambio/arbomex.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>arbomex</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -642,7 +633,7 @@
                                         <img src="img/logosCambio/ashimori.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ashimori</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -654,7 +645,7 @@
                                         <img src="img/logosCambio/asientosEsteban.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>asientosEsteban</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -666,7 +657,7 @@
                                         <img src="img/logosCambio/ATOSA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ATOSA</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -678,7 +669,7 @@
                                         <img src="img/logosCambio/auria.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>auria</h4>
+                      
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -690,7 +681,7 @@
                                         <img src="img/logosCambio/aurum.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>aurum</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -702,7 +693,7 @@
                                         <img src="img/logosCambio/BALL.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>BALL</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -726,7 +717,7 @@
                                         <img src="img/logosCambio/BEPENSA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>BEPENSA</h4>
+                                  
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -738,8 +729,7 @@
                                         <img src="img/logosCambio/BOSAL.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>BOSAL</h4>
-                                </div>
+                                                           </div>
                             </div>
                             <!-- single-awesome-project end -->
                         </div>
@@ -750,7 +740,7 @@
                                         <img src="img/logosCambio/BROSE.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>BROSE</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -762,19 +752,7 @@
                                         <img src="img/logosCambio/BTD.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>BTD</h4>
-                                </div>
-                            </div>
-                            <!-- single-awesome-project end -->
-                        </div>
-                        <div class="col-md-4 col-sm-4 col-xs-12">
-                            <!-- single-awesome-project start -->
-                            <div class="single-awesome-project">
-                                <div class="awesome-img">
-                                        <img src="img/logosCambio/ANVISGROUP.png" alt="" />
-                                </div>
-                                <div class="project-dec-2">
-                                    <h4>Family Roome</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -786,7 +764,7 @@
                                         <img src="img/logosCambio/CAJA FLORENCIO.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>CAJA FLORENCIO</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -798,7 +776,7 @@
                                         <img src="img/logosCambio/CARTON CORRUGADO.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>CARTON CORRUGADO</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -810,7 +788,7 @@
                                         <img src="img/logosCambio/ANVISGROUP.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>Family Roome</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -822,7 +800,7 @@
                                         <img src="img/logosCambio/CARTONES PONDEROSA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>CARTONES PONDEROSA</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -834,7 +812,7 @@
                                         <img src="img/logosCambio/CARVEL PRINT.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>CARVEL PRINT</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -846,7 +824,7 @@
                                         <img src="img/logosCambio/CCM.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>CCM</h4>
+                        
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -858,7 +836,7 @@
                                         <img src="img/logosCambio/CENAM.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>CENAM</h4>
+                         
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -870,7 +848,7 @@
                                         <img src="img/logosCambio/CENTRIC.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>CENTRIC</h4>
+                      
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -882,7 +860,7 @@
                                         <img src="img/logosCambio/CHELMA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>CHELMA</h4>
+                         
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -894,7 +872,7 @@
                                         <img src="img/logosCambio/CHM.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>CHM</h4>
+                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -906,7 +884,7 @@
                                         <img src="img/logosCambio/CIDETEQ.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>CIDETEQ</h4>
+                             
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -918,7 +896,7 @@
                                         <img src="img/logosCambio/COLEP.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>COLEP</h4>
+              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -930,7 +908,7 @@
                                         <img src="img/logosCambio/COMEX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>COMEX</h4>
+                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -942,7 +920,7 @@
                                         <img src="img/logosCambio/CONTINENTAL.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>CONTINENTAL</h4>
+                          
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -954,7 +932,7 @@
                                         <img src="img/logosCambio/CUADRITOS.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>CUADRITOS</h4>
+                      
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -966,7 +944,7 @@
                                         <img src="img/logosCambio/DALUEN.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>DALUEN</h4>
+                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -978,7 +956,7 @@
                                         <img src="img/logosCambio/DEACERO.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>DEACERO</h4>
+                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -990,7 +968,7 @@
                                         <img src="img/logosCambio/DEALBA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>DEALBA</h4>
+                         
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1002,7 +980,7 @@
                                         <img src="img/logosCambio/DEMETAL.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>DEMETAL</h4>
+                        
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1014,7 +992,7 @@
                                         <img src="img/logosCambio/DIAZA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>DIAZA</h4>
+                        
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1026,7 +1004,7 @@
                                         <img src="img/logosCambio/DKMEX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>DKMEX</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1038,7 +1016,7 @@
                                         <img src="img/logosCambio/DUQUEINE.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>DUQUEINE</h4>
+                            
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1050,7 +1028,7 @@
                                         <img src="img/logosCambio/DURA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>DURA</h4>
+                       
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1062,7 +1040,7 @@
                                         <img src="img/logosCambio/DURAFIBER.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>DURAFIBER</h4>
+                        
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1074,7 +1052,7 @@
                                         <img src="img/logosCambio/ECKERLE.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ECKERLE</h4>
+                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1086,7 +1064,7 @@
                                         <img src="img/logosCambio/ECOFIBRAS-PONDEROSA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ECOFIBRAS-PONDEROSA</h4>
+                             
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1098,7 +1076,7 @@
                                         <img src="img/logosCambio/EGOBA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>EGOBA</h4>
+                         
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1110,7 +1088,7 @@
                                         <img src="img/logosCambio/EIKA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>EIKA</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1122,7 +1100,7 @@
                                         <img src="img/logosCambio/ELASTOMIX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ELASTOMIX</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1134,7 +1112,7 @@
                                         <img src="img/logosCambio/ELICA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ELICA</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1146,7 +1124,7 @@
                                         <img src="img/logosCambio/EMYCSA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>EMYCSA</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1158,7 +1136,7 @@
                                         <img src="img/logosCambio/ESCUMEX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ESCUMEX</h4>
+                        
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1170,7 +1148,7 @@
                                         <img src="img/logosCambio/EXOS.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>EXOS</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1182,7 +1160,7 @@
                                         <img src="img/logosCambio/CONALITEG.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>CONALITEG</h4>
+                         
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1194,7 +1172,7 @@
                                         <img src="img/logosCambio/FERTILAB.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>FERTILAB</h4>
+                             
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1206,7 +1184,7 @@
                                         <img src="img/logosCambio/FIBREMEX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>FIBREMEX</h4>
+                                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1218,7 +1196,7 @@
                                         <img src="img/logosCambio/FLENSA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>FLENSA</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1230,7 +1208,7 @@
                                         <img src="img/logosCambio/FLEX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>FLEX</h4>
+                         
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1242,7 +1220,7 @@
                                         <img src="img/logosCambio/FOMAI.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>FOMAI</h4>
+                             
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1254,7 +1232,7 @@
                                         <img src="img/logosCambio/FRESH GARDEN.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>FRESH GARDEN</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1266,7 +1244,7 @@
                                         <img src="img/logosCambio/FRISACEL.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>FRISACEL</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1278,7 +1256,7 @@
                                         <img src="img/logosCambio/GALVANIZADOR-2000.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>GALVANIZADOR-2000</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1290,7 +1268,7 @@
                                         <img src="img/logosCambio/GAS-NIETO.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>GAS-NIETO</h4>
+                                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1302,7 +1280,7 @@
                                         <img src="img/logosCambio/GEIGER.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>GEIGER</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1314,7 +1292,7 @@
                                         <img src="img/logosCambio/GIVAUDAN.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>GIVAUDAN</h4>
+                                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1326,7 +1304,7 @@
                                         <img src="img/logosCambio/GLASSER.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>GLASSER</h4>
+                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1338,7 +1316,7 @@
                                         <img src="img/logosCambio/GONDI.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>GONDI</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1350,7 +1328,7 @@
                                         <img src="img/logosCambio/G-ONE.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>G-ONE</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1362,7 +1340,7 @@
                                         <img src="img/logosCambio/GRUPO AVANTE.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>GRUPO AVANTE</h4>
+                                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1374,7 +1352,7 @@
                                         <img src="img/logosCambio/GRUPO GRAFICO.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>GRUPO GRAFICO</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1386,7 +1364,7 @@
                                         <img src="img/logosCambio/GRUPO PRODENSA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>GRUPO PRODENSA</h4>
+                                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1398,7 +1376,7 @@
                                         <img src="img/logosCambio/HERCESA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>HERCESA</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1410,7 +1388,7 @@
                                         <img src="img/logosCambio/HILEX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>HILEX</h4>
+                             
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1422,7 +1400,7 @@
                                         <img src="img/logosCambio/HIRUTA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>HIRUTA</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1434,7 +1412,7 @@
                                         <img src="img/logosCambio/IAC.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>IAC</h4>
+                             
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1446,7 +1424,7 @@
                                         <img src="img/logosCambio/IMBERA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>IMBERA</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1458,7 +1436,7 @@
                                         <img src="img/logosCambio/IMEM.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>IMEM</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1470,7 +1448,7 @@
                                         <img src="img/logosCambio/INDORAMA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>INDORAMA</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1482,7 +1460,7 @@
                                         <img src="img/logosCambio/INIFAP.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>INIFAP</h4>
+                                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1494,7 +1472,7 @@
                                         <img src="img/logosCambio/IPISA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>IPISA</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1506,7 +1484,7 @@
                                         <img src="img/logosCambio/ITW.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ITW</h4>
+                            
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1518,7 +1496,7 @@
                                         <img src="img/logosCambio/KAESER.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>KAESER</h4>
+                          
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1530,7 +1508,7 @@
                                         <img src="img/logosCambio/KALTEX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>KALTEX</h4>
+                     
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1542,7 +1520,7 @@
                                         <img src="img/logosCambio/KERNLIEBERS.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>KERNLIEBERS</h4>
+                        
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1554,7 +1532,7 @@
                                         <img src="img/logosCambio/KIMBLE.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>KIMBLE</h4>
+                         
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1566,7 +1544,7 @@
                                         <img src="img/logosCambio/KOIDE.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>KOIDE</h4>
+                        
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1578,7 +1556,7 @@
                                         <img src="img/logosCambio/KOMAX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>KOMAX</h4>
+                         
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1590,7 +1568,7 @@
                                         <img src="img/logosCambio/KOPPERT.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>KOPPERT</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1602,7 +1580,7 @@
                                         <img src="img/logosCambio/KROMBERG.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>KROMBERG</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1614,7 +1592,7 @@
                                         <img src="img/logosCambio/KSB.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>KSB</h4>
+                           
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1626,7 +1604,7 @@
                                         <img src="img/logosCambio/LA ITALIANA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>LA ITALIANA</h4>
+                     
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1638,7 +1616,7 @@
                                         <img src="img/logosCambio/LUEN.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>LUEN</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1650,7 +1628,7 @@
                                         <img src="img/logosCambio/MABE.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MABE</h4>
+                          
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1662,7 +1640,7 @@
                                         <img src="img/logosCambio/MACLEAN.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MACLEAN</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1674,7 +1652,7 @@
                                         <img src="img/logosCambio/MALTA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MALTA</h4>
+                                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1686,7 +1664,7 @@
                                         <img src="img/logosCambio/MANNHUMMEL.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MANNHUMMEL</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1698,7 +1676,7 @@
                                         <img src="img/logosCambio/MAPRECOR.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MAPRECOR</h4>
+                           
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1710,7 +1688,7 @@
                                         <img src="img/logosCambio/MARQUARDT.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MARQUARDT</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1722,7 +1700,7 @@
                                         <img src="img/logosCambio/MARTINREA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MARTINREA</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1734,7 +1712,7 @@
                                         <img src="img/logosCambio/matrix metals.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>matrix metals</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1746,7 +1724,7 @@
                                         <img src="img/logosCambio/MEGGITT.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MEGGITT</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1758,7 +1736,7 @@
                                         <img src="img/logosCambio/MELX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MELX</h4>
+                     
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1770,7 +1748,7 @@
                                         <img src="img/logosCambio/MESS.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MESS</h4>
+                         
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1782,7 +1760,7 @@
                                         <img src="img/logosCambio/MEZFER.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MEZFER</h4>
+                                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1794,7 +1772,7 @@
                                         <img src="img/logosCambio/MI GAS.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MI GAS</h4>
+              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1806,7 +1784,7 @@
                                         <img src="img/logosCambio/MITCHELL.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MITCHELL</h4>
+                             
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1818,7 +1796,7 @@
                                         <img src="img/logosCambio/MITSUBISHI.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MITSUBISHI</h4>
+                                  
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1830,7 +1808,7 @@
                                         <img src="img/logosCambio/MONTENEGRO.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MONTENEGRO</h4>
+                             
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1842,7 +1820,7 @@
                                         <img src="img/logosCambio/MULTIMATIC.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>MULTIMATIC</h4>
+                            
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1854,7 +1832,7 @@
                                         <img src="img/logosCambio/NAPS.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>NAPS</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1866,7 +1844,7 @@
                                         <img src="img/logosCambio/NATURAL DE ALIMENTOS.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>NATURAL DE ALIMENTOS</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1878,7 +1856,7 @@
                                         <img src="img/logosCambio/NEATON.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>NEATON</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1890,7 +1868,7 @@
                                         <img src="img/logosCambio/NIFCO.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>NIFCO</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1902,7 +1880,7 @@
                                         <img src="img/logosCambio/NIHON.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>NIHON</h4>
+                            
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1914,7 +1892,7 @@
                                         <img src="img/logosCambio/NISTRANS.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>NISTRANS</h4>
+                                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1926,7 +1904,7 @@
                                         <img src="img/logosCambio/NOVEM.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>NOVEM</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1938,7 +1916,7 @@
                                         <img src="img/logosCambio/NUTRIX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>NUTRIX</h4>
+                                  
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1950,7 +1928,7 @@
                                         <img src="img/logosCambio/OKAWA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>OKAWA</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1962,7 +1940,7 @@
                                         <img src="img/logosCambio/OPEN GATE.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>OPEN GATE</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1974,7 +1952,7 @@
                                         <img src="img/logosCambio/OPTRONICS.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>OPTRONICS</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1986,7 +1964,7 @@
                                         <img src="img/logosCambio/PAS.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>PAS</h4>
+                            
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -1998,7 +1976,7 @@
                                         <img src="img/logosCambio/PISTONES MORESA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>PISTONES MORESA</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2010,7 +1988,7 @@
                                         <img src="img/logosCambio/PLAKA COMEX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>PLAKA COMEX</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2022,7 +2000,7 @@
                                         <img src="img/logosCambio/POUERTAS MONTEALBAN.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>POUERTAS MONTEALBAN</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2034,7 +2012,7 @@
                                         <img src="img/logosCambio/PPG.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>PPG</h4>
+                                  
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2046,7 +2024,7 @@
                                         <img src="img/logosCambio/PRETTL.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>PRETTL</h4>
+                                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2058,7 +2036,7 @@
                                         <img src="img/logosCambio/PROCALI.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>PROCALI</h4>
+                      
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2070,7 +2048,7 @@
                                         <img src="img/logosCambio/PSM.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>PSM</h4>
+                            
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2082,7 +2060,7 @@
                                         <img src="img/logosCambio/PYRAMID.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>PYRAMID</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2094,7 +2072,7 @@
                                         <img src="img/logosCambio/QIS.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>QIS</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2106,7 +2084,7 @@
                                         <img src="img/logosCambio/RAPID LOGISTICS.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>RAPID LOGISTICS</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2118,7 +2096,7 @@
                                         <img src="img/logosCambio/REMAX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>REMAX</h4>
+                            
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2130,7 +2108,7 @@
                                         <img src="img/logosCambio/RK EMPAQUES.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>RK EMPAQUES</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2142,7 +2120,7 @@
                                         <img src="img/logosCambio/ROBIN MEXICANA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ROBIN MEXICANA</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2154,7 +2132,7 @@
                                         <img src="img/logosCambio/RYDER.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>RYDER</h4>
+                      
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2166,7 +2144,7 @@
                                         <img src="img/logosCambio/SANNOHASHI.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>SANNOHASHI</h4>
+                                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2178,7 +2156,7 @@
                                         <img src="img/logosCambio/SAYER.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>SAYER</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2190,7 +2168,7 @@
                                         <img src="img/logosCambio/SCANIA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>SCANIA</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2202,7 +2180,7 @@
                                         <img src="img/logosCambio/SENOPLAST.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>SENOPLAST</h4>
+                             
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2214,7 +2192,7 @@
                                         <img src="img/logosCambio/SENOSIAIN.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>SENOSIAIN</h4>
+                        
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2226,7 +2204,7 @@
                                         <img src="img/logosCambio/SEPRONAL.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>SEPRONAL</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2238,7 +2216,7 @@
                                         <img src="img/logosCambio/SIKA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>SIKA</h4>
+                            
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2250,7 +2228,7 @@
                                         <img src="img/logosCambio/SILPACK.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>SILPACK</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2262,7 +2240,7 @@
                                         <img src="img/logosCambio/SPINCRAFT.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>SPINCRAFT</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2274,7 +2252,7 @@
                                         <img src="img/logosCambio/STAMPING.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>STAMPING</h4>
+                                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2286,7 +2264,7 @@
                                         <img src="img/logosCambio/SUPERQ.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>SUPERQ</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2298,7 +2276,7 @@
                                         <img src="img/logosCambio/SURTIAGRO.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>SURTIAGRO</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2310,7 +2288,7 @@
                                         <img src="img/logosCambio/SUSHITTO.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>SUSHITTO</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2322,7 +2300,7 @@
                                         <img src="img/logosCambio/TAYLOR FARMS.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>TAYLOR FARMS</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2334,7 +2312,7 @@
                                         <img src="img/logosCambio/TDR.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>TDR</h4>
+                            
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2346,7 +2324,7 @@
                                         <img src="img/logosCambio/TECLAB.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>TECLAB</h4>
+                         
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2358,7 +2336,7 @@
                                         <img src="img/logosCambio/TECNUM.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>TECNUM</h4>
+                     
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2370,7 +2348,7 @@
                                         <img src="img/logosCambio/TEKFOR.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>TEKFOR</h4>
+                             
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2382,7 +2360,7 @@
                                         <img src="img/logosCambio/THE GUND COMPANY.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>THE GUND COMPANY</h4>
+                       
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2394,7 +2372,7 @@
                                         <img src="img/logosCambio/THYSSENKRUPP.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>THYSSENKRUPP</h4>
+                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2406,7 +2384,7 @@
                                         <img src="img/logosCambio/TMI.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>TMI</h4>
+      
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2418,7 +2396,7 @@
                                         <img src="img/logosCambio/TOPRE.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>TOPRE</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2430,7 +2408,7 @@
                                         <img src="img/logosCambio/TRIPLE E.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>TRIPLE E</h4>
+                           
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2442,7 +2420,7 @@
                                         <img src="img/logosCambio/TYRSA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>TYRSA</h4>
+                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2454,7 +2432,7 @@
                                         <img src="img/logosCambio/ULBRINOX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ULBRINOX</h4>
+                            
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2466,7 +2444,7 @@
                                         <img src="img/logosCambio/UNAQ.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>UNAQ</h4>
+                          
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2478,7 +2456,7 @@
                                         <img src="img/logosCambio/URBANA.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>URBANA</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2490,7 +2468,7 @@
                                         <img src="img/logosCambio/USEBEQ.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>USEBEQ</h4>
+                                    
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2502,7 +2480,7 @@
                                         <img src="img/logosCambio/UTSJR.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>UTSJR</h4>
+                              
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2514,7 +2492,7 @@
                                         <img src="img/logosCambio/VIBRACOUSTIC.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>VIBRACOUSTIC</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2526,7 +2504,7 @@
                                         <img src="img/logosCambio/VISTAMEX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>VISTAMEX</h4>
+                               
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2538,7 +2516,7 @@
                                         <img src="img/logosCambio/VITROMEX.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>VITROMEX</h4>
+                                
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2550,7 +2528,7 @@
                                         <img src="img/logosCambio/WABASH.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>WABASH</h4>
+                                   
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2562,7 +2540,7 @@
                                         <img src="img/logosCambio/YACHIYO.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>YACHIYO</h4>
+                                 
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->
@@ -2574,7 +2552,7 @@
                                         <img src="img/logosCambio/ZANINI.png" alt="" />
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>ZANINI</h4>
+                             
                                 </div>
                             </div>
                             <!-- single-awesome-project end -->

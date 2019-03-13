@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title>Modelo e Ideología</title>
+		<title>CCADE | Modelo e Ideología</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -56,7 +56,7 @@
                         <div class="col-md-12 col-sm-12 col-xs-12">
                             <div class="breadcrumb text-center">
                                 <div class="section-titleBar white-headline text-center">
-                                    <h3>Modelo e Ideologia</h3>
+                                    <h3>Modelo e Ideología</h3>
                                 </div>
                             </div>
                         </div>
@@ -69,7 +69,7 @@
                     <div class="row">
                         <ul>
                             <li class="home-bread">Inicio</li>
-                            <li>Modelo e Ideologia</li>
+                            <li>Modelo e Ideología</li>
                         </ul>
                     </div>
                 </div>
@@ -83,11 +83,59 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>MODELO DE TRABAJO E IDEOLOGÍA</h3>
+                            <!--<h3>MODELO DE TRABAJO E IDEOLOGÍA</h3>-->
                             <p>En CCADE, nuestro compromiso, interés y enfoque es que su personal, no solo aprenda lo visto con nosotros, si no que lo más importante es su aplicación en el día a día. Contamos con un modelo específico para: definir con exactitud lo que se requiere, impartirlo y luego darle seguimiento en su implementación (Plataforma de Seguimiento Digital) </p>
                         </div>
                     </div>
+                </div>                
+            </div>
+            <!-- End main content -->
+        </section>
+        <!-- End dining section -->
+
+
+<!-- Start dessert section -->
+        <section class="dessert-section sec-padding bg-color">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="section-titleBar text-center">
+                            <h3>“Optimizar el funcionamiento de las organizaciones, desarrollando personas”</h3>
+                            <!--<p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
+                                organization's data with emphasis on statistical analysis.</p>-->
+                        </div>
+                    </div>
                 </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12">
+                        <div class="box-menu-item">
+                            <img class="img-bordered-lighter" src="img/modelo-conocimiento.png" alt="dessert">
+                            <!--<h4>Organic Yoghurt Panna Cotta</h4>
+                            <p class="box-menu-item-price">$45.89</p>
+                            <div class="box-menu-item__main">
+                                <p>Blackcurrant &amp; limoncello compote, crunchy spiced crumble &amp; lemon zest</p>
+                            </div>-->
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12 col-xs-12">
+                        <div class="box-menu-item mrg">
+                            <img class="img-bordered-lighter" src="img/modelo-ejecucion.png" alt="dessert" >
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12 col-xs-12">
+                        <div class="box-menu-item">
+                            <img class="img-bordered-lighter" src="img/modelo-implementacion.png" alt="dessert">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End main content -->
+        </section>
+        <!-- End dessert section -->
+
+        <!-- Start dining section -->
+        <section class="dining-section sec-padding">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12" align="center">
                         <div class="section-titleBar text-center">
@@ -160,44 +208,7 @@
         </section>
         <!-- End dining section -->
 
-        <!-- Start dessert section -->
-        <section class="dessert-section sec-padding bg-color">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="section-titleBar text-center">
-                            <h3>“Optimizar el funcionamiento de las organizaciones, desarrollando personas”</h3>
-                            <!--<p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
-                                organization's data with emphasis on statistical analysis.</p>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 col-sm-12 col-xs-12">
-                        <div class="box-menu-item">
-                            <img class="img-bordered-lighter" src="img/modelo-conocimiento.png" alt="dessert">
-                            <!--<h4>Organic Yoghurt Panna Cotta</h4>
-                            <p class="box-menu-item-price">$45.89</p>
-                            <div class="box-menu-item__main">
-                                <p>Blackcurrant &amp; limoncello compote, crunchy spiced crumble &amp; lemon zest</p>
-                            </div>-->
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 col-xs-12">
-                        <div class="box-menu-item mrg">
-                            <img class="img-bordered-lighter" src="img/modelo-ejecucion.png" alt="dessert" >
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 col-xs-12">
-                        <div class="box-menu-item">
-                            <img class="img-bordered-lighter" src="img/modelo-implementacion.png" alt="dessert">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End main content -->
-        </section>
-        <!-- End dessert section -->
+        
 
         <!-- Start dining section -->
         <!-- <section class="dining-section drinks sec-padding">

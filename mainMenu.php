@@ -21,15 +21,15 @@
             </div>
             <div id="main-navigation" class="collapse navbar-collapse">
                <ul class="nav navbar-nav" id="ulmovil" style="background-color: #2099bb;">
-                  <li class="dropdown"><a href="modeloei.php"><span class="coltex">Modelo e ideología</span></a>
+                  <li class="dropdown"><a href="modeloei.php"><span style="font-size:14px" class="coltex">Modelo e ideología</span></a>
                   </li>
-                  <li class="dropdown"><a href="index.php#jump0"><span class="coltex">Servicios</span></a>
+                  <li class="dropdown"><a href="index.php#jump0"><span style="font-size:14px" class="coltex">Servicios</span></a>
                   </li>
-                  <li class="dropdown"><a href="alianzas.php"><span class="coltex">Alianzas</span></a>
+                  <li class="dropdown"><a href="alianzas.php"><span style="font-size:14px" class="coltex">Alianzas</span></a>
                   </li>
-                  <li class="dropdown"><a href="socialmenter.php"><span class="coltex">Socialmente Responsable</span></a></li>
-                  <li class="dropdown"><a href="blog.php"><span class="coltex">Blog</span></a></li>
-                  <li><a href="contacto.php"><span class="coltex">Contacto</span></a></li>
+                  <li class="dropdown"><a href="socialmenter.php"><span style="font-size:14px" class="coltex">Socialmente Responsable</span></a></li>
+                  <!--<li class="dropdown"><a href="blog.php"><span style="font-size:16px" class="coltex">Blog</span></a></li>-->
+                  <li><a href="contacto.php"><span style="font-size:14px" class="coltex">Contacto</span></a></li>
                </ul>
             </div>
          </div>
