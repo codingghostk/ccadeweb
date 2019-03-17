@@ -64,14 +64,14 @@
         <!-- MAin menu ends -->
         <!-- Start breadcumb section -->
         <section class="page-breadcrumb">
-            <div class="page-section">
+            <div class="page-section-contacto">
                 <div class="breadcumb-overlay"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 col-sm-12 col-xs-12">
                             <div class="breadcrumb text-center">
                                 <div class="section-titleBar white-headline text-center">
-                                    <h3>CONTACTANOS</h3>
+                                    <h3>CONTÁCTANOS</h3>
                                 </div>
                             </div>
                         </div>

@@ -83,7 +83,7 @@
                 <div class="row">
                   <div class="col-md-5">
                       <div class="section-titleBar text-left">
-                          <h3>Socialmente responsable</h3> 
+                          <!--<h3>Socialmente responsable</h3> -->
                           <p>En CCADE, sabemos y creemos que la única y verdadera forma de que nuestra sociedad y en general nuestro país mejore de manera integral, es apostándole a la educación, el desarrollo personal y profesional de los individuos; a lo que CCADE se ha comprometido a dar capacitación de manera gratuita a las comunidades que más lo requieren…</p>
 
                           <p>Adicionalmente los procesos de desarrollo personal-capacitación, CCADE es organizador y patrocinador del torneo anual de golf que se realiza para recaudar fondos para el Instituto San Juan Pablo II, el cuál está dedicado a niños de muy escasos recursos, grandes necesidades y más grandes sueños; por lo que en CCADE nos sentimos orgullosos de ser parte de esta noble causa. </p>

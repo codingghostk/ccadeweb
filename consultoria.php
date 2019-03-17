@@ -81,7 +81,7 @@
         <!-- End Slider section -->
         <section class="about">
             <div class="story__pictures">
-                <img src="img/about/2.jpeg" alt="Couple with new house" class="story__img--1">
+                <img src="img/about/imagen.jpg" alt="Couple with new house" class="story__img--1">
                 <!--<img src="img/about/1.jpeg" alt="New house" class="story__img--2">-->
             </div>
             <div class="story__content">

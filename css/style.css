@@ -3469,14 +3469,14 @@ padding-bottom: 0;
 }
 
 .page-consultoria {
-    background: url(../img/background/consultoria.jpg);
+    background: url(../img/background/banerConsultoria.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
 }
 
 .page-modelo {
-    background: url(../img/background/ideologia2.jpg);
+    background: url(../img/background/BanerModeloIdeologia.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
@@ -3490,13 +3490,21 @@ padding-bottom: 0;
 }
 
 .page-section-socialmente {
-    background: url(../img/background/SOCIE-SOLI-1.jpg);
+    background: url(../img/background/socialmente.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
 }
+
+.page-section-outdoor {
+    background: url(../img/background/Outdoor-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+
 .page-section-capacitacion {
-    background: url(../img/background/Capac-background.jpg);
+    background: url(../img/background/banerCapacitacion.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
@@ -3508,24 +3516,20 @@ padding-bottom: 0;
     background-position: top center;
 }
 
-.page-section-socialmente {
-    background: url(../img/background/SOCIE-SOLI-1.jpg);
+.page-section-alianzas {
+    background: url(../img/background/baneralianzas.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
 }
-.page-section-capacitacion {
-    background: url(../img/background/Capac-background.jpg);
+
+.page-section-contacto {
+    background: url(../img/background/banerContacto.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
 }
-.page-section-outdoor {
-    background: url(../img/background/Outdoor-background.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top center;
-}
+
 .page-section-restaurant {
     background: url(../img/background/sub-banner-hotel-restaurant.jpg);
     background-repeat: no-repeat;

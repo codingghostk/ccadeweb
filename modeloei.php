@@ -84,7 +84,7 @@
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
                             <!--<h3>MODELO DE TRABAJO E IDEOLOGÍA</h3>-->
-                            <p>En CCADE, nuestro compromiso, interés y enfoque es que su personal, no solo aprenda lo visto con nosotros, si no que lo más importante es su aplicación en el día a día. Contamos con un modelo específico para: definir con exactitud lo que se requiere, impartirlo y luego darle seguimiento en su implementación (Plataforma de Seguimiento Digital) </p>
+                            <p>En CCADE, nuestro compromiso, interés y enfoque es que su personal, no solo aprenda lo visto con nosotros, si no que lo más importante es su aplicación en el día a día.</p></br><p> Contamos con un modelo específico para: definir con exactitud lo que se requiere, impartirlo y luego darle seguimiento en su implementación <strong>(Plataforma de Seguimiento Digital)</strong> </p>
                         </div>
                     </div>
                 </div>                
@@ -149,58 +149,58 @@
                         <ul class="menu-list">
                             <li class="menu-item">
                                 <div class="menu-item-main">
-                                    <p>1.- Generamos la solución perfecta para contribuir con la evolución de su organización.</p>
+                                    <p>1.- Generamos la <strong>solución perfecta</strong> para contribuir con la evolución de su organización.</p>
                                 </div>
                             </li>
                             <li class="menu-item">
                                 <div class="menu-item-main">
-                                    <p>2.- Nuestros servicios están diseñados para hacer más rentable a su empresa.</p>
+                                    <p>2.- Nuestros servicios están diseñados para hacer<strong>más rentable a su empresa.</strong> </p>
                                 </div>
                             </li>
                             <li class="menu-item">
                                 <div class="menu-item-main">
-                                    <p>3.- Más de 45 Instructores – Consultores de primer nivel, calificados y totalmente especializados.</p>
+                                    <p>3.- Más de <strong>45 Instructores – Consultores</strong> de primer nivel, calificados y totalmente especializados.</p>
                                 </div>
                             </li>
                             <li class="menu-item">
                                 <div class="menu-item-main">
-                                    <p>4.- Adecuación total a sus necesidades y características específicas</p>
+                                    <p>4.- <strong>Adecuación total</strong> a sus necesidades y características específicas</p>
                                 </div>
                             </li>
                             <li class="menu-item">
                                 <div class="menu-item-main">
-                                    <p>5.- Atención personalizada y trato directo con nuestros clientes.</p>
+                                    <p>5.- <strong>Atención personalizada</strong> y trato directo con nuestros clientes.</p>
                                 </div>
                             </li>
                             <li class="menu-item">
                                 <div class="menu-item-main">
-                                    <p>6.- Servicios y estrategias inteligentes que optimizan el funcionamiento de su organización.</p>
+                                    <p>6.- Servicios y estrategias inteligentes que <strong>optimizan el funcionamiento</strong> de su organización.</p>
                                 </div>
                             </li>
                             <li class="menu-item">
                                 <div class="menu-item-main">
-                                    <p>7.- La mayor estructura en el centro del país para atender sus requerimientos de capacitación y consultoría.</p>
+                                    <p>7.- <strong>La mayor estructura</strong> en el centro del país para atender sus requerimientos de capacitación y consultoría.</p>
                                 </div>
                             </li>
                             <li class="menu-item">
                                 <div class="menu-item-main">
-                                    <p>8.- Resultados comprobables, contundentes y tangibles para su empresa.</p>
+                                    <p>8.- <strong>Resultados</strong> comprobables, contundentes y tangibles para su empresa.</p>
                                 </div>
                             </li>
                             <li class="menu-item">
                                 <div class="menu-item-main">
-                                    <p>9.– Seguimiento a la capacitación y a los procesos implementados(Plataforma de Seguimiento Digital).</p>
+                                    <p>9.– <strong>Seguimiento</strong> a la capacitación y a los procesos implementados <i>(Plataforma de Seguimiento Digital).</i></p>
                                 </div>
                             </li>
                             <li class="menu-item">
                                 <div class="menu-item-main">
-                                    <p>Todos nuestros servicios, pedagógicamente, tienen una alta efectividad.</p>
+                                    <p>10.- Todos nuestros servicios, pedagógicamente, tienen una <strong>alta efectividad.</strong></p>
                                 </div>
                             </li>
                         </ul>
                     </div>
                     <div class="col-md-6 col-sm-12 col-xs-12">
-                          <img class="img-bordered" src="img/dining/dining-and-bar-1.jpg" alt="food">
+                          <img class="img-bordered" src="img/dining/10razones.jpg" alt="RAZONES">
                     </div>
                 </div>
             </div>

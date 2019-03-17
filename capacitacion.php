@@ -168,7 +168,7 @@
                         <div class="about-wd">
                                 <div class="section-titleBar text-left">
                                         <h3>Áreas de Especialización</h3>
-                                    <p>Trabajamos con todos los niveles de la organización, desde el personal operativo hasta la alta dirección. Dichos procesos son realizados por nuestro equipo de más de 45 instructores – consultores y especialistas en los diversos temas a tratar. Nuestras 7 áreas de especialización son:</p>
+                                    <p>Trabajamos con todos los niveles de la organización, desde el personal operativo hasta la alta dirección.</p><p> Dichos procesos son realizados por nuestro equipo de más de 45 instructores – consultores y especialistas en los diversos temas a tratar. Nuestras 7 áreas de especialización son:</p>
 
                                 </div>
                               <div class="lists">
@@ -188,7 +188,7 @@
                          
                     </div>
                     <div class="col-md-6 col-sm-6">
-                            <img src="img/capacitacion/cap_1.jpg" class="mb-15-xs" alt="map">
+                            <img src="img/capacitacion/aresdeEspecializacion.jpg" class="mb-15-xs" alt="map">
                     </div>
                   </div>
                 </div>
