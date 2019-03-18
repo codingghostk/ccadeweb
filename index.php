@@ -441,11 +441,11 @@
                     <div class="col-lg-12 col-md-12">
                         <div class="row">
                      <blockquote>
-                        <div class="icon-holder">
+                        <div class="icon-holder" >
                             <i class="fa fa-quote-left" aria-hidden="true"></i>
                         </div>
-                        <p><i>Nuestro compromiso y razón de existir es “Optimizar el funcionamiento organizacional, desarrollando personas”, lo cual lo logramos con pasión e inteligencia, aplicando vanguardistas modelos, metodologías, apoyos didácticos y un grupo de facilitadores del más alto nivel, obteniendo así resultados contundentes y tangibles con nuestros clientes.</i></p>
-                        <p><i>
+                        <p style="text-align:justify"><i>Nuestro compromiso y razón de existir es “Optimizar el funcionamiento organizacional, desarrollando personas”, lo cual lo logramos con pasión e inteligencia, aplicando vanguardistas modelos, metodologías, apoyos didácticos y un grupo de facilitadores del más alto nivel, obteniendo así resultados contundentes y tangibles con nuestros clientes.</i></p>
+                        <p style="text-align:justify"><i>
                         Gracias por permitirnos contribuir en su evolución organizacional.</i></p>
                     </blockquote>
                     <div class="col-md-12 col-sm-12 col-xs-12">

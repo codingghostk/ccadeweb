@@ -71,7 +71,7 @@
       </section>
       <!-- End Slider section -->
       <!-- Start welcome section -->
-      <section class="about">
+      <section class="about" style="text-align:justify">
             <div class="story__picturesOut">
                 <!--<img src="img/CCADE 2018 outdoor-01.jpg" alt="Couple with new house" class="story__img--out">-->
                 <!-- <img src="img/about/1.jpeg" alt="New house" class="story__img--2"> -->

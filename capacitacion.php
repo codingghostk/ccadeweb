@@ -51,8 +51,7 @@
        
         <!-- Start breadcumb section -->
         <section class="page-breadcrumb">
-            <div class="page-section-capacitacion">
-                <div class="breadcumb-overlay"></div>
+            <div class="page-section-capacitacion">                
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 col-sm-12 col-xs-12">
@@ -125,7 +124,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="about-content mrb">
+                                    <div class="about-content mrb" style="text-align:justify"> 
 
                                     <h4>SERVICIOS</h4>
                                         <div class="about-details text-center">
@@ -143,7 +142,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="about-content">
+                                    <div class="about-content" style="text-align:justify">
                                     <h4>DESCRIPCIÓN</h4>
 
                                         <p>Servicios especializados de capacitación orientados a resolver la problemática desde la raíz. Más de 200 temas en nuestras 7 áreas de especialización, adecuados a sus propios requerimientos y características.</p>
@@ -165,20 +164,19 @@
                 <div class="container">
                   <div class="row">
                     <div class="col-md-6 col-sm-6">
-                        <div class="about-wd">
-                                <div class="section-titleBar text-left">
+                        <div class="about-wd" >
+                                <div class="section-titleBar text-left" style="text-align:justify">
                                         <h3>Áreas de Especialización</h3>
-                                    <p>Trabajamos con todos los niveles de la organización, desde el personal operativo hasta la alta dirección.</p><p> Dichos procesos son realizados por nuestro equipo de más de 45 instructores – consultores y especialistas en los diversos temas a tratar. Nuestras 7 áreas de especialización son:</p>
+                                    <p >Trabajamos con todos los niveles de la organización, desde el personal operativo hasta la alta dirección.</p><br><p> Dichos procesos son realizados por nuestro equipo de más de 45 instructores – consultores y especialistas en los diversos temas a tratar. Nuestras 7 áreas de especialización son:</p>
 
                                 </div>
                               <div class="lists">
-                                <ul>
+                                <ul >
                                         <li><i class="fa fa-check-circle-o"></i>Desarrollo Integral Humano</li>
                                         <li><i class="fa fa-check-circle-o"></i>Administración / Operaciones</li>
                                         <li><i class="fa fa-check-circle-o"></i>Calidad / Mejora Continua</li>
                                         <li><i class="fa fa-check-circle-o"></i>Técnica (Industrial / Informática / Aeronáutica)</li>
-                                </ul>
-                                <ul>
+                               
                                         <li><i class="fa fa-check-circle-o"></i>Ventas / Mercadotecnia</li>
                                         <li><i class="fa fa-check-circle-o"></i>Financiera / Fiscal</li>
                                         <li><i class="fa fa-check-circle-o"></i>Instituciones de Servicio</li>

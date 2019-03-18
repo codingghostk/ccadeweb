@@ -146,7 +146,7 @@
                 
                 <div class="row">
                     <div class="col-md-6 col-sm-12 col-xs-12">
-                        <ul class="menu-list">
+                        <ul class="menu-list" style="text-align:justify">
                             <li class="menu-item">
                                 <div class="menu-item-main">
                                     <p>1.- Generamos la <strong>solución perfecta</strong> para contribuir con la evolución de su organización.</p>

@@ -84,7 +84,7 @@
                 <img src="img/about/imagen.jpg" alt="Couple with new house" class="story__img--1">
                 <!--<img src="img/about/1.jpeg" alt="New house" class="story__img--2">-->
             </div>
-            <div class="story__content">
+            <div class="story__content" style="text-align:justify">
             <h3>DESCRIPCIÓN</h3>
                           <p>Modelos inteligentes de consultoría comprobados para la adecuación y puesta en marcha del sistema que usted requiera implementar exitosamente en su organización</p>
                           <hr>

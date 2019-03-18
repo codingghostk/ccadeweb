@@ -82,10 +82,10 @@
             <div class="container">
                 <div class="row">
                   <div class="col-md-5">
-                      <div class="section-titleBar text-left">
+                      <div class="section-titleBar text-left" style="text-align:justify">
                           <!--<h3>Socialmente responsable</h3> -->
                           <p>En CCADE, sabemos y creemos que la única y verdadera forma de que nuestra sociedad y en general nuestro país mejore de manera integral, es apostándole a la educación, el desarrollo personal y profesional de los individuos; a lo que CCADE se ha comprometido a dar capacitación de manera gratuita a las comunidades que más lo requieren…</p>
-
+                            <br>
                           <p>Adicionalmente los procesos de desarrollo personal-capacitación, CCADE es organizador y patrocinador del torneo anual de golf que se realiza para recaudar fondos para el Instituto San Juan Pablo II, el cuál está dedicado a niños de muy escasos recursos, grandes necesidades y más grandes sueños; por lo que en CCADE nos sentimos orgullosos de ser parte de esta noble causa. </p>
                           <hr>
                       </div>
@@ -128,17 +128,18 @@
             <div class="service-promo sec-padding">
                 <div class="promo-content">
                     <div class="know-top">
-                        <h3>Algunos de los temas impartidos son:</h3>                       
+                        <h3>Algunos de los temas impartidos son:</h3>    
+                        <br>                   
                     </div>
                     <div class="lists">
                     <ul>
+                    <br>
                             <li><i class="fa fa-check-circle-o"></i> “Aprendiendo a Vivir en Familia”</ </li>
-                            <li><i class="fa fa-check-circle-o"></i> </li>
                             <li><i class="fa fa-check-circle-o"></i> “Desarrollo Personal” </li>
                             <li><i class="fa fa-check-circle-o"></i> “¿Cómo aprender a Comunicarme Mejor?” </li>
                             <li><i class="fa fa-check-circle-o"></i> “Autoestima en la Familia” </li>
-                    </ul>
-                    <ul>
+                   
+                   
                             <li><i class="fa fa-check-circle-o"></i> “Cómo mejorar mi Relación en Pareja”</li>
                             <li><i class="fa fa-check-circle-o"></i> “¡Platiquemos Entre Amigas!” </li>
                             <li><i class="fa fa-check-circle-o"></i> “¿Cómo Mejorar tus Condiciones y en General tu Vida?” </li>

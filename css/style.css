@@ -1677,7 +1677,7 @@ select.ht-field {
 }
 .request-call-bg .thm-btn {
     text-transform: uppercase;
-    background: #4db7fe;
+    background: #2099bb;
     display: inline-block;
     padding: 12px 30px;
     color: #fff;
@@ -1686,7 +1686,7 @@ select.ht-field {
     border-radius: 3px;
     width: 200px;
     transition: 0.4s;
-    border: 2px solid #4db7fe;
+    border: 2px solid #2099bb;
 }
 
 
@@ -1820,7 +1820,7 @@ select.ht-field {
     overflow: hidden;
 }
 .cart-service {
-    background: #4db7fe;
+    background: #2099bb;
     padding: 30px;
     color: #fff;
     text-align: center;
@@ -2712,7 +2712,7 @@ select.ht-field {
 }
 
 .fluid-know-area .service-promo .know-top h3 {
-    color: #fff;
+    color: #000000;
     margin: 0;
     padding: 0;
     line-height: 50px;
@@ -2817,7 +2817,7 @@ select.ht-field {
     float: left;
     position: relative;
 
-    background: #153356;
+    background: #ffffff;
 }
 
 @media (max-width: 991px) {
