@@ -44,18 +44,6 @@
 
         <div id="preloader"></div>
          <!-- header -->
-        <header class="header">
-            <div class="container clearfix">
-                <div class="header-right-info">
-
-                </div>
-                <div class="header-left-info">
-                    <div class="link">
-                        <a href="Seguimiento-Digital/index.php" class="thm-btn-inverse">ACCESO PORTAL SEGUIMIENTO DIGITAL</a>
-                    </div>
-                </div>
-            </div>
-        </header>
         <!-- header end -->
        <!-- Main menu -->
         <?php 
