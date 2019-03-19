@@ -402,12 +402,12 @@ z-index: 0;
 
 .header-left-info .thm-btn-inverse{
     position: relative;
-    background: #4db7fe;
+    background: #2099bb;
     font-size: 14px;
     line-height: 46px;
     font-weight: 600;
     color: #ffffff;
-    border: 2px solid #4db7fe;
+    border: 2px solid #2099bb;
     text-transform: uppercase;
     display: inline-block;
     padding: 0 38px;
