@@ -128,21 +128,20 @@
             <div class="service-promo sec-padding">
                 <div class="promo-content">
                     <div class="know-top">
-                        <h3>Algunos de los temas impartidos son:</h3>    
+                        <h3>Algunos de los Temas Impartidos Son:</h3>    
                         <br>                   
                     </div>
                     <div class="lists">
                     <ul>
                     <br>
-                            <li><i class="fa fa-check-circle-o"></i> “Aprendiendo a Vivir en Familia”</ </li>
-                            <li><i class="fa fa-check-circle-o"></i> “Desarrollo Personal” </li>
-                            <li><i class="fa fa-check-circle-o"></i> “¿Cómo aprender a Comunicarme Mejor?” </li>
-                            <li><i class="fa fa-check-circle-o"></i> “Autoestima en la Familia” </li>
-                   
-                   
-                            <li><i class="fa fa-check-circle-o"></i> “Cómo mejorar mi Relación en Pareja”</li>
-                            <li><i class="fa fa-check-circle-o"></i> “¡Platiquemos Entre Amigas!” </li>
-                            <li><i class="fa fa-check-circle-o"></i> “¿Cómo Mejorar tus Condiciones y en General tu Vida?” </li>
+                            <li><i class="fa fa-check-circle-o"></i> “Aprendiendo a Vivir en Familia”</li>
+                            <br>
+                            <li><i class="fa fa-check-circle-o"></i> “Desarrollo Personal” </li> <br>
+                            <li><i class="fa fa-check-circle-o"></i> “¿Cómo aprender a Comunicarme Mejor?” </li> <br>
+                            <li><i class="fa fa-check-circle-o"></i> “Autoestima en la Familia” </li> <br>                 
+                            <li><i class="fa fa-check-circle-o"></i> “Cómo mejorar mi Relación en Pareja”</li> <br>
+                            <li><i class="fa fa-check-circle-o"></i> “¡Platiquemos Entre Amigas!” </li> <br>
+                            <li><i class="fa fa-check-circle-o"></i> “¿Cómo Mejorar tus Condiciones y en General tu Vida?” </li> <br>
                     </ul>
                     </div>
                 </div>
