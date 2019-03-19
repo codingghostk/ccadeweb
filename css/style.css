@@ -2712,7 +2712,7 @@ select.ht-field {
 }
 
 .fluid-know-area .service-promo .know-top h3 {
-    color: #000000;
+    color: #fff;
     margin: 0;
     padding: 0;
     line-height: 50px;
@@ -2817,7 +2817,7 @@ select.ht-field {
     float: left;
     position: relative;
 
-    background: #ffffff;
+    background: #153356;
 }
 
 @media (max-width: 991px) {

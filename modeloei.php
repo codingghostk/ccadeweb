@@ -95,12 +95,12 @@
 
 
 <!-- Start dessert section -->
-        <section class="dessert-section sec-padding bg-color">
+        <section class="dessert-section sec-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>“Optimizar el Funcionamiento de las Organizaciones, Desarrollando Personas”</h3>
+                            <h3><i>“Optimizar el Funcionamiento de las Organizaciones, Desarrollando Personas”</i></h3>
                             <!--<p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
                                 organization's data with emphasis on statistical analysis.</p>-->
                         </div>

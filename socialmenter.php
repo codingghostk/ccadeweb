@@ -134,8 +134,7 @@
                     <div class="lists">
                     <ul>
                     <br>
-                            <li><i class="fa fa-check-circle-o"></i> “Aprendiendo a Vivir en Familia”</li>
-                            <br>
+                            <li><i class="fa fa-check-circle-o"></i> “Aprendiendo a Vivir en Familia”</li><br>
                             <li><i class="fa fa-check-circle-o"></i> “Desarrollo Personal” </li> <br>
                             <li><i class="fa fa-check-circle-o"></i> “¿Cómo aprender a Comunicarme Mejor?” </li> <br>
                             <li><i class="fa fa-check-circle-o"></i> “Autoestima en la Familia” </li> <br>                 
