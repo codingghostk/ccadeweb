@@ -126,7 +126,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>Diagnóstico de clima y cultura organizacional</h3>
+                            <h3>Diagnóstico de Clima y Cultura Organizacional</h3>
                             <p>El diagnóstico de Clima y Cultura es una poderosa herramienta que permite identificar áreas de oportunidad, así como los índices de satisfacción en la organización, con los que se pueden anticipar problemas o detectar puntos críticos para prevenirlos.</p>
                             <hr>
                             <p>Con estas bases, se proponen acciones correctivas y preventivas, considerando las respuestas y comentarios directos del personal que labora en su organización al evaluar 20 factores claves.</p>

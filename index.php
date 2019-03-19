@@ -383,8 +383,8 @@
         <section class="numbers-section-3 sec-padding parallax-bg fix">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4 col-sm-4 col-xs-12">
-                        <div class="section-titleBar text-left">
+                    <div class="col-md-4 col-sm-4 col-xs-12 ">
+                        <div class="section-titleBar text-center">
                             <h3>*A LO LARGO DE NUESTRA<br>TRAYECTORIA</h3>
                         </div>
                     </div>
@@ -469,7 +469,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>Algunos de nuestros principales clientes:</h3>
+                            <h3>Algunos de Nuestros Principales Clientes:</h3>
                             <p></p>
                         </div>
                     </div>
