@@ -130,11 +130,11 @@
                                         <div class="about-details text-center">
                                             <div class="lists">
                                                 <ul>
-                                                    <li><i class="fa fa-check-circle-o"></i>Programas Integrales de Alta Efectividad.</li>
-                                                    <li><i class="fa fa-check-circle-o"></i>Cursos Internos, Seminarios o Talleres.</li>
-                                                    <li><i class="fa fa-check-circle-o"></i>Servicios Especialmente Diseñados.</li>
-                                                    <li><i class="fa fa-check-circle-o"></i>Cursos Abiertos (Querétaro e Irapuato).</li>
-                                                    <li><i class="fa fa-check-circle-o"></i>Asesoría Personalizada.</li>
+                                                    <li><i class="fa fa-check-circle-o"></i>Programas Integrales de Alta Efectividad.</li><br>
+                                                    <li><i class="fa fa-check-circle-o"></i>Cursos Internos, Seminarios o Talleres.</li><br>
+                                                    <li><i class="fa fa-check-circle-o"></i>Servicios Especialmente Diseñados.</li><br>
+                                                    <li><i class="fa fa-check-circle-o"></i>Cursos Abiertos.</li><br>
+                                                    <li><i class="fa fa-check-circle-o"></i>Asesoría Personalizada.</li><br>
                                                 </ul>
                                             </div>
                                         </div>
@@ -145,7 +145,7 @@
                                     <div class="about-content" style="text-align:justify">
                                     <h4>DESCRIPCIÓN</h4>
 
-                                        <p>Servicios especializados de capacitación orientados a resolver la problemática desde la raíz. Más de 200 temas en nuestras 7 áreas de especialización, adecuados a sus propios requerimientos y características.</p>
+                                        <br><p>Servicios especializados de capacitación orientados a resolver la problemática desde la raíz.</p><br><p> Más de 200 temas en nuestras 7 áreas de especialización, adecuados a sus propios requerimientos y características.</p>
                                         
                                     </div>
                                 </div>
@@ -167,7 +167,7 @@
                         <div class="about-wd" >
                                 <div class="section-titleBar text-left" style="text-align:justify">
                                         <h3>Áreas de Especialización</h3>
-                                    <p >Trabajamos con todos los niveles de la organización, desde el personal operativo hasta la alta dirección.</p><br><p> Dichos procesos son realizados por nuestro equipo de más de 45 instructores – consultores y especialistas en los diversos temas a tratar. Nuestras 7 áreas de especialización son:</p>
+                                    <p >Trabajamos con todos los niveles de la organización, desde el personal operativo hasta la alta dirección.</p><br><p> Dichos procesos son realizados por nuestro equipo de más de 45 instructores – consultores y especialistas en los diversos temas a tratar.</p><br><p> Nuestras 7 áreas de especialización son:</p>
 
                                 </div>
                               <div class="lists">
@@ -175,7 +175,7 @@
                                         <li><i class="fa fa-check-circle-o"></i>Desarrollo Integral Humano</li>
                                         <li><i class="fa fa-check-circle-o"></i>Administración / Operaciones</li>
                                         <li><i class="fa fa-check-circle-o"></i>Calidad / Mejora Continua</li>
-                                        <li><i class="fa fa-check-circle-o"></i>Técnica (Industrial / Informática / Aeronáutica)</li>
+                                        <li><i class="fa fa-check-circle-o"></i>Técnica (Industrial / Informática)</li>
                                
                                         <li><i class="fa fa-check-circle-o"></i>Ventas / Mercadotecnia</li>
                                         <li><i class="fa fa-check-circle-o"></i>Financiera / Fiscal</li>

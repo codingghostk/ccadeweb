@@ -123,17 +123,7 @@
         <!-- Start Rooms Section -->
         <section class="our-overview sec-padding bg-color">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="section-titleBar text-center">
-                            <h3>Diagnóstico de Clima y Cultura Organizacional</h3>
-                            <p>El diagnóstico de Clima y Cultura es una poderosa herramienta que permite identificar áreas de oportunidad, así como los índices de satisfacción en la organización, con los que se pueden anticipar problemas o detectar puntos críticos para prevenirlos.</p>
-                            <hr>
-                            <p>Con estas bases, se proponen acciones correctivas y preventivas, considerando las respuestas y comentarios directos del personal que labora en su organización al evaluar 20 factores claves.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
+                                <div class="row">
                     <div class="">
                         <!-- single-awesome-project start -->
                         <div class="col-md-4 col-sm-4 col-xs-12">
@@ -146,9 +136,9 @@
                                     <!-- <div class="price">$54</div> -->
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>GESTIÓN DE LA CALIDAD</h4>
+                                    <h4 align="center">GESTIÓN DE LA CALIDAD</h4>
                                     <p>ISO 9001 – Gestión de Calidad<br>
-                                    IATF 16 9419 – Norma Automotriz<br>
+                                    IATF 16949 – Norma Automotriz<br>
                                     ISO 14000 – Norma Ecológica<br>
                                     ISO 22000 – Norma Alimentaria<br>
                                     ESR – Empresas Socialmente Responsable
@@ -167,10 +157,11 @@
                                     <!-- <div class="price">$54</div> -->
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>EVOLUCIÓN ORGANIZACIONAL</h4>
+                                    <h4 align="center">EVOLUCIÓN ORGANIZACIONAL</h4>
+                                    <br>
                                     <p>Competencias Laborales<br>
                                     Desarrollo Organizacional
-                                    <br>
+                                    
                                     <br>
                                     <br>
                                     <br>
@@ -189,11 +180,12 @@
                                     <!-- <div class="price">$54</div> -->
                                 </div>
                                 <div class="project-dec-2">
-                                    <h4>COMPETITIVIDAD TOTAL</h4>
+                                    <h4 align="center">COMPETITIVIDAD TOTAL</h4>
+                                    <br>
                                     <p>Lean Manufacturing<br>
                                     6 Sigma<br>
-                                    TMP – Mantenimiento Productivo Total
-                                    <br>
+                                    TPM – Mantenimiento Productivo Total
+                                    
                                     <br>
                                     <br>
                                     </p>                                    
@@ -203,6 +195,18 @@
                         </div>   
                     </div>
                 </div>
+                <br>
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="section-titleBar text-center">
+                            <h3>Diagnóstico de Clima y Cultura Organizacional</h3>
+                            <p>El diagnóstico de Clima y Cultura es una poderosa herramienta que permite identificar áreas de oportunidad, así como los índices de satisfacción en la organización, con los que se pueden anticipar problemas o detectar puntos críticos para prevenirlos.</p>
+                            <hr>
+                            <p>Con estas bases, se proponen acciones correctivas y preventivas, considerando las respuestas y comentarios directos del personal que labora en su organización al evaluar 20 factores claves.</p>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </section>
         <!-- Ends Rooms Section -->

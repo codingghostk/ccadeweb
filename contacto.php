@@ -142,8 +142,8 @@
                                     
                                     <h4>CONTACTO</h4>
                                     <hr>                                    
-                                    <div class="text"><b>Teléfono:</b>  (442) 213 5724 / (442) 213 5802 </div>
-                                    <div class="text"><b>Email:</b>  acesores@ccade.com.mx </div>
+                                    <div class="text"><b>Teléfono:</b>  (442) 213 5724 / 213 5802 Ext. 103</div>
+                                    <div class="text"><b>Email:</b>  asesores@ccade.com.mx </div>
                                     <div class="social-icons">
                                     <a href="#." class="fb"><i class="icon-euro"></i></a>
                                     <a href="#." class="tw"><i class="icon-yen"></i></a>

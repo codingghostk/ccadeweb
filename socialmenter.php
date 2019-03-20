@@ -128,7 +128,7 @@
             <div class="service-promo sec-padding">
                 <div class="promo-content">
                     <div class="know-top">
-                        <h3>Algunos de los Temas Impartidos Son:</h3>    
+                        <h3 align="center">Algunos de los Temas Impartidos Son:</h3>    
                         <br>                   
                     </div>
                     <div class="lists" align="center">
