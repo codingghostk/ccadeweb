@@ -59,9 +59,63 @@
             include("mainMenu.php");
         ?>
         <!-- MAin menu ends -->
+        <section class="slider-section">
+            <div class="container" style="padding: 0; margin: 0; width: 100%;">
+              <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators" style="display: none;">
+                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#myCarousel" data-slide-to="1"></li>
+                  <li data-target="#myCarousel" data-slide-to="2"></li>
+                  <li data-target="#myCarousel" data-slide-to="4"></li>
+                </ol>           
+                <div class="carousel-inner">            
+                  <div class="item active">
+                    <img src="img/slider/baner1.jpg" alt="40 años de experiencia y resultados contundentes" style="width:100%;">
+                    <div class="carousel-caption">
+                      <h1 style="color: white; text-shadow: 2px 2px #000;">40 años de experiencia y resultados contundentes</h1>
+                      <p></p>
+                    </div>
+                  </div>            
+
+                  <div class="item">
+                    <img src="img/slider/baner2.jpg" alt="Optimizar el funcionamiento organizacional desarrollando personas" style="width:100%;">
+                    <div class="carousel-caption">
+                      <h1 style="color: white; text-shadow: 2px 2px #000;">Optimizar el funcionamiento organizacional desarrollando personas</h1>
+                      <p></p>
+                    </div>
+                  </div>
+                
+                  <div class="item">
+                    <img src="img/slider/baner3.jpg" alt="Expertos en Optimización Organizacional" style="width:100%;">
+                    <div class="carousel-caption">
+                      <h1 style="color: white; text-shadow: 2px 2px #000;">Expertos en Optimización Organizacional</h1>
+                      <p></p>
+                    </div>
+                  </div>            
+
+                  <div class="item">
+                    <img src="img/slider/baner4.jpg" alt="Líderes en evolución organizacional desde 1978" style="width:100%;">
+                    <div class="carousel-caption">
+                      <h1 style="color: white; text-shadow: 2px 2px #000;">Líderes en evolución organizacional desde 1978</h1>
+                      <p></p>
+                    </div>
+                  </div>
+            </div>
+            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div>
+        </section>
+
 
         <!-- Start Slider section -->
-        <section class="slider-section" >
+        <!--<section class="slider-section" >
            <div class="slider-overly"></div>
             <div class="intro-carousel">
                 <div class="intro-content">
@@ -74,17 +128,10 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <!-- layer 1 -->
                                             <div class="layer-1-2">
                                                 <h1 class="title2">40 años de experiencia y resultados contundentes</h1>
                                             </div>
-                                            <!-- layer 2 -->
-                                            <!--<div class="layer-1-1 ">
-                                                <p>nteger placerat arcu quis sem aliquet tempor maecenas in dictum arcu curabitur</p>
-                                            </div>-->
-                                            <!-- layer 3 -->
                                             <div class="layer-1-3">
-                                                <!--<a href="#" class="ped-btn left-btn" >Nuestros Servicios</a>-->
                                             </div>
                                         </div>
                                     </div>
@@ -103,19 +150,9 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <!-- layer 1 -->
                                             <div class="layer-1-2 align-center">
                                                 <h1 class="title2">Optimizar el funcionamiento organizacional desarrollando personas</h1>
                                             </div>
-                                            <!-- layer 2 -->
-                                            <!--<div class="layer-1-1 align-center">
-                                                <p>nteger placerat arcu quis sem aliquet tempor maecenas in dictum arcu curabitur placerat arcu quis sem aliquet</p>
-                                            </div>-->
-                                            <!-- layer 3 
-                                            <div class="layer-1-3 align-center">
-                                                <a href="#" class="ped-btn left-btn" >Our Services</a>
-                                                <a href="#" class="ped-btn right-btn" >Our Rooms</a>
-                                            </div>-->
                                         </div>
                                     </div>
                                 </div>
@@ -133,15 +170,9 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <!-- layer 1 -->
                                             <div class="layer-1-2">
                                                 <h1 class="title2">Expertos en Optimización Organizacional</h1>
                                             </div>
-                                            <!-- layer 2 -->
-                                            <!--<div class="layer-1-1 ">
-                                                <p>nteger placerat arcu quis sem aliquet tempor maecenas in dictum arcu curabitur</p>
-                                            </div>-->
-                                            <!-- layer 3 -->
                                         </div>
                                     </div>
                                 </div>
@@ -159,15 +190,9 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <!-- layer 1 -->
                                             <div class="layer-1-2">
                                                 <h1 class="title2">Líderes en evolución organizacional desde 1978</h1>
                                             </div>
-                                            <!-- layer 2 -->
-                                            <!--<div class="layer-1-1 ">
-                                                <p>nteger placerat arcu quis sem aliquet tempor maecenas in dictum arcu curabitur</p>
-                                            </div>-->
-                                            <!-- layer 3 -->
                                         </div>
                                     </div>
                                 </div>
@@ -176,7 +201,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
         <!-- End Slider section -->
 
         <!-- Start listing section -->
