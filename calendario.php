@@ -60,7 +60,7 @@
                   <div class="col-md-12 col-sm-12 col-xs-12">
                      <div class="breadcrumb text-center">
                         <div class="section-titleBar white-headline text-center">
-                           <h3>CALENDARIO</h3>
+                           <h3>CALENDARIO DE CURSOS ABIERTOS</h3>
                         </div>
                      </div>
                   </div>
@@ -85,7 +85,7 @@
               <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
                             <!--<h3>Suscríbete</h3>-->
-                            <p>Seleccione la fecha presionando en la imagen. </p>
+                            <p>Selecciona el curso de tu interés dando click en la imagen. </p>
                         </div>
                     </div>
                 <div class="row col-md-12" style="height: 250px; margin-bottom: 25px;">

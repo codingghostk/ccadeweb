@@ -66,7 +66,7 @@
             <div class="intro-carousel">
                 <div class="intro-content">
                     <div class="slider-images">
-                        <img src="img/slider/SLLIDE1.jpg" alt="">
+                        <img src="img/slider/baner1.jpg" alt="">
                     </div>
                     <div class="slider-content">
                         <div class="display-table">
@@ -95,7 +95,7 @@
                 </div>
                 <div class="intro-content">
                     <div class="slider-images">
-                        <img src="img/slider/SLLIDE4.jpg" alt="">
+                        <img src="img/slider/baner2.jpg" alt="">
                     </div>
                     <div class="slider-content">
                         <div class="display-table">
@@ -108,9 +108,9 @@
                                                 <h1 class="title2">Optimizar el funcionamiento organizacional desarrollando personas</h1>
                                             </div>
                                             <!-- layer 2 -->
-                                            <div class="layer-1-1 align-center">
+                                            <!--<div class="layer-1-1 align-center">
                                                 <p>nteger placerat arcu quis sem aliquet tempor maecenas in dictum arcu curabitur placerat arcu quis sem aliquet</p>
-                                            </div>
+                                            </div>-->
                                             <!-- layer 3 
                                             <div class="layer-1-3 align-center">
                                                 <a href="#" class="ped-btn left-btn" >Our Services</a>
@@ -125,7 +125,7 @@
                 </div>
                 <div class="intro-content">
                     <div class="slider-images">
-                        <img src="img/slider/Slide2.jpg" alt="">
+                        <img src="img/slider/baner3.jpg" alt="">
                     </div>
                     <div class="slider-content">
                         <div class="display-table">
@@ -151,7 +151,7 @@
                 </div>
                 <div class="intro-content">
                     <div class="slider-images">
-                        <img src="img/slider/7.png" alt="">
+                        <img src="img/slider/baner4.jpg" alt="">
                     </div>
                     <div class="slider-content">
                         <div class="display-table">
@@ -261,7 +261,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-5">
+                    <!--<div class="col-md-5">
                         <div class="info-box">
                             <div class="sec-title">
                                 <h4>Contactanos</h4>
@@ -285,19 +285,24 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
 <div class="jumper" id="jump0"></div>
-                    <div class="col-md-7">
+                    <div class="col-md-12">
                         <div class="request-call-form">
-                                <div class="col-md-12">
-                                    <input id="nameSubs" type="text" placeholder="Nombre" name="name">
-                                    <input id="emailSubs" type="text" placeholder="Correo electronico" name="email">
+                                <div class="col-md-6">
+                                    <input id="empresaSubs" type="text" placeholder="Empresa" name="empresa">
+                                    <input id="puestoSubs" type="text" placeholder="Puesto" name="puesto">
                                 </div>
+                                <div class="col-md-6">
+                                    <input id="nameSubs" type="text" placeholder="Nombre" name="name">
+                                    <input id="emailSubs" type="text" placeholder="Correo electrónico" name="email">
+                                </div>
+                                
                                 <!--<div class="col-md-6">
                                     <input id="phone" type="text" placeholder="Telefo" name="phone">
                                     <input id="subject" type="text" placeholder="Subject" name="subject">
                                 </div>-->
-                                <div class="col-md-12">
+                                <div class="col-md-12" align="center">
                                     <button value="Submit" class="thm-btn" onclick="mailchimpPhp()">Suscribirse</button>
                                 </div>
                                 <div class="col-md-12">
@@ -349,7 +354,7 @@
                                 </li>
                                 <li class="room-category">
                                     <a href="outdoor.php">
-                                        <div class="media-icon"> <img src="img/outdoor.png" alt="Smiley face" height="30%" width="30%"></i></div>
+                                        <div class="media-icon"> <img src="img/outdoor1.png" alt="Smiley face" height="35%" width="35%"></i></div>
                                         <div class="media-caption">
                                             <h4 class="category-titile">Outdoor</h4>
                                             <span class="job-count">Más Información</span>
@@ -360,7 +365,7 @@
                                     <a href="calendario.php">
                                         <div class="media-icon"> <img src="img/calendario.png" alt="Smiley face" height="30%" width="30%"></i></div>
                                         <div class="media-caption">
-                                            <h4 class="category-titile">Calendario de cursos abiertos</h4>
+                                            <h4 class="category-titile">Calendario de Cursos Abiertos</h4>
                                             <span class="job-count">Más Información</span>
                                         </div>
                                     </a>
@@ -378,8 +383,8 @@
         <section class="numbers-section-3 sec-padding parallax-bg fix">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4 col-sm-4 col-xs-12">
-                        <div class="section-titleBar text-left">
+                    <div class="col-md-4 col-sm-4 col-xs-12 ">
+                        <div class="section-titleBar text-center">
                             <h3>*A LO LARGO DE NUESTRA<br>TRAYECTORIA</h3>
                         </div>
                     </div>
@@ -436,12 +441,12 @@
                     <div class="col-lg-12 col-md-12">
                         <div class="row">
                      <blockquote>
-                        <div class="icon-holder">
+                        <div class="icon-holder" >
                             <i class="fa fa-quote-left" aria-hidden="true"></i>
                         </div>
-                        Nuestro compromiso y razón de existir es “Optimizar el funcionamiento organizacional, desarrollando personas”, lo cual lo logramos con pasión e inteligencia, aplicando vanguardistas modelos, metodologías, apoyos didácticos y un grupo de facilitadores del más alto nivel, obteniendo así resultados contundentes y tangibles con nuestros clientes. 
-                        <p>
-                        Gracias por permitirnos contribuir en su evolución organizacional. 
+                        <p style="text-align:justify"><i>Nuestro compromiso y razón de existir es “Optimizar el funcionamiento organizacional, desarrollando personas”, lo cual lo logramos con pasión e inteligencia, aplicando vanguardistas modelos, metodologías, apoyos didácticos y un grupo de facilitadores del más alto nivel, obteniendo así resultados contundentes y tangibles con nuestros clientes.</i></p>
+                        <p style="text-align:justify"><i>
+                        Gracias por permitirnos contribuir en su evolución organizacional.</i></p>
                     </blockquote>
                     <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="testi-img ">
@@ -464,7 +469,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>Algunos de nuestros principales clientes:</h3>
+                            <h3>Algunos de Nuestros Principales Clientes:</h3>
                             <p></p>
                         </div>
                     </div>
@@ -2590,13 +2595,6 @@
                                 <h5>George Simons</h5>
                                 <span class="guest-rev"><a href="#">Genarel customer</a></span>
                             </div>
-                            <div class="client-rating">
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                            </div>
                             <div class="testi-text">
                                 <p>Integer placerat arcu quis sem aliquet tempor. Maecenas in dictum arcu.Aenean congue porta dolor, in rutrum orci. In id lacinia ligula.</p>
                             </div>
@@ -2610,13 +2608,7 @@
                                 <h5>George Simons</h5>
                                 <span class="guest-rev"><a href="#">Genarel customer</a></span>
                             </div>
-                            <div class="client-rating">
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                            </div>
+
                             <div class="testi-text">
                                 <p>Integer placerat arcu quis sem aliquet tempor. Maecenas in dictum arcu.Aenean congue porta dolor, in rutrum orci. In id lacinia ligula.</p>
                             </div>
@@ -2629,13 +2621,6 @@
                             <div class="texti-name">
                                 <h5>George Simons</h5>
                                 <span class="guest-rev"><a href="#">Genarel customer</a></span>
-                            </div>
-                            <div class="client-rating">
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
-                                <a href="#"><i class="icon icon-star"></i></a>
                             </div>
                             <div class="testi-text">
                                 <p>Integer placerat arcu quis sem aliquet tempor. Maecenas in dictum arcu.Aenean congue porta dolor, in rutrum orci. In id lacinia ligula.</p>

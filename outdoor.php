@@ -71,7 +71,7 @@
       </section>
       <!-- End Slider section -->
       <!-- Start welcome section -->
-      <section class="about">
+      <section class="about" style="text-align:justify">
             <div class="story__picturesOut">
                 <!--<img src="img/CCADE 2018 outdoor-01.jpg" alt="Couple with new house" class="story__img--out">-->
                 <!-- <img src="img/about/1.jpeg" alt="New house" class="story__img--2"> -->
@@ -122,12 +122,24 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
+                            <div class="col-md-12 col-sm-12 col-xs-12">
                             <h3>Actividades</h3>
-                            <p>
-                        > Outdoor de 1, 2 o 3 días
-                        > Diversos factores a atender
-                        > Grupos reducidos o eventos masivos
-                        > Diversidad de lugares
+                            </div>
+                            <div class="col-md-6 col-sm-6 col-xs-6">
+                              <p> > Outdoor de 1, 2 o 3 días</p>
+                            </div>
+                            <div class="col-md-6 col-sm-6 col-xs-6">
+                              <p>> Diversos factores a atender</p>
+                            </div>
+                            <div class="col-md-6 col-sm-6 col-xs-6">
+                              <p> > Grupos reducidos o eventos masivos</p>
+                            </div>
+                            
+                            <div class="col-md-6 col-sm-6 col-xs-6">
+                               <p> > Diversidad de lugares</p>
+                              </div>
+                            
+                        
                         <!-- Diagnóstico previo general<br>
                         > Diagnóstico del perfil del grupo<br>
                         > Proceso de Outdoor<br>

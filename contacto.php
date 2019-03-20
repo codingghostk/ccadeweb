@@ -44,18 +44,6 @@
 
         <div id="preloader"></div>
          <!-- header -->
-        <header class="header">
-            <div class="container clearfix">
-                <div class="header-right-info">
-
-                </div>
-                <div class="header-left-info">
-                    <div class="link">
-                        <a href="Seguimiento-Digital/index.php" class="thm-btn-inverse">ACCESO PORTAL SEGUIMIENTO DIGITAL</a>
-                    </div>
-                </div>
-            </div>
-        </header>
         <!-- header end -->
        <!-- Main menu -->
         <?php 
@@ -64,14 +52,14 @@
         <!-- MAin menu ends -->
         <!-- Start breadcumb section -->
         <section class="page-breadcrumb">
-            <div class="page-section">
-                <div class="breadcumb-overlay"></div>
+            <div class="page-section-contacto">
+                
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 col-sm-12 col-xs-12">
                             <div class="breadcrumb text-center">
                                 <div class="section-titleBar white-headline text-center">
-                                    <h3>CONTACTANOS</h3>
+                                    <h3>CONTÁCTANOS</h3>
                                 </div>
                             </div>
                         </div>
@@ -123,7 +111,7 @@
                     <div class="col-md-7">
 
                         <div class="main-title">
-                            <h3>REGISTRATE Y RECIBE INFORMACIÓN DE INTERÉS</h3>
+                            <h3>Envíanos tus datos y a la brevedad nos pondremos en contacto contigo </h3>
                             <p></p>
                         </div>
 
@@ -136,8 +124,8 @@
                                     <div class="col-md-6"><input type="text" data-delay="300" placeholder="Puesto" name="contact_puesto" id="puesto" class="input"></div>
                                     <div class="col-md-6"><input type="text" data-delay="300" placeholder="Correo" name="contact_email" id="email" class="input"></div>
                                     <div class="col-md-12"><textarea data-delay="500" class="required valid" placeholder="Mensaje" name="message" id="mensaje"></textarea></div>
-                                    <div class="col-md-3"><input name="Enviar" type="button" value="Enviar" onclick="enviarCorreo()" style="border: 2px solid #4db7fe;color: #fff;cursor: pointer;display: inline-block;font-size: 14px;font-weight: 700;
-                                    margin-top: 20px;padding: 10px 22px;text-align: center;text-transform: uppercase;transition: all 0.4s ease 0s;z-index: 222;background: #4db7fe;border-radius: 3px;width: 100%;"></div>
+                                    <div class="col-md-3"><input name="Enviar" type="button" value="Enviar" onclick="enviarCorreo()" style="border: 2px solid #2099bb;color: #fff;cursor: pointer;display: inline-block;font-size: 14px;font-weight: 700;
+                                    margin-top: 20px;padding: 10px 22px;text-align: center;text-transform: uppercase;transition: all 0.4s ease 0s;z-index: 222;background: #2099bb;border-radius: 3px;width: 100%;"></div>
 
                             </div>
                         </div>
@@ -147,27 +135,25 @@
 
                     <div class="col-md-5">
 
-                        <div class="contact-get">
-                            <div class="main-title">
-                                <h3><span>CONTACTO</span></h3>
-                                <p></p>
-                            </div>
-
-                            <div class="get-in-touch">
-                                <div class="detail">
-                                    <span><b>Teléfono:</b> (442) 213 5724 / (442) 213 5802</span>
-                                    <span><b>Email:</b> <a href="#.">acesores@ccade.com.mx</a></span>
-                                    <!-- <span><b>Web:</b> <a href="#.">www.marco.com</a></span>
-                                    <span><b>Address:</b> 12345 North Main Street, New York, NY</span> -->
-                                </div>
-
-                                <div class="social-icons">
+                        <div class="wpb_column vc_column_container">
+                        <div class="vc_column-inner ">
+                            <div class="wpb_wrapper">
+                                <div class="cart-service">
+                                    
+                                    <h4>CONTACTO</h4>
+                                    <hr>                                    
+                                    <div class="text"><b>Teléfono:</b>  (442) 213 5724 / (442) 213 5802 </div>
+                                    <div class="text"><b>Email:</b>  acesores@ccade.com.mx </div>
+                                    <div class="social-icons">
                                     <a href="#." class="fb"><i class="icon-euro"></i></a>
                                     <a href="#." class="tw"><i class="icon-yen"></i></a>
                                     <a href="#." class="gp"><i class="icon-google-plus"></i></a>
                                     <a href="#." class="vimeo"><i class="icon-vimeo4"></i></a>
                                 </div>
+                                
+                                </div>
                             </div>
+                        </div>
                         </div>
 
                     </div>
