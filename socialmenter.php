@@ -131,16 +131,16 @@
                         <h3>Algunos de los Temas Impartidos Son:</h3>    
                         <br>                   
                     </div>
-                    <div class="lists">
+                    <div class="lists" align="center">
                     <ul>
                     <br>
-                            <li><i class="fa fa-check-circle-o"></i> “Aprendiendo a Vivir en Familia”</li><br>
-                            <li><i class="fa fa-check-circle-o"></i> “Desarrollo Personal” </li> <br>
-                            <li><i class="fa fa-check-circle-o"></i> “¿Cómo aprender a Comunicarme Mejor?” </li> <br>
-                            <li><i class="fa fa-check-circle-o"></i> “Autoestima en la Familia” </li> <br>                 
-                            <li><i class="fa fa-check-circle-o"></i> “Cómo mejorar mi Relación en Pareja”</li> <br>
-                            <li><i class="fa fa-check-circle-o"></i> “¡Platiquemos Entre Amigas!” </li> <br>
-                            <li><i class="fa fa-check-circle-o"></i> “¿Cómo Mejorar tus Condiciones y en General tu Vida?” </li> <br>
+                            <li><i class="fa fa-check-circle-o" style="color: #ffff;"></i> <span style="color: #ffff;"> “Aprendiendo a Vivir en Familia”</span></li><br>
+                            <li><i class="fa fa-check-circle-o" style="color: #ffff;"></i><span style="color: #ffff;"> “Desarrollo Personal” </span></li> <br>
+                            <li><i class="fa fa-check-circle-o" style="color: #ffff;"></i><span style="color: #ffff;"> “¿Cómo aprender a Comunicarme Mejor?” </span></li> <br>
+                            <li><i class="fa fa-check-circle-o" style="color: #ffff;"></i><span style="color: #ffff;"> “Autoestima en la Familia” </span></li> <br>                 
+                            <li><i class="fa fa-check-circle-o" style="color: #ffff;"></i><span style="color: #ffff;"> “Cómo mejorar mi Relación en Pareja”</span></li> <br>
+                            <li><i class="fa fa-check-circle-o" style="color: #ffff;"></i><span style="color: #ffff;"> “¡Platiquemos Entre Amigas!” </span></li> <br>
+                            <li><i class="fa fa-check-circle-o" style="color: #ffff;"></i><span style="color: #ffff;"> “¿Cómo Mejorar tus Condiciones y en General tu Vida?”</span> </li>
                     </ul>
                     </div>
                 </div>
