@@ -85,7 +85,7 @@
                 <!--<img src="img/about/1.jpeg" alt="New house" class="story__img--2">-->
             </div>
             <div class="story__content" style="text-align:justify">
-            <h3>DESCRIPCIÓN</h3>
+            <h3 style="color:#2099bb">DESCRIPCIÓN</h3>
                           <p>Modelos inteligentes de consultoría comprobados para la adecuación y puesta en marcha del sistema que usted requiera implementar exitosamente en su organización</p>
                           <hr>
                           <p>Nuestro grupo de consultores especialistas y nuestra experiencia, nos permiten ofrecer a su organización diversos modelos de consultoría organizacional, siempre orientados hacia la mejora de la empresa y la obtención de resultados.</p>
@@ -199,7 +199,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>Diagnóstico de Clima y Cultura Organizacional</h3>
+                            <h3 style="color:#2099bb">Diagnóstico de Clima y Cultura Organizacional</h3>
                             <p>El diagnóstico de Clima y Cultura es una poderosa herramienta que permite identificar áreas de oportunidad, así como los índices de satisfacción en la organización, con los que se pueden anticipar problemas o detectar puntos críticos para prevenirlos.</p>
                             <hr>
                             <p>Con estas bases, se proponen acciones correctivas y preventivas, considerando las respuestas y comentarios directos del personal que labora en su organización al evaluar 20 factores claves.</p>
