@@ -303,7 +303,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>Suscríbete</h3>
+                            <h3 style="color:#2099bb">Suscríbete</h3>
                             <p>Al suscribirte recibirás información quincenal actualizada (resúmenes de libros empresariales de actualidad, artículos selectos y promociones especiales)</p>
                         </div>
                     </div>
@@ -372,7 +372,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>Nuestros Servicios</h3>
+                            <h3 style="color:#2099bb">Nuestros Servicios</h3>
                             <!--<p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
                                 organization's data with emphasis on statistical analysis.</p>-->
                         </div>
