@@ -159,16 +159,16 @@
                                     <img src="img/Outdoor/compress/1.JPG" alt="Gallery image 1" class="gallery__img lightbox">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--2 lightbox">
-                                <a href="img/Outdoor/compress/2.JPG" class="tt-gallery-1 lightbox">
-                                    <img src="img/Outdoor/compress/2.JPG" alt="Gallery image 2" class="gallery__img">
+                                <a href="img/Outdoor/compress/4.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/compress/4.JPG" alt="Gallery image 2" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--3 lightbox">
                                 <a href="img/Outdoor/compress/3.JPG" class="tt-gallery-1 lightbox">
                                     <img src="img/Outdoor/compress/3.JPG" alt="Gallery image 3" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--4">
-                                <a href="img/Outdoor/compress/4.JPG" class="tt-gallery-1 lightbox">
-                                    <img src="img/Outdoor/compress/4.JPG" alt="Gallery image 4" class="gallery__img">
+                                <a href="img/Outdoor/compress/2.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/compress/2.JPG" alt="Gallery image 4" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--5">
                                 <a href="img/Outdoor/compress/5.JPG" class="tt-gallery-1 lightbox">
@@ -210,15 +210,15 @@
                                 <a href="img/Outdoor/compress/14.JPG" class="tt-gallery-1 lightbox">
                                     <img src="img/Outdoor/compress/14.JPG" alt="Gallery image 14" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--15">
+                            <figure class="gallery__item gallery__item--14">
                                 <a href="img/Outdoor/compress/15.JPG" class="tt-gallery-1 lightbox">
                                     <img src="img/Outdoor/compress/15.JPG" alt="Gallery image 15" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--15">
+                            <figure class="gallery__item gallery__item--14">
                                 <a href="img/Outdoor/compress/16.JPG" class="tt-gallery-1 lightbox">
                                     <img src="img/Outdoor/compress/16.JPG" alt="Gallery image 15" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
-                            <figure class="gallery__item gallery__item--15">
+                            <figure class="gallery__item gallery__item--14">
                                 <a href="img/Outdoor/compress/17.JPG" class="tt-gallery-1 lightbox">
                                     <img src="img/Outdoor/compress/17.JPG" alt="Gallery image 15" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
