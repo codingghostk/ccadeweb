@@ -3537,6 +3537,13 @@ padding-bottom: 0;
     background-position: top center;
 }
 
+.page-section-calendario {
+    background: url(../img/background/banerCursosAbiertos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+
 .breadcumb-overlay {
   position: absolute;
   background: rgba(27, 48, 83, 0.20) none repeat scroll 0 0;

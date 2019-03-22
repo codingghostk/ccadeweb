@@ -131,7 +131,7 @@
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
                                     <a href="#">
-                                        <img src="img/project/2.jpg" alt="" />
+                                        <img src="img/project/GestiondeCalidad.jpg" alt="" />
                                     </a>
                                     <!-- <div class="price">$54</div> -->
                                 </div>
@@ -152,7 +152,7 @@
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
                                     <a href="#">
-                                        <img src="img/project/2.jpg" alt="" />
+                                        <img src="img/project/evolucionOrganizacional.jpg" alt="" />
                                     </a>
                                     <!-- <div class="price">$54</div> -->
                                 </div>
@@ -175,7 +175,7 @@
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
                                     <a href="#">
-                                        <img src="img/project/3.jpg" alt="" />
+                                        <img src="img/project/competitividad.jpg" alt="" />
                                     </a>
                                     <!-- <div class="price">$54</div> -->
                                 </div>

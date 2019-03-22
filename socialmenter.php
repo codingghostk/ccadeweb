@@ -95,16 +95,22 @@
                                      <!-- single-awesome-project start -->
                                      <div class="single-about-project">
                                          <div class="awesome-img">
-                                             
-                                                 <img src="img/socialmenter/Soci_1.jpg" alt="" />
-                                             
+                                          <img src="img/socialmenter/Soci_1.jpg" alt="" />
                                          </div>
                                      </div>
                                      <div class="single-about-project">
                                          <div class="awesome-img">
-                                             
+                                          <img src="img/socialmenter/socialmente1.jpeg" alt="" />
+                                         </div>
+                                     </div>
+                                     <div class="single-about-project">
+                                         <div class="awesome-img">
                                          <img src="img/socialmenter/Soci_2.jpg" alt="" />
-                                             
+                                         </div>
+                                     </div>
+                                     <div class="single-about-project">
+                                         <div class="awesome-img">
+                                          <img src="img/socialmenter/socialmente2.jpeg" alt="" />
                                          </div>
                                      </div>
                                      <div class="single-about-project">
@@ -112,7 +118,11 @@
                                          <img src="img/socialmenter/Soci_3.jpg" alt="" />                                        
                                          </div>
                                      </div>
-                                     
+                                     <div class="single-about-project">
+                                         <div class="awesome-img">
+                                          <img src="img/socialmenter/socialmente3.jpeg" alt="" />
+                                         </div>
+                                     </div>
                                  </div>
                     </div>
                 </div>
