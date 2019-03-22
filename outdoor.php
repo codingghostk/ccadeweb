@@ -118,14 +118,15 @@
       </section> -->
       <!-- End welcome section -->   
       <section class="gallery-3 sec-padding">
-            <div class="container">
+            <div class="container" style="margin: 0; width: 100%; padding: 0;">
+              <img src="img/outdoor/final4.jpg">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <div class="col-md-12 col-sm-12 col-xs-12">
-                            <h3>Actividades</h3>
-                            </div>
-                            <div class="col-md-6 col-sm-6 col-xs-6">
+                            
+                            
+                            
+                            <!--<div class="col-md-6 col-sm-6 col-xs-6">
                               <p> > Outdoor de 1, 2 o 3 días</p>
                             </div>
                             <div class="col-md-6 col-sm-6 col-xs-6">
@@ -137,7 +138,7 @@
                             
                             <div class="col-md-6 col-sm-6 col-xs-6">
                                <p> > Diversidad de lugares</p>
-                              </div>
+                              </div>-->
                             
                         
                         <!-- Diagnóstico previo general<br>
@@ -154,60 +155,72 @@
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="gallery-section">
                             <figure class="gallery__item gallery__item--1 lightbox">
-                                <a href="img/galery/gal-1.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-1.jpeg" alt="Gallery image 1" class="gallery__img lightbox">
+                                <a href="img/Outdoor/Outdoor 1.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 1.JPG" alt="Gallery image 1" class="gallery__img lightbox">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--2 lightbox">
-                                <a href="img/galery/gal-2.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-2.jpeg" alt="Gallery image 2" class="gallery__img">
+                                <a href="img/Outdoor/Outdoor 2.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 2.JPG" alt="Gallery image 2" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--3 lightbox">
-                                <a href="img/galery/gal-3.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-3.jpeg" alt="Gallery image 3" class="gallery__img">
+                                <a href="img/Outdoor/Outdoor 3.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 3.JPG" alt="Gallery image 3" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--4">
-                                <a href="img/galery/gal-4.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-4.jpeg" alt="Gallery image 4" class="gallery__img">
+                                <a href="img/Outdoor/Outdoor 4.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 4.JPG" alt="Gallery image 4" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--5">
-                                <a href="img/galery/gal-5.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-5.jpeg" alt="Gallery image 5" class="gallery__img">
+                                <a href="img/Outdoor/Outdoor 5.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 5.JPG" alt="Gallery image 5" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--6">
-                                <a href="img/galery/gal-6.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-6.jpeg" alt="Gallery image 6" class="gallery__img">
+                                <a href="img/Outdoor/Outdoor 6.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 6.JPG" alt="Gallery image 6" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--7">
-                                <a href="img/galery/gal-7.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-7.jpeg" alt="Gallery image 7" class="gallery__img">
+                                <a href="img/Outdoor/Outdoor 7.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 7.JPG" alt="Gallery image 7" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--8">
-                                <a href="img/galery/gal-8.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-8.jpeg" alt="Gallery image 8" class="gallery__img">
+                                <a href="img/Outdoor/Outdoor 8.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 8.JPG" alt="Gallery image 8" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--9">
-                                <a href="img/galery/gal-9.jpeg" class="tt-gallery-1 lightbox">
-                                <img src="img/galery/gal-9.jpeg" alt="Gallery image 9" class="gallery__img">
+                                <a href="img/Outdoor/Outdoor 9.JPG" class="tt-gallery-1 lightbox">
+                                <img src="img/Outdoor/Outdoor 9.JPG" alt="Gallery image 9" class="gallery__img">
                                 <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--10">
-                                <a href="img/galery/gal-10.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-10.jpeg" alt="Gallery image 10" class="gallery__img">
+                                <a href="img/Outdoor/Outdoor 10.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 10.JPG" alt="Gallery image 10" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--11">
-                                <a href="img/galery/gal-11.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-11.jpeg" alt="Gallery image 11" class="gallery__img">
+                                <a href="img/Outdoor/Outdoor 11.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 11.JPG" alt="Gallery image 11" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--12">
-                                <a href="img/galery/gal-12.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-12.jpeg" alt="Gallery image 12" class="gallery__img">
+                                <a href="img/Outdoor/Outdoor 12.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 12.JPG" alt="Gallery image 12" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--13">
-                                <a href="img/galery/gal-13.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-13.jpeg" alt="Gallery image 13" class="gallery__img">
+                                <a href="img/Outdoor/Outdoor 13.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 13.JPG" alt="Gallery image 13" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
                             <figure class="gallery__item gallery__item--14">
-                                <a href="img/galery/gal-14.jpeg" class="tt-gallery-1 lightbox">
-                                    <img src="img/galery/gal-14.jpeg" alt="Gallery image 14" class="gallery__img">
+                                <a href="img/Outdoor/Outdoor 14.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 14.JPG" alt="Gallery image 14" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--15">
+                                <a href="img/Outdoor/Outdoor 15.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 15.JPG" alt="Gallery image 15" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--15">
+                                <a href="img/Outdoor/Outdoor 16.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 16.JPG" alt="Gallery image 15" class="gallery__img">
+                                    <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
+                            <figure class="gallery__item gallery__item--15">
+                                <a href="img/Outdoor/Outdoor 17.JPG" class="tt-gallery-1 lightbox">
+                                    <img src="img/Outdoor/Outdoor 17.JPG" alt="Gallery image 15" class="gallery__img">
                                     <span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></a></figure>
 
 
