@@ -171,7 +171,7 @@
                   </div> 
                 </div>
                 <div class="col-md-6">
-                  <h3>PARA MÁS INFORMACIÓN</h3>
+                  <h3 style="color:#2099bb">PARA MÁS INFORMACIÓN</h3>
                   <p>
                     Favor de llena el formulario para enviarte la información detallada del curso de tu interés.
                   </p>

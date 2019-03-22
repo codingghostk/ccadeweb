@@ -3086,7 +3086,7 @@ select.ht-field {
     font-weight: 700;
 }
 .offer-section a:hover {
-    color: #2099bb;
+    color: #333;
 }
 .offer-section span {
     font-size: 14px;
@@ -3504,7 +3504,7 @@ padding-bottom: 0;
 }
 
 .page-section-capacitacion {
-    background: url(../img/background/banerCapacitacion.jpg);
+    background: url(../img/background/banerPaginaCapacitacion.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
