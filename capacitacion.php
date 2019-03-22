@@ -126,7 +126,7 @@
                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                     <div class="about-content mrb" style="text-align:justify"> 
 
-                                    <h4>SERVICIOS</h4>
+                                    <h4 style="color:#2099bb">SERVICIOS</h4>
                                         <div class="about-details text-center">
                                             <div class="lists">
                                                 <ul>
@@ -143,7 +143,7 @@
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                     <div class="about-content" style="text-align:justify">
-                                    <h4>DESCRIPCIÓN</h4>
+                                    <h4 style="color:#2099bb">DESCRIPCIÓN</h4>
 
                                         <br><p>Servicios especializados de capacitación orientados a resolver la problemática desde la raíz.</p><br><p> Más de 200 temas en nuestras 7 áreas de especialización, adecuados a sus propios requerimientos y características.</p>
                                         
@@ -166,7 +166,7 @@
                     <div class="col-md-6 col-sm-6">
                         <div class="about-wd" >
                                 <div class="section-titleBar text-left" style="text-align:justify">
-                                        <h3>Áreas de Especialización</h3>
+                                        <h3 style="color:#2099bb">Áreas de Especialización</h3>
                                     <p >Trabajamos con todos los niveles de la organización, desde el personal operativo hasta la alta dirección.</p><br><p> Dichos procesos son realizados por nuestro equipo de más de 45 instructores – consultores y especialistas en los diversos temas a tratar.</p><br><p> Nuestras 7 áreas de especialización son:</p>
 
                                 </div>
