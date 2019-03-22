@@ -434,13 +434,13 @@
                 <div class="row">
                     <div class="col-md-4 col-sm-4 col-xs-12 ">
                         <div class="section-titleBar text-center">
-                            <h3>*A LO LARGO DE NUESTRA<br>TRAYECTORIA</h3>
+                            <h3 style="text-transform:none;font-weight: normal;">*A lo largo de nuestra<br>trayectoria</h3>
                         </div>
                     </div>
                     <div class="col-md-8 col-sm-8 col-xs-12">
                         <div class="single-count-box">
                             <div class="box">
-                                <div class="number-box"><span class="counter">200,000</span></div>
+                                <div class="number-box"><span class="counter">201,315</span></div>
                                 <div class="text-box">
                                     <p>PERSONAL CAPACITADO*</p>
                                 </div>
@@ -448,7 +448,7 @@
                         </div>
                         <div class="single-count-box">
                             <div class="box">
-                                <div class="number-box"><span class="counter">10,000</span></div>
+                                <div class="number-box"><span class="counter">10,073</span></div>
                                 <div class="text-box">
                                     <p>EVENTOS IMPARTIDOS*</p>
                                 </div>
@@ -499,7 +499,7 @@
                     </blockquote>
                     <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="testi-img ">
-                                <img src="img/review/1.jpg" alt="">
+                                <img src="img/review/Foto-Jorge.jpg" alt="">
                             </div>
                             <div class="texti-name">
                                 <h5>Ing. Jorge Patiño</h5>

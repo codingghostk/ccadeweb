@@ -108,13 +108,12 @@
             <div class="container">
 
                 <div class="rox">
-                    <div class="col-md-7">
-
-                        <div class="main-title">
-                            <h3 style="color:#2099bb">Envíanos tus datos y a la brevedad nos pondremos en contacto contigo </h3>
+                  <div class="main-title">
+                            <h3 style="color:#2099bb" align="center">Envíanos tus datos y a la brevedad nos pondremos en contacto contigo </h3>
                             <p></p>
                         </div>
-
+                        <div class="row">
+                    <div class="col-md-7">
                         <div class="form">
                             <div class="row">
                                 <p class="success" id="success"></p>
@@ -126,15 +125,13 @@
                                     <div class="col-md-12"><textarea data-delay="500" class="required valid" placeholder="Mensaje" name="message" id="mensaje"></textarea></div>
                                     <div class="col-md-3"><input name="Enviar" type="button" value="Enviar" onclick="enviarCorreo()" style="border: 2px solid #2099bb;color: #fff;cursor: pointer;display: inline-block;font-size: 14px;font-weight: 700;
                                     margin-top: 20px;padding: 10px 22px;text-align: center;text-transform: uppercase;transition: all 0.4s ease 0s;z-index: 222;background: #2099bb;border-radius: 3px;width: 100%;"></div>
-
                             </div>
                         </div>
-
-
                     </div>
 
                     <div class="col-md-5">
 
+                                                        <br>
                         <div class="wpb_column vc_column_container">
                         <div class="vc_column-inner ">
                             <div class="wpb_wrapper">
@@ -145,10 +142,11 @@
                                       <span style="font-size: 18px"><b>Teléfono:</b>  (442) 213 5724 / 213 5802 Ext. 103</span>
                                     </div>
                                     <div class="text"><span style="font-size: 18px"><b>Email:</b>  asesores@ccade.com.mx </span></div>
+                                    <br>
                                     <div class="social-icons">
-                                    <a href="facebook.com" class="fb"><img src="img/facebook.png" alt="Smiley face" height="10%" width="10%"></i></a>
-                                    <a href="#." class="tw"><img src="img/instagram.png" alt="Smiley face" height="10%" width="10%"></i></a>
-                                    <a href="#." class="gp"><img src="img/linkening.png" alt="Smiley face" height="10%" width="10%"></i></a>
+                                    <a href="https://www.facebook.com/ccade.mexico/" class="fb"><img src="img/facebook.png" alt="Smiley face" height="20%" width="20%"></i></a>
+                                    <a href="https://www.instagram.com/ccade1978/?hl=es-la" class="tw"><img src="img/instagram.png" alt="Smiley face" height="20%" width="20%"></i></a>
+                                    <a href="" class="gp"><img src="img/linkening.png" alt="Smiley face" height="20%" width="20%"></i></a>
                                     </div>
                                 </div>
                                 
@@ -156,6 +154,7 @@
                             </div>
                         </div>
                         </div>
+</div>
 
                     </div>
 
