@@ -338,11 +338,12 @@
                     <div class="col-md-12">
                         <div class="request-call-form">
                                 <div class="col-md-6">
-                                    <input id="empresaSubs" type="text" placeholder="Empresa" name="empresa">
+                                    <input id="nameSubs" type="text" placeholder="Nombre" name="name">
                                     <input id="puestoSubs" type="text" placeholder="Puesto" name="puesto">
                                 </div>
                                 <div class="col-md-6">
-                                    <input id="nameSubs" type="text" placeholder="Nombre" name="name">
+                                    <input id="empresaSubs" type="text" placeholder="Empresa" name="empresa">
+                                    
                                     <input id="emailSubs" type="text" placeholder="Correo electrónico" name="email">
                                 </div>
                                 
@@ -2732,7 +2733,7 @@
 
                type:"POST",
 
-               data:{"email" : $('#emailSubs').val(), "name" : $('#nameSubs').val()},
+               data:{"email" : $('#emailSubs').val(), "name" : $('#nameSubs').val(), "puesto" : $('#puestoSubs').val(), "empresa" : $('#empresaSubs').val()},
 
                dataType:"json",
                

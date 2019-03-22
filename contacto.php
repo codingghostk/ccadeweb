@@ -111,7 +111,7 @@
                     <div class="col-md-7">
 
                         <div class="main-title">
-                            <h3>Envíanos tus datos y a la brevedad nos pondremos en contacto contigo </h3>
+                            <h3 style="color:#2099bb">Envíanos tus datos y a la brevedad nos pondremos en contacto contigo </h3>
                             <p></p>
                         </div>
 
@@ -139,16 +139,17 @@
                         <div class="vc_column-inner ">
                             <div class="wpb_wrapper">
                                 <div class="cart-service">
-                                    
-                                    <h4>CONTACTO</h4>
+                                    <h3 style="color:#ffff">CONTACTO</h3>
                                     <hr>                                    
-                                    <div class="text"><b>Teléfono:</b>  (442) 213 5724 / 213 5802 Ext. 103</div>
-                                    <div class="text"><b>Email:</b>  asesores@ccade.com.mx </div>
+                                    <div class="text">
+                                      <span style="font-size: 18px"><b>Teléfono:</b>  (442) 213 5724 / 213 5802 Ext. 103</span>
+                                    </div>
+                                    <div class="text"><span style="font-size: 18px"><b>Email:</b>  asesores@ccade.com.mx </span></div>
                                     <div class="social-icons">
-                                    <a href="#." class="fb"><i class="icon-euro"></i></a>
-                                    <a href="#." class="tw"><i class="icon-yen"></i></a>
-                                    <a href="#." class="gp"><i class="icon-google-plus"></i></a>
-                                    <a href="#." class="vimeo"><i class="icon-vimeo4"></i></a>
+                                    <a href="facebook.com" class="fb"><img src="img/facebook.png" alt="Smiley face" height="10%" width="10%"></i></a>
+                                    <a href="#." class="tw"><img src="img/instagram.png" alt="Smiley face" height="10%" width="10%"></i></a>
+                                    <a href="#." class="gp"><img src="img/linkening.png" alt="Smiley face" height="10%" width="10%"></i></a>
+                                    </div>
                                 </div>
                                 
                                 </div>

@@ -77,7 +77,7 @@
                 <!-- <img src="img/about/1.jpeg" alt="New house" class="story__img--2"> -->
             </div>
             <div class="story__content">
-            <h3>DESCRIPCIÓN</h3>
+            <h3 style="color:#2099bb">DESCRIPCIÓN</h3>
                      <p>Entrenamiento de aprendizaje vivencial al aire libre, basado en metodologías de transferencia práctica, que garantizan la correcta asimilación y aplicación de los conocimientos / competencias adquiridas, para generar procesos de cambio profundos.</p>
                      <hr>
                      <p>Proceso integral que se complementa con sesiones de transferencia en las áreas de trabajo y que garantiza la aplicación real de las experiencias vividas durante el Outdoor, en las necesidades especificas del día a día dentro de la empresa.</p>

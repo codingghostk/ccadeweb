@@ -100,7 +100,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3><i>“Optimizar el Funcionamiento de las Organizaciones, Desarrollando Personas”</i></h3>
+                            <h3 style="color:#2099bb"><i>“Optimizar el Funcionamiento de las Organizaciones, Desarrollando Personas”</i></h3>
                             <!--<p>Hotel analytics (BA) is the practice of iterative, methodical exploration of an
                                 organization's data with emphasis on statistical analysis.</p>-->
                         </div>
@@ -139,7 +139,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12" align="center">
                         <div class="section-titleBar text-center">
-                            <h3>10 RAZONES POR LAS CUALES CONTRATARNOS</h3>
+                            <h3 style="color:#2099bb">10 RAZONES POR LAS CUALES CONTRATARNOS</h3>
                         </div>
                     </div>
                 </div>

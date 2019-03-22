@@ -4,6 +4,8 @@ try {
 
     $email = $_POST['email'];
     $name = $_POST['name'];
+    $puesto = $_POST['puesto'];
+    $empresa = $_POST['empresa'];
     
     //ccade 
     $list_id = '5378fb697b';
@@ -17,7 +19,9 @@ try {
         'email_address' => $email,
         'status' => 'subscribed', //pass 'subscribed' or 'pending'
         'merge_fields' => [
-            'FNAME'     => $name
+            'FNAME'     => $name,
+            'MMERGE2'     => $empresa,
+            'MMERGE3'     => $puesto
             //'LNAME'     => $data['lastname']
         ]
     ]);
