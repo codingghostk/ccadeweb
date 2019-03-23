@@ -109,7 +109,7 @@
 
                 <div class="rox">
                   <div class="main-title">
-                            <h3 style="color:#2099bb" align="center">Envíanos tus datos y a la brevedad nos pondremos en contacto contigo </h3>
+                            <h3 style="color:#2099bb" align="center">Envíanos tus datos y a la brevedad nos pondremos en contacto </h3>
                             <p></p>
                         </div>
                         <div class="row">

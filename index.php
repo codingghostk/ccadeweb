@@ -518,7 +518,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-titleBar text-center">
-                            <h3>Algunos de Nuestros Principales Clientes:</h3>
+                            <h3 style="color:#2099bb">Nuestros Principales 180 Clientes:</h3>
                             <p></p>
                         </div>
                     </div>
